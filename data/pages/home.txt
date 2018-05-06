@@ -1,14 +1,24 @@
+TODOS
+  * upgrade wiki: https://www.dokuwiki.org/install:upgrade
+  * dracarcer description
+  * uthoukar description
+  * evedale description
+  * qurea description
+  * make a timeline with actual years
+
+
 ===== Dracarcer =====
 
 TODO site description
 
 
 ==== Regions ====
-
-  * [[Evedale]]: TODO
-  * [[Istovia]]: TODO
-  * [[Kharsh]]: TODO
-  * [[Qurea]]: TODO
-  * [[Uthoukar]]: The piney forests beyond Uthoukar's city walls hide myriad dangers for the unwary adventurer
-  * [[Wrakarr]]: TODO
+  * Aidilon
+    * [[Evedale]]: TODO
+    * [[Istovia]]: TODO
+    * [[Qurea]]: TODO
+    * [[Uthoukar]]: The piney forests beyond Uthoukar's city walls hide myriad dangers for the unwary adventurer
+    * [[Wrakarr]]: TODO
+  * Ordan
+    * [[Kharsh]]: TODO
 

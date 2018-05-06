@@ -2,64 +2,53 @@
 
 {{evedale_woods.jpg?600}}
 
-TODO evedale description
+TODO evedale description; center of the continent, sandwiched between wars in istovia and death in wrakarr
+TODO shinegar's sorcerous shenanigans
 
 ==== Notable Places ====
 
-=== Dracwyn ===
-
 {{dracwyn.jpg?600}}
+{{ greywald.jpg?250}}
+=== Dracwyn ===
+The populous capital city of Dracwyn hosts Greywald Hold, home to the royal family of Evedale.
 
-TODO description; Greywald Hold
+
+{{haedleigh.jpg}}
+=== Haedleigh ===
+Dracwyn's nearby sister city of Haedleigh to the southwest has grown in recent years, becoming a large and well-established power in its own right. Commerce there is strong, despite its residents reputation for being obtusely strong-headed, and often quite inhospitable to outsiders. 
+
+
+{{fallwinter.jpg}}
+=== Fallwinter ===
+The king's right hand, the Count of Fallwinter, resides in the city's castle, and governs much of the eastern half of Evedale.
+
+
+{{foxwynne_aldmorrow.jpg}}
+=== Foxwynne and Aldmorrow ===
+The twin cities of Foxwynne and Aldmorrow sit on either side of the river Tels, and are each overseen by their respective Viscounts. As the easternmost cities in the kingdom of Evedale, Foxwynne and Aldmorrow are the primary points of trade with the country's Uthoukarian and Qurean neighbors, which blessed the cities with an abundance of wealth and prosperity not often found elsewhere in Uthoukar. However, this time of prosperity lasted only until a feud between the Viscount of Foxwynne and the Viscountess of Aldmorrow over the death of her husband began a civil war that destroyed Aldmorrow, and nearly took Foxwynne along with it. 
+
+
+{{malaemor.jpg}}
+=== Malaemor ===
+The drow city of Malaemor was built as a part of the Blackfrost Treaty that ended the war with Istovia. In return for providing Evedale with aid in the war, the Drow were permitted to build a city above the underdark fracture, in the swamps north of Dracwyn; as well as appointing one of their own as a marquis in the capitol city. Evedale's dense forests, and even murkier swamps provided enough darkness for the light-sensitive Drow to successfully establish their first true stronghold in the surface world. 
+
+
+{{fracture.jpg}}
+=== The Fracture ===
+Some time ago, in the swamps north of Dracwyn, a fissure opened up, revealing an entrance to a world previously unknown to surface dwellers: the Underdark. Many species, including the Drow, call this place home, and have built entire civilizations beneath the protection of Dracarcer's sun-laiden crust. 
+
+
+=== Darkhollow ===
+"Before you lies the city of Darkhollow: built within an expansive cavern, over a mile wide, the city is composed of several layers built atop each other, each resting on what appears to be intricate spiderwebs made of stone. The webs emit a faint glow, and are far enough apart for buildings to have been built between them atop the webs, and sometimes suspended from below. In the center of the webs is a large cylindrical structure that runs from the top of the cavern to the bottom, and through each of the layers. Many of the webs attach at stalactites and stalagmites throughout the cavern, but some parts of some of the webs run all the way to the cavern's outer walls, leading into and out of the city from other parts of the underdark."
 
 
 === Lazhani ===
-
-{{lazhani.jpg?600}}
-
-TODO description; Greywald Hold
+The small village of Lazhani sits just beyond the eastern outskirts of Dracwyn; and despite its position as an optimal trade route between the capitol and several other major cities to the east, experienced merchants will often go out of their way to avoid the town, given is unfortunate history of sickness and plague. Because of this, Lazhani relies heavily on support from Valeyard Keep a few miles to the north for its continued existence.
 
 
-=== Valeyard Keep ===
-
-TODO description; Greywald Hold
-
-
-=== Haedleigh ===
-
-TODO description; Greywald Hold
-
-
-=== Fallwinter ===
-
-TODO description; Greywald Hold
-
-
-=== Foxwynne ===
-
-TODO description; Greywald Hold
-
-{{foxwynne_aldmorrow.jpg?600}}
-
-=== Aldmorrow ===
-
-TODO description; Greywald Hold
-
-
-=== The Fracture ===
-
-{{fracture.jpg?600}}
-
-TODO description; Greywald Hold
-
-
-=== Malaemor ===
-
-{{malaemor.jpg?600}}
-
-TODO description
-
-
+=== Other Locales ===
+  * Vallbarrow: Mining town, north of Fallwinter on the border of Istovia
+  * Linhollow: Hunting outpost NE of Dracwyn
 
 
 
@@ -74,18 +63,25 @@ TODO description
   * Alyiara Daevon'lyr: Marquess of Dracwyn (post-drow) [Drow]
   * Mortag: Wizard trapped in a painting
   * Professor Richard Mortimer: Machinist from Istovia [Human]
-
+  * Eron McCallister: Warden of the Mere
 
 {{ lucius_vikander.png?150}}
 === Fallwinter ===
-  * Marcus Vailan: Member of the Court of Fallwinter [Elf]
   * Lucius Vikander: Count of Fallwinter [Human]
+  * Marcus Vailan: Member of the Court of Fallwinter [Elf]
+  * Wide-eyed Horror: Cereal killer
 
+=== Foxwynne ===
+  * Aldor Carrigan: Viscount of Foxwynne [Human]
+  * Thurgrim Ebonsteel: High Knight of Foxwynne (Abjurant Champion) [Human]
 
-=== Malaemor ===
-  * Amilicia Dalael: Drow leader (post-drow) [Drow]
+=== Aldmorrow ===
+  * Thaloneil Errington: Viscount of Foxwynne [Half-Elf]
+  * Lycelia Errington: Viscountess of Foxwynne [Elf]
+
+=== Malaemor (post-drow) ===
+  * Amilicia Dalael: Drow leader [Drow]
   * Gothras Chemra: Administrator of the Department of Personnel Acquisitions [Drow]
-
 
 === Lazhani ===
   * Iris Lazarov: Necromancer [Human]
@@ -95,14 +91,5 @@ TODO description
     * Helena Rholer-Barabus: Iris' younger sister [Human]
       * Jahled Rholer: Helena's husband [Human]
   * Elarys Brighton: Seamstress (post-drow) [Human]
-
-
-=== Foxwynne ===
-  * Aldor Carrigan: Viscount of Foxwynne [Human]
-  * Thurgrim Ebonsteel: High Knight of Foxwynne (Abjurant Champion) [Human]
-
-
-=== Aldmorrow ===
-  * TODO viscount/ess
 
 

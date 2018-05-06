@@ -1,12 +1,13 @@
 ===== Uthoukar ====
 
 TODO realm of uthoukar description; 250 mi from eastern coast (mistharbor)
+TODO mention Underkeep beneath NW Corwald prison
 
 ==== Notable Places ====
 
-=== Corwald ===
-
 {{corwald.jpg?600}}
+
+=== Corwald ===
 
 Uthoukar's capital city of Corwald is built atop a gently sloping hill, with the city's sections forming concentric rings that rise toward Castle Longspire at the center. 
 
@@ -21,34 +22,36 @@ City sections:
     * The seat of power of the Realm of Uthoukar rests firmly within the walls of Castle Longspire. From this central location, the King and his court oversee the affairs of the kingdom, and protect its interests.
 
 
-=== The Fellwood ===
+{{uthoukar_forest.jpg}}
 
-{{uthoukar_forest.jpg?600}}
+=== The Fellwood ===
 
 'The Fellwood' is the common name given to Uthoukar's piney forests; particularly those immediately surrounding Corwald. The Fell has been known to harbor bandits, beasts, and all manner of creature poised in waiting for a chance to strike at an unwary traveler. 
 
 
-=== Mistharbor ===
+{{mistharbor.jpg}}
 
-{{mistharbor.jpg?600}}
+=== Mistharbor ===
 
 Along Uthoukar's eastern coast lies the sleepy fishing village of Mistharbor. Despite being the closest port city to Corwald, the town's permanent residents often only number in the hundreds.
 
 
 ==== Notable People ====
 
+{{ uthoukar_shield_red.png?150}}
 === Corwald ===
   * Luthor Egremont: King of Uthoukar (Human)
     * Ariadne Egremont: Queen of Uthoukar, wife of Luthor (Human)
     * Anya Egremont: Princess of Uthoukar, daughter of Luthor and Ariadne (Human)
   * Rhomorn Barracks: Knight Commander of Uthoukar's military, and advisor to the king (Dwarf)
-  * Aritian Cirrusel: Mage of the high court (Aasimar)
   * Colrona: Countess (Tiefling)
     * Inabella Araphor: Handmaid to Colrona (Elf)
   * Nhazim Blackrock: Barkeep at the Wearied Stone (Dwarf)
   * Gardar Sursk: Owner of the Bone and Steel weapon shop (Half-Orc)
-  * Other citizens include: Rhazien and Margolyn Hartley, Gin and Ceri Va'Nel, Ilbo and Avicia Dostigor, Callum Carell, Hiser York, and Chuck Tanner
+  * Other citizens - Rhazien and Margolyn Hartley, Gin and Ceri Va'Nel, Ilbo and Avicia Dostigor, Callum Carell, Hiser York, and Chuck Tanner
 
+
+{{ fellmen_crest_color.png?150}}
 === Fellmen ===
 
   * Draxa: Leader of the fellmen (Tiefling)
@@ -56,6 +59,7 @@ Along Uthoukar's eastern coast lies the sleepy fishing village of Mistharbor. De
   * Fredegar Lightfoot: Rogue/scout (Halfling)
   * Tathre Nan: Healer (Elf)
   * Norveen Hillguard: Shieldmaiden (Dwarf)
+  * Other - Bhuren Palaid: Founder of the Steelbourne Collective [Goliath]
 
 === Mistharbor ===
 

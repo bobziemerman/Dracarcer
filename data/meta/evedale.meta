@@ -1,31 +1,15 @@
-a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1525125487;s:8:"modified";i:1525125487;}s:7:"creator";s:3:"Bob";s:4:"user";s:12:"bobziemerman";s:11:"last_change";a:8:{s:4:"date";i:1525125487;s:2:"ip";s:13:"50.201.218.62";s:4:"type";s:1:"C";s:2:"id";s:7:"evedale";s:4:"user";s:12:"bobziemerman";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:1945;}s:5:"title";s:7:"Evedale";s:11:"description";a:2:{s:15:"tableofcontents";a:18:{i:0;a:4:{s:3:"hid";s:7:"evedale";s:5:"title";s:7:"Evedale";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:1;a:4:{s:3:"hid";s:14:"notable-places";s:5:"title";s:14:"Notable Places";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:2;a:4:{s:3:"hid";s:7:"dracwyn";s:5:"title";s:7:"Dracwyn";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:3;a:4:{s:3:"hid";s:7:"lazhani";s:5:"title";s:7:"Lazhani";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:4;a:4:{s:3:"hid";s:13:"valeyard-keep";s:5:"title";s:13:"Valeyard Keep";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:5;a:4:{s:3:"hid";s:9:"haedleigh";s:5:"title";s:9:"Haedleigh";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:6;a:4:{s:3:"hid";s:10:"fallwinter";s:5:"title";s:10:"Fallwinter";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:7;a:4:{s:3:"hid";s:8:"foxwynne";s:5:"title";s:8:"Foxwynne";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:8;a:4:{s:3:"hid";s:9:"aldmorrow";s:5:"title";s:9:"Aldmorrow";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:9;a:4:{s:3:"hid";s:12:"the-fracture";s:5:"title";s:12:"The Fracture";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:10;a:4:{s:3:"hid";s:8:"malaemor";s:5:"title";s:8:"Malaemor";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:11;a:4:{s:3:"hid";s:14:"notable-people";s:5:"title";s:14:"Notable People";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:12;a:4:{s:3:"hid";s:8:"dracwyn1";s:5:"title";s:7:"Dracwyn";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:13;a:4:{s:3:"hid";s:11:"fallwinter1";s:5:"title";s:10:"Fallwinter";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:14;a:4:{s:3:"hid";s:9:"malaemor1";s:5:"title";s:8:"Malaemor";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:15;a:4:{s:3:"hid";s:8:"lazhani1";s:5:"title";s:7:"Lazhani";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:16;a:4:{s:3:"hid";s:9:"foxwynne1";s:5:"title";s:8:"Foxwynne";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:17;a:4:{s:3:"hid";s:10:"aldmorrow1";s:5:"title";s:9:"Aldmorrow";s:4:"type";s:2:"ul";s:5:"level";i:4;}}s:8:"abstract";s:276:"Evedale
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1525125487;s:8:"modified";i:1525282232;}s:7:"creator";s:3:"Bob";s:4:"user";s:12:"bobziemerman";s:11:"last_change";a:8:{s:4:"date";i:1525282232;s:2:"ip";s:13:"50.201.218.62";s:4:"type";s:1:"E";s:2:"id";s:7:"evedale";s:4:"user";s:12:"bobziemerman";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:38;}s:11:"contributor";a:1:{s:12:"bobziemerman";s:3:"Bob";}s:5:"title";s:7:"Evedale";s:11:"description";a:2:{s:15:"tableofcontents";a:18:{i:0;a:4:{s:3:"hid";s:7:"evedale";s:5:"title";s:7:"Evedale";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:1;a:4:{s:3:"hid";s:14:"notable-places";s:5:"title";s:14:"Notable Places";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:2;a:4:{s:3:"hid";s:7:"dracwyn";s:5:"title";s:7:"Dracwyn";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:3;a:4:{s:3:"hid";s:9:"haedleigh";s:5:"title";s:9:"Haedleigh";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:4;a:4:{s:3:"hid";s:10:"fallwinter";s:5:"title";s:10:"Fallwinter";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:5;a:4:{s:3:"hid";s:22:"foxwynne-and-aldmorrow";s:5:"title";s:22:"Foxwynne and Aldmorrow";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:6;a:4:{s:3:"hid";s:8:"malaemor";s:5:"title";s:8:"Malaemor";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:7;a:4:{s:3:"hid";s:12:"the-fracture";s:5:"title";s:12:"The Fracture";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:8;a:4:{s:3:"hid";s:10:"darkhollow";s:5:"title";s:10:"Darkhollow";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:9;a:4:{s:3:"hid";s:7:"lazhani";s:5:"title";s:7:"Lazhani";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:10;a:4:{s:3:"hid";s:13:"other-locales";s:5:"title";s:13:"Other Locales";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:11;a:4:{s:3:"hid";s:14:"notable-people";s:5:"title";s:14:"Notable People";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:12;a:4:{s:3:"hid";s:8:"dracwyn1";s:5:"title";s:7:"Dracwyn";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:13;a:4:{s:3:"hid";s:11:"fallwinter1";s:5:"title";s:10:"Fallwinter";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:14;a:4:{s:3:"hid";s:8:"foxwynne";s:5:"title";s:8:"Foxwynne";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:15;a:4:{s:3:"hid";s:9:"aldmorrow";s:5:"title";s:9:"Aldmorrow";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:16;a:4:{s:3:"hid";s:18:"malaemor-post-drow";s:5:"title";s:20:"Malaemor (post-drow)";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:17;a:4:{s:3:"hid";s:8:"lazhani1";s:5:"title";s:7:"Lazhani";s:4:"type";s:2:"ul";s:5:"level";i:4;}}s:8:"abstract";s:279:"Evedale
 
 
 
-TODO evedale description
+TODO evedale description; center of the continent, sandwiched between wars in istovia and death in wrakarr
+TODO shinegar's sorcerous shenanigans
 
 Notable Places
 
+
+
+
 Dracwyn
 
-
-
-TODO description; Greywald Hold
-
-Lazhani
-
-
-
-TODO description; Greywald Hold
-
-Valeyard Keep
-
-TODO description; Greywald Hold
-
-Haedleigh
-
-TODO description; Greywald Hold
-
-Fallwinter
-
-TODO description; Greywald Hold";}s:8:"relation";a:2:{s:5:"media";a:7:{s:17:"evedale_woods.jpg";b:1;s:11:"dracwyn.jpg";b:1;s:11:"lazhani.jpg";b:1;s:22:"foxwynne_aldmorrow.jpg";b:1;s:12:"fracture.jpg";b:1;s:12:"malaemor.jpg";b:1;s:19:"lucius_vikander.png";b:1;}s:10:"firstimage";s:17:"evedale_woods.jpg";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1525125487;}s:7:"creator";s:3:"Bob";s:4:"user";s:12:"bobziemerman";s:11:"last_change";a:8:{s:4:"date";i:1525125487;s:2:"ip";s:13:"50.201.218.62";s:4:"type";s:1:"C";s:2:"id";s:7:"evedale";s:4:"user";s:12:"bobziemerman";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:1945;}}}
+The populous capital city of Dracwyn hosts Greywald Hold, home to the royal family of Evedale.";}s:8:"relation";a:2:{s:5:"media";a:9:{s:17:"evedale_woods.jpg";b:1;s:11:"dracwyn.jpg";b:1;s:12:"greywald.jpg";b:1;s:13:"haedleigh.jpg";b:1;s:14:"fallwinter.jpg";b:1;s:22:"foxwynne_aldmorrow.jpg";b:1;s:12:"malaemor.jpg";b:1;s:12:"fracture.jpg";b:1;s:19:"lucius_vikander.png";b:1;}s:10:"firstimage";s:17:"evedale_woods.jpg";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1525125487;s:8:"modified";i:1525282232;}s:7:"creator";s:3:"Bob";s:4:"user";s:12:"bobziemerman";s:11:"last_change";a:8:{s:4:"date";i:1525282232;s:2:"ip";s:13:"50.201.218.62";s:4:"type";s:1:"E";s:2:"id";s:7:"evedale";s:4:"user";s:12:"bobziemerman";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:38;}s:11:"contributor";a:1:{s:12:"bobziemerman";s:3:"Bob";}}}
