@@ -1,0 +1,29 @@
+====== Istovia ======
+{{istovia.jpg?650}}
+
+TODO istovia description
+-very harsh climate (cold, mountainous)
+		-daily DC 10 fort save vs point of CON damage (evens) or forstbite ‘disease’ to limb (odds)
+		-it’s not uncommon for people to lose limbs to frostbite
+			-they’re replaced with clockwork versions (DR 10/non-magic per limb, reduces effective caster level by 2 per limb)
+-highly militaristic (always at war with evedale and/or uthoukar)
+-thoecracy TODO decide religion (claims to be a military-run society, but is actually a theocracy ruled by some large and malignant church presence who pretends not to be in power but pulls all the strings)
+-hate magic (only clerics and paladins)
+-machinists instead of magic
+	-they use a lot of iron and stone golems and clockwork monsters
+	-there are other gadgeteers like rick (he came from here)
+
+==== Notable Places ====
+
+{{ brun_exterior.jpg?265}}
+{{ brun_interior.jpg?200}}
+=== Brun ===
+TODO brun description
+
+
+-----------------
+
+
+=== Nyokadi ===
+{{ nyokadi.jpg?475}}
+Nestled on a remote hill, deep in the heart of Istovia's vast expanses, lies the Luminow village of Nyokadi. It is the home of one of Aidilon's last known groups of the ancient race of Light Elves. At one point hunted almost to extinction, the peaceful Luminow now keep to themselves and their ancient traditions; but always have a warm hearth and a kind smile for any who visit their home.

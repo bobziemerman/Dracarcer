@@ -1,19 +1,14 @@
-a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1517162467;s:8:"modified";i:1525286029;}s:7:"creator";s:3:"Bob";s:4:"user";s:12:"bobziemerman";s:11:"last_change";a:8:{s:4:"date";i:1525286029;s:2:"ip";s:13:"50.201.218.62";s:4:"type";s:1:"E";s:2:"id";s:4:"home";s:4:"user";s:12:"bobziemerman";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:59;}s:11:"contributor";a:1:{s:12:"bobziemerman";s:3:"Bob";}s:5:"title";s:9:"Dracarcer";s:11:"description";a:2:{s:15:"tableofcontents";a:2:{i:0;a:4:{s:3:"hid";s:9:"dracarcer";s:5:"title";s:9:"Dracarcer";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:1;a:4:{s:3:"hid";s:7:"regions";s:5:"title";s:7:"Regions";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:313:"TODOS
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1517162467;s:8:"modified";i:1527113359;}s:7:"creator";s:3:"Bob";s:4:"user";s:12:"bobziemerman";s:11:"last_change";a:8:{s:4:"date";i:1527113359;s:2:"ip";s:13:"50.201.218.62";s:4:"type";s:1:"E";s:2:"id";s:4:"home";s:4:"user";s:12:"bobziemerman";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:53;}s:11:"contributor";a:1:{s:12:"bobziemerman";s:3:"Bob";}s:5:"title";s:9:"Dracarcer";s:11:"description";a:2:{s:15:"tableofcontents";a:2:{i:0;a:4:{s:3:"hid";s:9:"dracarcer";s:5:"title";s:9:"Dracarcer";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:20:"continents-countries";s:5:"title";s:22:"Continents / Countries";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:367:"TODOS
 
 	*  upgrade wiki: <https://www.dokuwiki.org/install:upgrade>
 	*  dracarcer description
-	*  uthoukar description
-	*  evedale description
-	*  qurea description
+	*  clean up istovia
+	*  change uthoukar to hartland
 	*  make a timeline with actual years
 
 Dracarcer
 
 TODO site description
 
-Regions
-
-	*  Aidilon
-		*  Evedale: TODO
-		*  Istovia: TODO
-		*  Qurea: TODO";}s:8:"relation";a:2:{s:10:"references";a:6:{s:7:"evedale";b:1;s:7:"istovia";b:0;s:5:"qurea";b:1;s:8:"uthoukar";b:1;s:7:"wrakarr";b:0;s:6:"kharsh";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1517162467;s:8:"modified";i:1525286029;}s:7:"creator";s:3:"Bob";s:4:"user";s:12:"bobziemerman";s:11:"last_change";a:8:{s:4:"date";i:1525286029;s:2:"ip";s:13:"50.201.218.62";s:4:"type";s:1:"E";s:2:"id";s:4:"home";s:4:"user";s:12:"bobziemerman";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:59;}s:11:"contributor";a:1:{s:12:"bobziemerman";s:3:"Bob";}}}
+TODO rule change section
+-Dragonborn not present in 3.5/scarce in 5e because M dragon+F human=draconic sorc; F dragon +M human=dragonborn (5 only?)";}s:8:"relation";a:2:{s:10:"references";a:6:{s:7:"evedale";b:1;s:7:"istovia";b:1;s:5:"qurea";b:1;s:8:"uthoukar";b:1;s:7:"wrakarr";b:1;s:6:"kharsh";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1517162467;s:8:"modified";i:1527113359;}s:7:"creator";s:3:"Bob";s:4:"user";s:12:"bobziemerman";s:11:"last_change";a:8:{s:4:"date";i:1527113359;s:2:"ip";s:13:"50.201.218.62";s:4:"type";s:1:"E";s:2:"id";s:4:"home";s:4:"user";s:12:"bobziemerman";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:53;}s:11:"contributor";a:1:{s:12:"bobziemerman";s:3:"Bob";}}}
