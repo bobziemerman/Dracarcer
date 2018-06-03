@@ -1,25 +1,21 @@
-TODOS
-  * upgrade wiki: https://www.dokuwiki.org/install:upgrade
-  * dracarcer description
-  * clean up istovia
-  * change uthoukar to hartland
-  * make a timeline with actual years
-
-
 ====== Dracarcer ======
 
-TODO site description
-
-TODO rule change section
--Dragonborn not present in 3.5/scarce in 5e because M dragon+F human=draconic sorc; F dragon +M human=dragonborn (5 only?)
+Dracarcer is a fantasy roleplaying setting originally build for D&D, and assumes and is accommodating of most of the basic D&D campaign settings and rules for races, alignments, monsters, spells, etc. However, it is set in the regions described below, and has a small set of related changes to elements of the lore and mechanics.
 
 
 ==== Continents / Countries ====
   * Aidilon
-    * [[Evedale]]: The darkness of Aidilon calls Evedale home, and evils await within every shadow
-    * [[Istovia]]: The harsh, cold mountains of Istovia have no pity for the weak, and no magics will save you there
-    * [[Qurea]]: The sunny and magical realm of Qurea promises bounty and happiness to all who play its Game
-    * [[Uthoukar]]: The piney forests beyond Uthoukar's city walls hide myriad dangers for the unwary adventurer
-    * [[Wrakarr]]: Beware the Gates of Wrakarr: you will never return
+    * [[Regions:Evedale]]: The darkness of Aidilon calls Evedale home, and evils await within every shadow
+    * [[Regions:Istovia]]: The terrain of Istovia is cold, harsh, and rough; just like its people
+    * [[Regions:Neeru]]: TODO
+    * [[Regions:Qurea]]: The sunny and magical realm of Qurea promises bounty and happiness to all who play its Game
+    * [[Regions:Hartland]]: The piney forests beyond Hartland's city walls hide myriad dangers for the unwary adventurer
+    * [[Regions:Wrakarr]]: Beware the Gates of Wrakarr: you will never return
   * Ordan
-    * [[Kharsh]]: The sun-laiden plains of Kharsh will test your mettle and decide your worth
+    * [[Regions:Kharsh]]: The sun-laiden plains of Kharsh will test your mettle and decide your worth
+    * [[Regions:Ku'nogar]]: A mysterious land to the far east, its secrets shrouded in mist
+
+
+==== Rule/Lore Changes ====
+  * As this campaign setting is used for versions of D&D where the dragonborn race is both common and uncommon, in Dracarcer, they are generally considered rare, but not unheard of; and are about as common as a high level hero of any individual class would be. The origins of dragonborn and draconic sorcerers are opposite sides of the same circumstance: when a male dragon in humanoid form mates with a female humanoid, the subsequent line will be draconic sorcerers; when a female dragon in humanoid form mates with a male humanoid, the subsequent line will be dragonborn.
+  * The origins of the various sub-races of Elf are different in Dracarcer than in traditional D&D lore; but their overall mechanics and culture are left largely untouched

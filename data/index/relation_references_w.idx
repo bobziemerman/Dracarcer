@@ -1,5 +1,5 @@
 start
-wiki:syntax
+wiki-syntax
 sidebar
 playground:playground
 wiki:pagename
@@ -9,6 +9,19 @@ wiki:dokuwiki
 evedale
 istovia
 qurea
-uthoukar
+regions:uthoukar
 wrakarr
 kharsh
+hartland
+ku-nogar
+timeline
+admin:timeline
+regions:evedale
+regions:istovia
+regions:qurea
+regions:hartland
+regions:wrakarr
+regions:kharsh
+regions:ku-nogar
+regions:aidilon
+regions:neeru
