@@ -2,7 +2,10 @@
 
 {{:uthoukar_forest.jpg?675}}
 
-The noble realm of Hartland is in many ways a balancing point within Dracarcer. It is neither the harsh, cold, magicless mountains of Istovia to the north; nor the lush, arcane groves and beaches of Qurea to the south. And it hosts neither the dark, unknowable evils of Evedale to the west, nor the open, unbridled aggression found in plains of Kharsh across the sea to the East. There are many things to be found in Hartland: magics, simple pleasures, common folk, and unexpected adventures. It is often what you expect, and yet can always surprise you. 
+The noble kingdom of Hartland is in many ways a balancing point within Dracarcer. It is neither the harsh, cold, magicless mountains of Istovia to the north; nor the lush, arcane groves and beaches of Qurea to the south. And it hosts neither the dark, unknowable evils of Evedale to the west, nor the open, unbridled aggression found in plains of Kharsh across the sea to the East. There are many things to be found in Hartland: magics, simple pleasures, common folk, and unexpected adventures. It is often what you expect, and yet can always surprise you. 
+
+
+-----------------------------------------------------------------------
 
 
 ==== Notable Places ====
@@ -38,8 +41,8 @@ Along Hartland's eastern coast lies the sleepy fishing village of Mistharbor. De
 === Corwald ===
   * Nobility
     * Luthor Egremont: King of Hartland [Human M]
-      * Ariadne Egremont: Queen of Hartland, wife of Luthor [Human F]
-      * Anya Egremont: Princess of Hartland, daughter of Luthor and Ariadne [Human F]
+      * Marielle Egremont: Queen of Hartland, wife of Luthor [Human F]
+      * Damias Egremont: Prince of Hartland, son of Luthor and Marielle [Human M]
     * Luxus Colrona: Countess of Corwald [Aasimar F]
       * Inabella Araphor: Handmaid to Colrona [High Elf F]
   * Shopkeepers
@@ -72,3 +75,13 @@ Along Hartland's eastern coast lies the sleepy fishing village of Mistharbor. De
   * Belreak: Owner of Belreak's Tavern [Halfling M]
   * Erisell Vysaren: Barmaid at Belreak's [High Elf F]
     * Delphonee Vysaren: Erisell's daughter, also a barmaid at Belreak's [Half-Elf F]
+
+
+-------------------------------------------------------------
+
+
+==== Deities ====
+  * (G) Na'issa: Goddess of Halflings/Gnomes, Light, and Life
+  * (N) Kairys: Goddess of Elves, Arcana, and Knowledge (sister to Kantos)
+  * (N) Edda: Goddess of Dwarves, Strength, and the Forge
+  * (E) Kantos: God of Humans/Orcs, Death/the Grave, and War/Zeal (brother to Kairys)

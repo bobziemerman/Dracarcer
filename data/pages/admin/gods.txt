@@ -1,0 +1,49 @@
+====== The Gods ======
+
+===== Maha'ai =====
+
+Before recorded history, there was a group known as the Maha'ai, consisting of some of the greatest Mages of the Word. They each dedicated such focus to studying a specific facet of magic, that, as they grew in power over the subsequent millennia, they came to physically embody their chosen field of study. Over time, they became immortal and modified their material forms as they saw fit, becoming unrecognizable as the beings they once were. 
+
+Eventually, they grew to such power that the five great races allied together in self-preservation to banish them through the southern gates, ridding the world of many of its most powerful, near elemental forces. However, some were either too powerful or not powerful enough to be pulled by the region's call, and remain on Aidilon today. But even from the planes beyond, the Maha'ai soon learned to reach back across the great divide, and began influencing their former homeland in the hopes of reclaiming it when the mortals' magic ran out, and they could return to conquer Aidilon once again.
+
+
+===== Magic =====
+
+Magic comes from one of three sources in Dracarcer:
+  * Direct manipulation of the Weave (Bards, Wizards)
+  * Internal power granted by some other source (Sorcerers, Warlocks)
+  * Asking a more powerful entity to cast magic for you (Clerics, Druids, Paladins)
+
+In the third case, all clerics, druids, and paladins are appealing to a Maha'ai. For clerics and paladins, it is the true identity of their chosen deity, and for druids it is Na'eisai.
+
+
+===== Beings =====
+
+All Maha'ai are ultimately self interested, and therefore evil. Some of the most powerful are listed below, and all were banished to other planes except for Na'eisai. 
+
+  * **(Lawful) Edafos (ground): Earth, land, solids**
+    * Aliases: Dathos, Edda, Hroknar
+    * Domains: Cities, The Forge
+  * **(Lawful) Eirini (peace): Peace, harmony, rest**
+    * Aliases: Airin, Erony
+    * Domains: Order, Protection, Solidarity
+  * **(Lawful) Fos (light): Light, knowledge**
+    * Aliases: Faus, Kairys
+    * Domains: Arcana, Knowledge, Light
+
+  * **(Neutral) Na'eisai (being): Life, creation**
+    * Aliases: Na'issa, Mother Nature
+    * Domains: Life, Nature
+  * **(Neutral) Akamptos (unbeing): Death, entropy**
+    * Aliases: Kantos
+    * Domains: Death, the Grave
+  * **(Neutral) Exousia (power): Strength, energy**
+    * Aliases: Exhus, Xusia
+    * Domains: Ambition, Strength, the Tempest, Zeal
+  * **(Neutral) Thalassa (sea): Water, oceans, liquid**
+
+  * **(Chaotic) Polemos (war): Fire, chaos, strife, destruction**
+    * Aliases: Khorzh, Palamus
+    * Domains: Trickery, War
+  * **(Chaotic) Anemos (wind): Air, movement, gases**
+  * **(Chaotic) Skotadi (darkness): Darkness, confusion, secrets**

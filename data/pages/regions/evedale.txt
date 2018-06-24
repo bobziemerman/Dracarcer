@@ -1,7 +1,11 @@
 ====== Evedale ======
 {{:evedale_woods.jpg?670}}
 
-Few choose to live within the Kingdom of Evedale's dark and often ominous borders; it is simply the hand they were dealt by fate. For reasons unknown, greater misfortune seems to fall upon the country's inhabitants than on people elsewhere, and all manner of malice and ill-intent finds itself drawn to Evedale's lands. Perhaps it has something to do with the country's proximity to Wrakarr, or maybe it's just an ongoing sense of dread over the recurring wars with Istovia; but something about Evedale is decidedly... unwelcoming.
+Few choose to live within the dominion of Evedale's dark and often ominous borders; it is simply the hand they were dealt by fate. For reasons unknown, greater misfortune seems to fall upon the country's inhabitants than on people elsewhere, and all manner of malice and ill-intent finds itself drawn to Evedale's lands. Perhaps it has something to do with the country's proximity to Wrakarr, or maybe it's just an ongoing sense of dread over the recurring wars with Istovia; but something about Evedale is decidedly... unwelcoming.
+
+
+-----------------------------------------------------------------------
+
 
 ==== Notable Places ====
 
@@ -36,7 +40,7 @@ The small hunting village of Lazhani sits just beyond the eastern outskirts of D
 
 {{ :foxwynne_aldmorrow.jpg?500}}
 === Foxwynne and Aldmorrow ===
-The twin cities of Foxwynne and Aldmorrow sit on either side of the river Tels, and are each overseen by their respective Viscounts. As the easternmost cities in the kingdom of Evedale, Foxwynne and Aldmorrow are the primary points of trade with the country's Uthoukarian and Qurean neighbors, which has blessed the cities with an abundance of wealth and prosperity not often found elsewhere in Uthoukar. However, this time of prosperity lasted only until a feud between the Viscount of Foxwynne and the Viscountess of Aldmorrow over the death of her husband began a civil war in 9935 that destroyed Aldmorrow, and nearly took Foxwynne along with it. 
+The twin cities of Foxwynne and Aldmorrow sit on either side of the river Tels, and are each overseen by their respective Viscounts. As the easternmost cities in the dominion of Evedale, Foxwynne and Aldmorrow are the primary points of trade with the country's Uthoukarian and Qurean neighbors, which has blessed the cities with an abundance of wealth and prosperity not often found elsewhere in Uthoukar. However, this time of prosperity lasted only until a feud between the Viscount of Foxwynne and the Viscountess of Aldmorrow over the death of her husband began a civil war in 9935 that destroyed Aldmorrow, and nearly took Foxwynne along with it. 
 
 
 -------------------------------------------
@@ -63,6 +67,8 @@ In 9935, in the swamps north of Dracwyn, a fissure opened up, revealing an entra
   * Vallbarrow: Mining town, north of Fallwinter on the border of Istovia
   * Linhollow: Hunting outpost NE of Dracwyn
 
+
+-----------------------------------------------------------------------
 
 
 ==== Notable People ====
@@ -117,3 +123,11 @@ In 9935, in the swamps north of Dracwyn, a fissure opened up, revealing an entra
     * Elarys Brighton: Seamstress (post-drow) [Human F]
 
 
+-----------------------------------------------------------------------
+
+
+==== Deities ====
+  * (G) Na'issa: Goddess of Elves/Halflings, Light, and Life
+  * (N) Edda: God of Gnomes/Dwarves, Strength/the Forge, Knowledge/Arcana
+  * (E) Kantos: God of Humans, Death, and the Grave
+  * (E) Exhus: God of Lizardfolk, Nature, and the Tempest

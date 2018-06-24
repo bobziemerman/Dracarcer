@@ -11,63 +11,150 @@
     * With the following exceptions:
       * Aasimar/Tieflings: Deity/Human hybrids; born whenever, wherever
       * Dragonborn: Dragon/Human hybrids; born whenever, wherever
+  * Real world language analogs
+    * Common (human): English
+    * Dwarvish: Bulgarian
+    * Elvish: Georgian
+    * Gnomish: Filipino
+    * Halfling: Danish
+    * Orcish: Uzbek
+    * Abyssal/Celestial/Infernal (Maha'ai): Bangla
+    * Draconic (dragons, dragonborn, Lizardfolk): Armenian
+    * Primordial (most arcane magic): Greek
+    * Sylvan (Fey): Hawaiian
+    * Undercommon (underdark, drow): Xhosa
   * Massively powerful creatures beyond mortality called the Maha'ai rampage throughout the world
 
 === 1st Age ===
   * 1: 
     * The ancient races of Aidilon band together and create lures and one-way gates in the south to banish most of the the Maha'ai to other planes
     * Humans abandon their homeland in the south, spread throughout Aidilon as nomads
-  * 135: Dwarven tribes band together under the banner of the Istovian Empire
-  * 278: Istovia contacted by Hroknar, the first Maha'ai to reach back from the beyond the gates
-  * 283: The Church of Hroknar becomes widespread across Istovia
+  * **Istovia**
+    * 135: Dwarven tribes band together under the banner of the Istovian Empire
+    * 278: Istovia contacted by Hroknar, the first Maha'ai to reach back from the beyond the gates
+    * 283: The Church of Hroknar becomes widespread
 
 === 2nd Age ===
-  * 1,739: Dwarves discover a rare, magic-resistant element, Valthril, in the mountains of Istovia
+  * **Istovia**
+    * 1,739: Dwarves discover a rare, magic-resistant element, Valthril, in the mountains
 
 === 3rd Age ===
-  * 2,184: Istovia has a Valthril-fueled mechanical renaissance; invades and conquers most of Aidilon
-  * 2,213: Istovia invades and conquers most of Aidilon
-  * 2,244: Istovian Empire repatriates its citizens in an attempt to erase all non-Istovian culture
-  * 2,689: Istovia formally bans all arcane magic
-  * 2,706: Uprisings across Aidilon overthrow Istovia and push them back to the north
-  * 2,728: The Kingdom of Evedale, the Realm of Hartland, and the Qurean Polity are all formed to defend against future threats; establish peace treaties with each other
-  * 2,980: Drow, now a fully distinct sub-race, are forced into Underdark, take the Bloodwell with them
+  * **Evedale**
+    * 2,706-2,727: Uprisings push Istovian forces north, back to the mountains
+    * 2,728: The Dominion of Evedale is formed to defend against future threats, and establishes alliances with Hartland and Qurea
+  * **Hartland**
+    * 2,706-2,727: Uprisings push Istovian forces north, back to the mountains
+    * 2,728: The Kingdom of Hartland is formed to defend against future threats, and establishes alliances with Evedale and Qurea
+  * **Istovia**
+    * 2,184: Istovia has a Valthril-fueled mechanical renaissance
+    * 2,213: Istovia invades and conquers most of Aidilon
+    * 2,244: Istovian Empire repatriates its citizens in an attempt to erase all non-Istovian culture
+    * 2,689: Istovia formally bans all arcane magic
+  * **Qurea**
+    * 2,705-2,727: Uprisings push Istovian forces north, back to the mountains
+    * 2,728: The Qurean Polity is formed to defend against future threats, and establishes alliances with Evedale and Hartland
+  * **Wrakarr**
+    * 2,980: The Drow, now a fully distinct sub-race, are forced into Underdark, and take the Bloodwell with them
 
 === 4th Age ===
-  * TODO
+  * **Evedale**
+    * TODO
+  * **Hartland**
+    * TODO
+  * **Istovia**
+    * TODO
+  * **Qurea**
+    * 3,476: The first Orcs land on the shores of Qurea, overwhelming the spellcasters with their brutish might
+    * 3,482: The orcs strike a truce with Qurea, are granted lands to the south, and become citizens. 
 
 === 5th Age ===
-  * 4,637: Drow create the Veil of Night and hunt Luminow almost to extinction; Luminow steal the Veil and retreat to Istovia, leaving the Wellspring behind
+  * **Evedale**
+    * TODO
+  * **Hartland**
+    * TODO
+  * **Istovia**
+    * TODO
+  * **Qurea**
+    * TODO
+  * **Wrakarr**
+    * 4,637-4,640: The Drow create the Veil of Night and hunt the Luminow almost to extinction
+    * 4,640: The Luminow steal the Veil and retreat to Istovia, leaving the Wellspring behind
 
 === 6th Age ===
-  * 5,192: Qurean mages studying the gates of Wrakarr find the Wellspring and move it to their homeland
+  * **Evedale**
+    * TODO
+  * **Hartland**
+    * TODO
+  * **Istovia**
+    * TODO
+  * **Qurea**
+    * 5,192: Qurean mages studying the gates of Wrakarr find the Wellspring and move it to their homeland
 
 === 7th Age ===
-  * TODO
+  * **Evedale**
+    * 6,584: Lizardfolk in the marshy southwest, often used as beasts of labor, achieve a level of sentience and begin forming primitive societies
+    * 6,732: Evedale increases use of Lizardfolk slaves due to their higher capacity for intelligence
+  * **Hartland**
+    * TODO
+  * **Istovia**
+    * TODO
+  * **Qurea**
+    * TODO
 
 === 8th Age ===
-  * TODO
+  * **Evedale**
+    * 7,234: Several large tribes of Lizardfolk from the southwest organize into a loose confederation called the Anschluss. They claim their independence from Evedale, and their native territory as their own
+    * 7,235: Evedale marches to the southwest to quell the Lizardfolk rebellion
+    * 7,242: After years at war with the Lizardfolk, the Kingdom of Evedale concedes territory to the southwest and recognizes the Anschluss as an independent state
+    * 7,286: Lizardfolk slavery is banned in Evedale
+  * **Hartland**
+    * TODO
+  * **Istovia**
+    * 7,134: Istovia declares war on Hartland (TODO flesh out, pick end point, add more)
+  * **Qurea**
+    * TODO
 
 === 9th Age ===
-  * TODO
+  * **Evedale**
+    * TODO
+  * **Hartland**
+    * TODO
+  * **Istovia**
+    * TODO
+  * **Qurea**
+    * TODO
 
 === 10th Age ===
-  * 9,898: Lucius Vikander finds the Bloodwell abandoned in the Underdark, takes it to Fallwinter
-  * 9,934: Istovia declares war on Evedale
-  * 9,935: 
+  * **Evedale**
+    * 9,898: Lucius Vikander finds the Bloodwell abandoned in the Underdark, takes it to Fallwinter
+    * 9,926: A plague sweeps Evedale, killing many, especially in Lazhani
     * **CAMPAIGN**: Bloodwell (count spookula)
-    * Foxwynne/Aldmorrow civil war begins
-    * Underdark fracture opens north of Dracwyn
-  * 9,936: 
+      * 9,935: 
+        * Foxwynne/Aldmorrow civil war begins
+        * Underdark fracture opens north of Dracwyn
     * **CAMPAIGN**: Blackfrost (underdark)
-    * Princess Emmalene Pardington kidnapped and rescued
-  * 9,939: Aldmorrow falls to demons
-  * 9,941: 
-    * Lucius Vikander assumes the throne of Evedale
-    * Blackfrost Treaty signed, allying Evedale with the Drow
-  * 9,942: 
-    * Evedale pushes Istovia back north, and ends the war
-    * Rhazien Hartley discovers the Chalice of Fate and begins altering the world
-  * 9,945: **CAMPAIGN:** Chalice of Fate
-  * 9,946: **CAMPAIGN**: Veil of Night
-  * 10,000: The seal reverses on the gates of Wrakarr, the Maha'ai return, the apocalypse happens
+      * 9,936: 
+        * Drow begin establishing Malaemor
+        * Princess Emmalene Pardington kidnapped by the Drow and rescued
+    * 9,939: Aldmorrow falls to demons
+    * 9,941: 
+      * Lucius Vikander assumes the throne
+      * Blackfrost Treaty signed, allying Evedale with the Drow
+    * 9,942: 
+      * Evedale pushes Istovia back north with the help of the Drow, ending the war
+      * Rhazien Hartley discovers the Chalice of Fate and begins altering the world
+    * 9,946: **CAMPAIGN**: Veil of Night
+  * **Hartland**
+    * 9,945: **CAMPAIGN:** Chalice of Fate (Hartland section)
+      * Bandits in the east organize into the Steelbourne Collective, start claiming territory on the east coast
+      * Prince Damias Egremont goes missing
+  * **Istovia**
+    * 9,934: Istovia declares war on Evedale
+  * **Qurea**
+    * 9,945: **CAMPAIGN:** Chalice of Fate (Qurean section)
+      * Unknown genocidal individuals nearly wipe out the village of Rakesk
+      * Qurea temporarily bans black magic (warlocks, necromancy, undead, etc.)
+      * A radical anarchist group drops the magisterium into the sea
+
+  * **Wrakarr**
+    * 10,000: The seal reverses on the gates of Wrakarr, the Maha'ai return, the apocalypse happens

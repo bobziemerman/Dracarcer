@@ -1,21 +1,78 @@
 ====== Dracarcer ======
-
 Dracarcer is a fantasy roleplaying setting originally build for D&D, and assumes and is accommodating of most of the basic D&D campaign settings and rules for races, alignments, monsters, spells, etc. However, it is set in the regions described below, and has a small set of related changes to elements of the lore and mechanics.
 
 
 ==== Continents / Countries ====
-  * Aidilon
-    * [[Regions:Evedale]]: The darkness of Aidilon calls Evedale home, and evils await within every shadow
-    * [[Regions:Istovia]]: The terrain of Istovia is cold, harsh, and rough; just like its people
-    * [[Regions:Neeru]]: TODO
-    * [[Regions:Qurea]]: The sunny and magical realm of Qurea promises bounty and happiness to all who play its Game
-    * [[Regions:Hartland]]: The piney forests beyond Hartland's city walls hide myriad dangers for the unwary adventurer
-    * [[Regions:Wrakarr]]: Beware the Gates of Wrakarr: you will never return
-  * Ordan
-    * [[Regions:Kharsh]]: The sun-laiden plains of Kharsh will test your mettle and decide your worth
-    * [[Regions:Ku'nogar]]: A mysterious land to the far east, its secrets shrouded in mist
+{{ aidilon.png?450}}
+
+=== Aidilon ===
+  * [[Regions:Anschluss]]: The swamp tribes of the Anschluss welcome few into their turf
+  * [[Regions:Evedale]]: The darkness of Aidilon calls Evedale home, and horrors await within every shadow
+  * [[Regions:Hartland]]: The piney forests beyond Hartland's city walls hide myriad dangers for the unwary adventurer
+  * [[Regions:Istovia]]: The terrain of Istovia is cold, harsh, and rough; just like its people
+  * [[Regions:Neeru]]: Sunken wonders and rising seas dot the landscape at the bottom of the ocean
+  * [[Regions:Qurea]]: The sunny and magical realm of Qurea promises bounty and happiness to all who play its deadly Game
+  * [[Regions:Wrakarr]]: Beware the Gates of Wrakarr: you will never return
+
+=== Ordan ===
+  * [[Regions:Kharsh]]: The sun-laiden plains of Kharsh will test your mettle and decide your worth
+  * [[Regions:Ku'nogar]]: A mysterious land to the far east, its secrets shrouded in mist
 
 
-==== Rule/Lore Changes ====
-  * As this campaign setting is used for versions of D&D where the dragonborn race is both common and uncommon, in Dracarcer, they are generally considered rare, but not unheard of; and are about as common as a high level hero of any individual class would be. The origins of dragonborn and draconic sorcerers are opposite sides of the same circumstance: when a male dragon in humanoid form mates with a female humanoid, the subsequent line will be draconic sorcerers; when a female dragon in humanoid form mates with a male humanoid, the subsequent line will be dragonborn.
-  * The origins of the various sub-races of Elf are different in Dracarcer than in traditional D&D lore; but their overall mechanics and culture are left largely untouched
+==== Mechanical changes ====
+
+  * (Optional) A **Bard's choice of instrument type** can tell you a lot about their personality:
+    * Percussion: Bards who play percussive instruments are often boisterous and love to be heard. A bard wielding one of these can cast Thunderwave once per long rest.
+    * String: Bards wielding string instruments are very in tune with others around them, and can intuitively harmonize with the vibrations of their environment. They can cast Longstrider once per long rest.
+    * Wind: The whimsical and erratic Bards who play wind instruments can often be hard to predict or contain; and have the ability to cast Feather Fall once per long rest.
+
+  * (Optional) ** Druids ** belong to many types of Circles, but each druid of the land usually holds one type of tree sacred above all others: Oak, Ash, or Hawthorn. The druid receives a +1 to their spellcasting modifier when they are within 30ft of their type of sacred tree, and receives a 1st level spell they can use once per long rest. Some high level Druid spells also require the presence of a Druid from each of the three branches to cast properly.
+    * Oak: Druids who revere Oak are often strong and hardy, enduring nature's harsher side with ease. Oaken Druids can cast Absorb Elements once per long rest.
+    * Ash: Druids of Ash tend to be wise and compassionate, vigilantly caring for all of life's creatures. They can cast Cure Wounds once per long rest. 
+    * Hawthorn: Stories say that the Fey have close ties to the hawthorn tree; and Druids of the Thorn tend to display similar mercurial tendencies. They can cast Faerie Fire once per long rest.
+
+  * (Optional) A **Fighter's source of training** can have a palpable effect on their fighting style, and can confer one of the following effects:
+    * Military: Advantage on diplomacy checks with the faction that trained you, but disadvantage with any currently warring factions
+    * Cultural: You are awarded inspiration when fighting against someone of the same training background, up to once per day (this training could be racial, societal, familial, etc.)
+    * Private lessons: +1 to attack bonus when in 1v1 combat, but -1 to attack bonus when using multiattack on different targets in the same round
+    * Self-taught: +1 to insight checks made about fighting or weapons, but -1 to history checks made about fighting or weapons
+
+  * Some beings in Dracarcer (notably in Istovia) have mechanical body parts, often made with with the magic-resistant element **Valthril**, which allows for the creation of advanced circuitry. Certain constructs and machines are made with this element as well; and it confers three levels of magic-resistance (which stack), depending on the amount of Valthril present (for biological creatures, this is often tracked by the number of major body parts replaced):
+    * +25% / 1+ body parts
+      * Cannot be effected by a single spell for more than one round at a time
+      * Cannot maintain spell concentration
+      * Gearboxes (mechanical repair/augment devices analogous to potions) have no effect
+    * +50% / 2+ body parts
+      * Advantage on saves to resist magic
+      * Disadvantage when casting spells, excluding rituals and spell scrolls
+      * All damage or healing from spells you cast is minimized (always take lowest values on dice)
+      * Potion effects are halved
+      * Gearbox effects are halved
+    * +75% / 3+ body parts, or majority of body
+      * Resistance to magic damage/healing
+      * Cannot cast spells
+      * Potions have no effect
+      * Gearboxes have full effect
+
+  * **Abyssal, Celestial, and Infernal** are all the same language in Dracarcer; if you are know more than one, you may trade out for something else
+
+
+==== General setting lore ====
+
+  * Dracarcer's **calendar year** is broken up into four seasons of 100 days each, and each has a holiday on its first day (which may vary by country, and often lasts a tenday). They are:
+    * The Greening (spring)
+      * The Dawning Festival: a celebration of emergence from winter and the beginning of the planting season
+    * Elysias (summer)
+      * Shieldmeet: a competition of skill between the allied nations of Evedale, Hartland, and Qurea
+      * The Pilgrimage: Istovians are encouraged to travel to Valspart (or the closest large church of Hroknar)
+      * Urag: a contest of champions in Kharsh, involving a series of single elimination fights to the death
+    * The Gather (fall)
+      * The Feast of the Gather: a celebration of the year's harvest
+    * Calignos (winter)
+      * Hearthrest: a time of resting and preparation for the cold nights ahead
+
+  * As this campaign setting is used for versions of D&D where the **dragonborn** race can be either common or uncommon, in Dracarcer, they are generally considered rare, but not unheard of; and are about as common as a high level hero of any specific class would be. The origins of dragonborn and draconic sorcerers are opposite sides of the same circumstance: when a male dragon in humanoid form mates with a female humanoid, the subsequent line will be draconic sorcerers; when a female dragon in humanoid form mates with a male humanoid, the subsequent line will be dragonborn. In either case, the body comes from the mother, and the spirit/magic comes from the father. The half-dragons that exist in some versions of D&D would fall under the speciation of dragonborn, though they may be an unusual variant (perhaps they are a more immediately or distantly related descendant of their draconic ancestor).
+
+  * The historical origins of the various **sub-races of Elf** are different in Dracarcer than in traditional D&D lore; but their overall mechanics and culture are left largely untouched.
+
+  * **Thieves' Cant** uses the dialogue described in [[https://drive.google.com/file/d/1y7tESSZaf39gW6uUjBDAXFb7zOOsUJb-/view?usp=sharing|this document]]

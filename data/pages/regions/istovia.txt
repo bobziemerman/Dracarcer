@@ -3,9 +3,14 @@
 
 The terrain of Istovia is cold, harsh, and rough; just like its people. The environment makes for hardy citizens, but no mortal body was built to withstand the region's bitter cold. In fact, losing entire limbs to frostbite is rather common, and has forced the people of Istovia to innovate in order to thrive. 
 
-Having turned their backs on the vile corruptions of magic, Istovians rely upon their god and upon their gears; and when Hroknar deems a limb unworthy of protection from the bitter cold, the people of Istovia honor him by crafting their own in its place. Intricate clockwork and gears, made with the rare, holy element Valthril, make for a fine replacement for the frail machines of flesh they are cursed with at birth. Most people who have lived in Istovia for more than a handful of years have at least one mechanical limb, and some have shown such dedication to their god that what remains of their original bodies is almost indistinguishable from the iron golems that are so common throughout the empire. And in return, Hroknar blesses these people with a resistance to the magical taint, whenever it should rear its ugly head. 
+{{ bloodstone.jpg?180}}
 
-The god of blood, ice, and stone is a benevolent one, and his followers in Istovia are many. The Church of Hroknar sees to it that no Child of Blood and Stone is left wanting, and spends its rubies on taking care of the poorest and most destitute of its flock. The Heald also offer their blessed and wise political council, and act as a guiding hand to the leaders of this great nation, as they bring Hroknar's light to the world beyond. 
+Having turned their backs on the vile corruptions of magic, Istovians rely upon their god and upon their gears; and when Hroknar deems a limb unworthy of protection from the bitter cold, the people of Istovia honor him by crafting their own in its place. Intricate clockwork and gears, made with the rare, holy element Valthril, make for a fine replacement for the frail machines of flesh they are given at birth. Most people who have lived in Istovia for more than a handful of years have at least one mechanical limb, and some have shown such dedication to their god that what remains of their original bodies is almost indistinguishable from the iron golems that are so common throughout the empire. And in return, Hroknar blesses these people with a resistance to the magical taint, whenever it should rear its ugly head. 
+
+The god of blood, ice, and stone is a benevolent one, and his followers in Istovia are many. The Church of Hroknar sees to it that no Child of Blood and Stone is left wanting, and spends its bloodstones on taking care of the poorest and most destitute of its flock. The Heald also offer their blessed and wise political council, and act as a guiding hand to the leaders of this great nation, as they bring Hroknar's light to the world beyond. 
+
+
+-----------------------------------------------------------------------
 
 
 ==== Notable Places ====
@@ -13,16 +18,23 @@ The god of blood, ice, and stone is a benevolent one, and his followers in Istov
 {{ :brun_exterior.jpg?265}}
 {{ :brun_interior.jpg?200}}
 === Brun ===
-Istovia's capital city of Brun acts as the beating heart of the empire, and is the epicenter for mechanical innovation and holy writ. Much of the day to day labor required to keep the city running is carried out by the city's small army of iron and stone golems, leaving the city's inhabitants the time to focus on expanding the country's holdings in the uncivilized parts of Aidilon further south. 
+Istovia's capital city of Brun acts as the beating heart of the empire, and is the epicenter for mechanical innovation and holy writ. It sits atop multiple mountain ranges in Istovia's north, with railway bridges spanning the huge chasms that divide the major city sections. Much of the day to day labor required to keep the city running is carried out by the city's small army of iron and stone golems, leaving the city's inhabitants the time to focus on expanding the country's holdings in the uncivilized parts of Aidilon further south. 
 
-Brun is also the home of the Heald: the council of the nine Archprelates that bear the responsibility of guiding and overseeing the whole of the church of Hroknar. They, in turn, delegate responsibilities to the Church's Prelates, who rely on the Archbishops, Bishops, Archpriests, and Priests more local to the other regions of Istovia. 
+
+-----------------
+
+{{ valspart.jpg?225}}
+=== Valspart ===
+Valspart sacellum lies beneath Brun's city peaks, deep within the heart of the mountains. It is the seat of the Heald: the council of the nine Archprelates that bear the responsibility of guiding and overseeing the whole of the church of Hroknar. They, in turn, delegate responsibilities to the Church's Prelates, who rely on the Archbishops, Bishops, Archpriests, and Priests more local to the other regions of Istovia. 
+
+The sacellum is the largest in Istovia's territories, and is almost the size of the city of Brun itself. Huge, cavernous rooms are filled with intricately carved stone statues and bloodstone-encrusted holy relics. The devoted members of the chanter's guild have been singing ceaseless songs of praise to Hroknar for longer than any Istovian has been alive. 
 
 
 -----------------
 
 
-=== Nyokadi ===
 {{ :nyokadi.jpg?475}}
+=== Nyokadi ===
 Nestled on a remote hill, deep in the heart of Istovia's vast expanses, lies the Luminow village of Nyokadi. It is the home of one of Aidilon's last known groups of the ancient race of Light Elves. At one point hunted almost to extinction, the peaceful Luminow now keep to themselves and their ancient traditions; but always have a warm hearth and a kind smile for any who visit their home.
 
 
@@ -31,9 +43,21 @@ Nestled on a remote hill, deep in the heart of Istovia's vast expanses, lies the
 
 ==== Notable People ====
 
+{{ darlgrom.jpg?150}}
 === Brun ===
   * Nobility
     * Emperor Darlgrom Kingsblood [Dwarf M]
+  * Other citizens
+    * Ebba and Saaran Greymantle: Wealthy machinists [Human M and Human F]
+
+
+------------------------------------------------
+
+
+{{ andormir.jpg?160}}
+{{ tohk.jpg?160}}
+{{ morthane.jpg?160}}
+=== Valspart ===
   * Clergy
     * The Heald
       * Archprelate Morthane Hroknar [Human M]
@@ -45,5 +69,4 @@ Nestled on a remote hill, deep in the heart of Istovia's vast expanses, lies the
       * Archprelate Findrik Hroknar [Dwarf M]
       * Archprelate Londralin Hroknar [Dwarf F]
       * Archprelate Bruthheim Hroknar [Dwarf M]
-  * Other citizens
-    * Ebba and Saaran Greymantle: Wealthy machinists [Human M and Human F]
+

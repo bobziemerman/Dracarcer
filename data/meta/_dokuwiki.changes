@@ -1,124 +1,25 @@
-1527599220	50.201.218.62	E	home	bobziemerman			27
-1527599257	50.201.218.62	C	timeline	bobziemerman	created		22
-1527599476	50.201.218.62	E	home	bobziemerman			-27
-1527599579	50.201.218.62	E	home	bobziemerman			19
-1527599596	50.201.218.62	C	admin:timeline	bobziemerman	created		29
-1527599669	50.201.218.62	D	timeline	bobziemerman	removed		-22
-1527599677	50.201.218.62	D	start	bobziemerman	removed		-14
-1527599752	50.201.218.62	E	home	bobziemerman			56
-1527599807	50.201.218.62	C	regions:evedale	bobziemerman	created		6499
-1527602894	50.201.218.62	D	regions:evedale	bobziemerman	removed		-6499
-1527603066	50.201.218.62	C	regions:evedale	bobziemerman	↷ Page moved from evedale to regions:evedale		6499
-1527603066	50.201.218.62	D	evedale	bobziemerman	↷ Page moved from evedale to regions:evedale		-6499
-1527603071	50.201.218.62	e	regions:evedale	bobziemerman	↷ Links adapted because of a move operation		9
-1527603167	50.201.218.62	C	regions:wrakarr	bobziemerman	↷ Page moved from wrakarr to regions:wrakarr		766
-1527603167	50.201.218.62	D	wrakarr	bobziemerman	↷ Page moved from wrakarr to regions:wrakarr		-766
-1527603167	50.201.218.62	C	regions:ku-nogar	bobziemerman	↷ Page moved from ku-nogar to regions:ku-nogar		19
-1527603167	50.201.218.62	D	ku-nogar	bobziemerman	↷ Page moved from ku-nogar to regions:ku-nogar		-19
-1527603167	50.201.218.62	C	regions:uthoukar	bobziemerman	↷ Page moved from uthoukar to regions:uthoukar		4132
-1527603167	50.201.218.62	D	uthoukar	bobziemerman	↷ Page moved from uthoukar to regions:uthoukar		-4132
-1527603167	50.201.218.62	C	regions:qurea	bobziemerman	↷ Page moved from qurea to regions:qurea		11001
-1527603167	50.201.218.62	D	qurea	bobziemerman	↷ Page moved from qurea to regions:qurea		-11001
-1527603167	50.201.218.62	C	regions:istovia	bobziemerman	↷ Page moved from istovia to regions:istovia		2834
-1527603167	50.201.218.62	D	istovia	bobziemerman	↷ Page moved from istovia to regions:istovia		-2834
-1527603167	50.201.218.62	C	regions:kharsh	bobziemerman	↷ Page moved from kharsh to regions:kharsh		447
-1527603167	50.201.218.62	D	kharsh	bobziemerman	↷ Page moved from kharsh to regions:kharsh		-447
-1527603167	50.201.218.62	C	regions:hartland	bobziemerman	↷ Page moved from hartland to regions:hartland		4133
-1527603167	50.201.218.62	D	hartland	bobziemerman	↷ Page moved from hartland to regions:hartland		-4133
-1527603187	50.201.218.62	D	playground:playground	bobziemerman	removed		-25
-1527603204	50.201.218.62	D	wiki:welcome	bobziemerman	removed		-1704
-1527603216	50.201.218.62	D	wiki:dokuwiki	bobziemerman	removed		-2908
-1527603306	50.201.218.62	C	wiki-syntax	bobziemerman	↷ Page moved and renamed from wiki:syntax to wiki-syntax		22261
-1527603306	50.201.218.62	D	wiki:syntax	bobziemerman	↷ Page moved and renamed from wiki:syntax to wiki-syntax		-22261
-1527603314	50.201.218.62	e	wiki-syntax	bobziemerman	↷ Links adapted because of a move operation		35
-1527603451	50.201.218.62	E	home	bobziemerman			-19
-1527603495	50.201.218.62	E	home	bobziemerman			-119
-1527604001	50.201.218.62	E	admin:timeline	bobziemerman			680
-1527604012	50.201.218.62	E	admin:timeline	bobziemerman			-14
-1527604044	50.201.218.62	e	regions:wrakarr	bobziemerman	↷ Links adapted because of a move operation		1
-1527604066	50.201.218.62	E	regions:wrakarr	bobziemerman			1
-1527604189	50.201.218.62	E	regions:wrakarr	bobziemerman			-11
-1527608670	50.201.218.62	E	home	bobziemerman			12
-1527609259	50.201.218.62	C	admin:artifacts	bobziemerman	created		83
-1527610282	50.201.218.62	E	admin:timeline	bobziemerman			217
-1527610922	50.201.218.62	E	admin:timeline	bobziemerman			314
-1527611350	50.201.218.62	e	regions:qurea	bobziemerman	↷ Links adapted because of a move operation		5
-1527611583	50.201.218.62	E	admin:artifacts	bobziemerman			1728
-1527611599	50.201.218.62	E	admin:artifacts	bobziemerman			1
-1527611618	50.201.218.62	E	admin:artifacts	bobziemerman			0
-1527612633	50.201.218.62	E	admin:artifacts	bobziemerman			65
-1527613497	50.201.218.62	E	admin:timeline	bobziemerman			187
-1527613522	50.201.218.62	E	admin:timeline	bobziemerman			-116
-1527613942	50.201.218.62	E	home	bobziemerman			5
-1527614183	50.201.218.62	E	admin:artifacts	bobziemerman			1027
-1527614882	50.201.218.62	E	admin:artifacts	bobziemerman			469
-1527615790	50.201.218.62	E	admin:artifacts	bobziemerman			837
-1527615950	50.201.218.62	E	admin:artifacts	bobziemerman			-1
-1527616025	50.201.218.62	E	admin:artifacts	bobziemerman			5
-1527616208	50.201.218.62	E	admin:artifacts	bobziemerman			8
-1527616279	50.201.218.62	E	admin:artifacts	bobziemerman			228
-1527616614	50.201.218.62	E	admin:artifacts	bobziemerman			24
-1527616955	50.201.218.62	E	admin:timeline	bobziemerman			576
-1527617249	50.201.218.62	C	admin:races	bobziemerman	created		615
-1527617434	50.201.218.62	E	admin:races	bobziemerman			-1
-1527617472	50.201.218.62	E	admin:races	bobziemerman			72
-1527617781	50.201.218.62	E	admin:timeline	bobziemerman			-405
-1527618525	50.201.218.62	E	admin:timeline	bobziemerman			189
-1527776882	50.201.218.62	E	admin:artifacts	bobziemerman			471
-1527778993	50.201.218.62	E	admin:timeline	bobziemerman			972
-1527782724	50.201.218.62	E	admin:timeline	bobziemerman			2
-1527786922	50.201.218.62	e	regions:istovia	bobziemerman	↷ Links adapted because of a move operation		4
-1527788945	50.201.218.62	E	admin:timeline	bobziemerman			142
-1527790075	50.201.218.62	E	admin:timeline	bobziemerman			338
-1527790107	50.201.218.62	E	admin:timeline	bobziemerman			-12
-1527790134	50.201.218.62	E	admin:timeline	bobziemerman			12
-1527790950	50.201.218.62	E	admin:timeline	bobziemerman			78
-1527791098	50.201.218.62	E	admin:timeline	bobziemerman			-32
-1527791107	50.201.218.62	E	admin:timeline	bobziemerman			-68
-1527791244	50.201.218.62	E	admin:timeline	bobziemerman			2
-1527791454	50.201.218.62	E	admin:timeline	bobziemerman			91
-1527791731	50.201.218.62	E	admin:artifacts	bobziemerman			44
-1527791763	50.201.218.62	e	regions:hartland	bobziemerman	↷ Links adapted because of a move operation		5
-1527791764	50.201.218.62	e	regions:kharsh	bobziemerman	↷ Links adapted because of a move operation		1
-1527791765	50.201.218.62	e	regions:ku-nogar	bobziemerman	↷ Links adapted because of a move operation		1
-1527791996	50.201.218.62	E	admin:artifacts	bobziemerman			-8
-1527792294	50.201.218.62	E	regions:istovia	bobziemerman			-63
-1527792336	50.201.218.62	E	regions:evedale	bobziemerman			0
-1527792444	50.201.218.62	E	regions:evedale	bobziemerman			63
-1527792531	50.201.218.62	E	regions:evedale	bobziemerman			-1
-1527792912	50.201.218.62	E	admin:timeline	bobziemerman			191
-1527793012	50.201.218.62	E	admin:timeline	bobziemerman			48
-1527793151	50.201.218.62	E	regions:evedale	bobziemerman			-119
-1527793810	50.201.218.62	E	regions:qurea	bobziemerman			43
-1527793956	50.201.218.62	E	regions:wrakarr	bobziemerman			-14
-1527794110	50.201.218.62	D	admin:races	bobziemerman	removed		-686
-1527794138	50.201.218.62	E	home	bobziemerman			-12
-1527801412	172.56.2.172	E	home	bobziemerman	[Rule/Lore Changes] 		12
-1527860669	50.201.218.62	E	regions:hartland	bobziemerman			3
-1527861578	50.201.218.62	E	admin:timeline	bobziemerman			16
-1527861677	50.201.218.62	E	regions:istovia	bobziemerman			-4
-1527861827	50.201.218.62	E	regions:istovia	bobziemerman			147
-1527863854	50.201.218.62	E	admin:timeline	bobziemerman			63
-1527870341	50.201.218.62	E	regions:hartland	bobziemerman			185
-1527870437	50.201.218.62	E	regions:hartland	bobziemerman			23
-1527870551	50.201.218.62	E	regions:hartland	bobziemerman			0
-1527870640	50.201.218.62	E	regions:evedale	bobziemerman			231
-1527871209	50.201.218.62	E	regions:hartland	bobziemerman			70
-1527871434	50.201.218.62	E	regions:hartland	bobziemerman			5
-1527871550	50.201.218.62	E	regions:evedale	bobziemerman			104
-1527871762	50.201.218.62	E	regions:hartland	bobziemerman			30
-1527871824	50.201.218.62	E	regions:evedale	bobziemerman			15
-1527871929	50.201.218.62	E	regions:qurea	bobziemerman			199
-1527873866	50.201.218.62	E	regions:qurea	bobziemerman			-555
-1527874205	50.201.218.62	E	admin:artifacts	bobziemerman			12
-1527874241	50.201.218.62	E	admin:artifacts	bobziemerman			33
-1527875043	50.201.218.62	E	regions:istovia	bobziemerman			598
-1527875171	50.201.218.62	E	regions:istovia	bobziemerman			73
-1527875191	50.201.218.62	E	regions:istovia	bobziemerman			20
-1527875455	50.201.218.62	E	regions:qurea	bobziemerman			-15
-1527876364	50.201.218.62	E	regions:qurea	bobziemerman			0
-1527876433	50.201.218.62	E	regions:qurea	bobziemerman			48
-1527876714	50.201.218.62	E	regions:qurea	bobziemerman			23
-1527877129	50.201.218.62	E	home	bobziemerman			172
-1527943347	73.135.3.233	E	home	bobziemerman			30
-1527943734	73.135.3.233	C	regions:neeru	bobziemerman	created		210
+1529088551	50.201.218.62	E	home	bobziemerman			863
+1529089366	50.201.218.62	E	home	bobziemerman			110
+1529089773	50.201.218.62	E	home	bobziemerman			-10
+1529090375	50.201.218.62	E	home	bobziemerman			216
+1529090636	50.201.218.62	E	regions:qurea	bobziemerman			-14
+1529090858	50.201.218.62	E	home	bobziemerman			234
+1529333836	50.201.218.62	E	home	bobziemerman			820
+1529346206	50.201.218.62	E	home	bobziemerman			649
+1529351517	50.201.218.62	E	home	bobziemerman			-243
+1529589533	50.201.218.62	E	home	bobziemerman			150
+1529590655	50.201.218.62	E	admin:timeline	bobziemerman			404
+1529590665	50.201.218.62	C	admin:magic	bobziemerman	created		207
+1529596589	50.201.218.62	C	admin:gods	bobziemerman	created		1062
+1529597750	50.201.218.62	E	admin:magic	bobziemerman			24
+1529597762	50.201.218.62	D	admin:magic	bobziemerman	removed		-231
+1529600487	50.201.218.62	E	admin:gods	bobziemerman			1493
+1529600545	50.201.218.62	E	regions:qurea	bobziemerman			5
+1529601028	50.201.218.62	E	admin:gods	bobziemerman			97
+1529601480	50.201.218.62	E	regions:hartland	bobziemerman			37
+1529601668	50.201.218.62	E	regions:hartland	bobziemerman			-1
+1529601942	50.201.218.62	E	admin:gods	bobziemerman			66
+1529601946	50.201.218.62	E	regions:evedale	bobziemerman			-20
+1529602102	50.201.218.62	E	admin:gods	bobziemerman			56
+1529608461	50.201.218.62	E	regions:qurea	bobziemerman			19
+1529608836	50.201.218.62	E	regions:qurea	bobziemerman			45
