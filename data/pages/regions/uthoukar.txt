@@ -1,13 +1,13 @@
 ====== Hartland ======
 
-{{uthoukar_forest.jpg?675}}
+{{:uthoukar_forest.jpg?675}}
 
 The noble realm of Hartland is in many ways a balancing point within Dracarcer. It is neither the harsh, cold, magicless mountains of Istovia to the north; nor the lush, arcane groves and beaches of Qurea to the south. And it hosts neither the dark, unknowable evils of Evedale to the west, nor the open, unbridled aggression found in plains of Kharsh across the sea to the East. There are many things to be found in Hartland: magics, simple pleasures, common folk, and unexpected adventures. It is often what you expect, and yet can always surprise you. 
 
 
 ==== Notable Places ====
 
-{{corwald3.jpg}}
+{{:corwald3.jpg}}
 === Corwald ===
 Hartland's capital of Corwald can be found 250 miles east of the coast, and sits roughly at the center of the country's territories. The city itself is built atop a gently sloping hill, with the city's sections forming concentric rings that rise toward Castle Longspire at the center. The city sections are as follows:
   * Castle Longspire
@@ -21,7 +21,7 @@ Hartland's capital of Corwald can be found 250 miles east of the coast, and sits
 
 
 === Mistharbor ===
-{{ mistharbor.jpg?400}}
+{{ :mistharbor.jpg?400}}
 Along Hartland's eastern coast lies the sleepy fishing village of Mistharbor. Despite being the closest port city to Corwald, the town's permanent residents often only number in the hundreds.
 
 
@@ -34,7 +34,7 @@ Along Hartland's eastern coast lies the sleepy fishing village of Mistharbor. De
 
 ==== Notable People ====
 
-{{ uthoukar_shield_red.png?150}}
+{{ :uthoukar_shield_red.png?150}}
 === Corwald ===
   * Luthor Egremont: King of Hartland (Human)
     * Ariadne Egremont: Queen of Hartland, wife of Luthor (Human)
@@ -47,7 +47,7 @@ Along Hartland's eastern coast lies the sleepy fishing village of Mistharbor. De
   * Other citizens - Rhazien and Margolyn Hartley, Gin and Ceri Va'Nel, Ilbo and Avicia Dostigor, Callum Carell, Hiser York, and Chuck Tanner
 
 
-{{ fellmen_crest_color.png?150}}
+{{ :fellmen_crest_color.png?150}}
 === Fellmen ===
 
   * Draxa: Leader of the fellmen (Tiefling)

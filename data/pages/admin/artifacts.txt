@@ -3,9 +3,9 @@
 ===== The Bloodwell =====
 {{bloodwell.png?175 }}
 
-The Bloodwell is a twin artifact to the Wellspring, and calls to evil entities throughout the world, summoning them to its location. It was created by the ancient elves to draw evil Maha'ai to Wrakarr so that they could be banished through the gates. After the Great Wells were created, the elves left a group of their people in Wrakarr to protect the Bloodwell and deal with any remaining Maha'ai; these elves eventually bent to the Bloodwell's influence, and became the modern race known as the Drow. They eventually abandoned the Bloodwell and retreated into the Underdark.
+The Bloodwell is an artifact related to the Upwelling and the Wellspring; and calls to evil entities throughout the world, summoning them to its location. It was created by the ancient elves to draw evil Maha'ai to Wrakarr so that they could be banished through the gates. After the Three Great Wells were created, the elves left a group of their people in Wrakarr to protect the Bloodwell and deal with any remaining Maha'ai; these elves eventually bent to the Bloodwell's influence, and became the modern race known as the Drow. They eventually abandoned the Bloodwell and retreated into the Underdark.
 
-At one point in its history, an ambitious individual learned of the Bloodwell and transported it from its resting place in Wrakarr, where it had been for thousands of years, to his own keep in Evedale. His intent was to draw monsters to his territory and force his people to be more reliant on him and his military forces. He eventually ascended to the throne, but unfortunately he and his kingdom were ultimately undone by the constant onslaught of evil forces heeding the Bloodwell's call.
+At one point in its history, an ambitious individual learned of the Bloodwell and transported it from its resting place in Wrakarr, where it had been for thousands of years, to his own keep in Evedale; intending to draw monsters to his territory and force his people to be more reliant on him and his military protection. He eventually ascended to the throne, but unfortunately he and his kingdom were ultimately undone by the constant onslaught of evil forces heeding the Bloodwell's call.
 
 
 ------------------------------------------------------
@@ -22,10 +22,19 @@ Upon the Chalice's death, they would briefly have the power, and the compulsion,
 ------------------------------------------------------
 
 
+===== The Upwelling =====
+{{upwelling_cropped.jpg?175 }}
+
+The Upwelling is an artifact related to the Bloodwell and the Wellspring, and calls to neutral entities throughout the world, summoning them to its location. It was created by the ancient elves to draw neutraland aquatic Maha'ai to the waters of Wrakarr so that they could be banished through the gates. After the Three Great Wells were created, the elves left a group of their people in Wrakarr to protect the Upwelling and deal with any remaining Maha'ai; these elves eventually bent to the Upwelling's influence, and became the modern race known as the Sea Elves. Their people have spread quite far from the shores of Wrakarr where they began, but they are the only subrace of the ancient elves who still guard their Great Well to this day.
+
+
+------------------------------------------------------
+
+
 ===== The Wellspring =====
 {{wellspring.jpg?175 }}
 
-The Wellspring is a twin artifact to the Bloodwell, and calls to good entities throughout the world, summoning them to its location. It was created by the ancient elves to draw good Maha'ai to Wrakarr so that they could be banished through the gates. After the Great Wells were created, the elves left a group of their people in Wrakarr to protect the Wellspring and deal with any remaining Maha'ai; these elves eventually bent to the Wellspring's influence, and became the modern race known as the Luminow. They were eventually hunted almost to extinction after the Drow created the Veil of Night in the fifth age, and were forced to retreat further and further north, until finally settling in the sunny mountains of Istovia, far from the Drow's reach. 
+The Wellspring is an artifact related to the Bloodwell and the Upwelling, and calls to good entities throughout the world, summoning them to its location. It was created by the ancient elves to draw good Maha'ai to Wrakarr so that they could be banished through the gates. After the Three Great Wells were created, the elves left a group of their people in Wrakarr to protect the Wellspring and deal with any remaining Maha'ai; these elves eventually bent to the Wellspring's influence, and became the modern race known as the Luminow. They were eventually hunted almost to extinction after the Drow created the Veil of Night in the fifth age, and were forced to retreat further and further north, until finally settling in the sunny mountains of Istovia, far from the Drow's reach. 
 
 In the sixth age, mages from Qurea hypothesized the presence of an artifact like the Wellspring, and eventually tracked it down and brought it to Azuroc, in the center of Qurea; in the hopes of bringing prosperity to their nation. 
 
@@ -36,9 +45,9 @@ In the sixth age, mages from Qurea hypothesized the presence of an artifact like
 ===== The Worldbreaker of Nahroh =====
 {{worldbreaker.jpg?175 }}
 
-The Worldbreaker of Nahroh is holy relic named after the legendary hero to whom it was gifted by Vather, the God of Balance, Strength and the Forge. The relic takes the form of a Greathammer, and glows with runes made of light when filled with the force of Vather's holy will. It is said to be a weapon of indescribable power in the hands of a worthy successor to Nahroh. It has changed hands many times, but can often be found in Archerald's Crown of the Gods, under the protection of monks of the Church of Vather.
+The Worldbreaker of Nahroh is holy relic named after the legendary hero to whom it was gifted by Edda, the Goddess of Strength and the Forge. The relic takes the form of a Greathammer, and glows with runes made of light when filled with the force of Edda's holy will. It is said to be a weapon of indescribable power in the hands of a worthy successor to Nahroh. It has changed hands many times, but can often be found in Archerald's Crown of the Gods, under the protection of monks of the Church of Edda.
 
-(Does 1d12 Holy dmg, and can do 1d20 concussive dmg for 20ft radius AOE 1/day; instead does 5d20 concussive damage in the hands of a worshiper of Vather)
+(Does 1d12 Holy dmg, and can do 1d20 concussive dmg for 20ft radius AOE 1/day; instead does 5d20 concussive damage in the hands of a worshiper of Edda)
 
 
 ------------------------------------------------------
@@ -49,4 +58,4 @@ The Worldbreaker of Nahroh is holy relic named after the legendary hero to whom 
 
 The Veil of Night was created by the Drow in the fifth age, and allows for the creation of dark, overcast conditions for up to hundreds of miles, centered on the artifact. The Veil requires the blood sacrifice of a being of light (either by birth or by choices) to function; and when properly 'fed', it changes from a dense, black liquid to a fine mist which lingers in the air, until it re-condenses after a day or so, and needs to be fed again. 
 
-When the Veil was first created, the Drow primarily used the Luminow as the source of the Veil's power. They had almost hunted the Luminow to extinction when the Luminow found out what was happening, stole the Veil, and retreated to the sunny mountains of north Aidilon, high above the Drow and their Underdark. When Istovia later became a country and had their industrial and military revolution, they subjugated the remainder of the Luminow and confiscated the Veil. 
+When the Veil was first created, the Drow primarily used the Luminow as the source of the Veil's power. They had almost hunted the Luminow to extinction when the Luminow found out what was happening, stole the Veil, and retreated to the sunny mountains of north Aidilon, high above the Drow and their Underdark. When Istovia later became a country and had their industrial and military revolution, they subjugated the remainder of the Luminow and confiscated the Veil, which was later stolen back by the Drow in the late tenth age.

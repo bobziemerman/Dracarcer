@@ -10,7 +10,7 @@ The noble kingdom of Hartland is in many ways a balancing point within Dracarcer
 
 ==== Notable Places ====
 
-{{:corwald3.jpg}}
+{{corwald.jpg}}
 === Corwald ===
 Hartland's capital of Corwald can be found 250 miles east of the coast, and sits roughly at the center of the country's territories. The city itself is built atop a gently sloping hill, with the city's sections forming concentric rings that rise toward Castle Longspire at the center. The city sections are as follows:
   * Castle Longspire
@@ -21,6 +21,10 @@ Hartland's capital of Corwald can be found 250 miles east of the coast, and sits
     * These interconnected lanes of housing are home to many of Corwald's permanent residents, and affords them a status of citizenry and protection not afforded to those who stay in the Migrant quarter. Most of the city's temples can also be found within Stonewood.
   * Migrant Quarter
     * The largest and outermost layer of the city sits immediately within the outer walls, and houses the military barracks and common city services like healers and cemeteries; as well as the migrant housing and storefronts required for commerce. In times of economic strain and great danger, the Migrant Quarter bears the burden of the influx of refugees from throughout the kingdom, who remain limited to within its walls.
+  * Military Garrisons
+    * At the north and south ends of the city, on the outskirts of the Migrant Sector, lie the Military Garrisons. Each serves different purposes, but together they provide for much of the city's military, medical, and internment needs.
+
+{{:corwald3.jpg}}
 
 
 === Mistharbor ===
@@ -45,9 +49,6 @@ Along Hartland's eastern coast lies the sleepy fishing village of Mistharbor. De
       * Damias Egremont: Prince of Hartland, son of Luthor and Marielle [Human M]
     * Luxus Colrona: Countess of Corwald [Aasimar F]
       * Inabella Araphor: Handmaid to Colrona [High Elf F]
-  * Shopkeepers
-    * Nhazim Blackrock: Barkeep at the Wearied Stone [Dwarf M]
-    * Gardar Sursk: Owner of the Bone and Steel weapon shop [Half-Orc M]
   * Military
     * Rhomorn Bharax: Knight Commander of Hartland's military, and adviser to the king [Dragonborn M]
     * Chuck Tanner: Knight of Egremont [Human M]

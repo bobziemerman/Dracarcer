@@ -37,6 +37,11 @@ Dracarcer is a fantasy roleplaying setting originally build for D&D, and assumes
     * Private lessons: +1 to attack bonus when in 1v1 combat, but -1 to attack bonus when using multiattack on different targets in the same round
     * Self-taught: +1 to insight checks made about fighting or weapons, but -1 to history checks made about fighting or weapons
 
+  * **Magic** comes from one of three sources in Dracarcer:
+    * Arcane: Direct manipulation of the Weave (ex: Bards, Warlocks, Wizards)
+    * Derived: Internal power derived from or granted by some other source (ex: Sorcerers, Warlocks)
+    * Divine: Asking a more powerful entity to cast magic for you (ex: Clerics, Druids, Paladins)
+
   * Some beings in Dracarcer (notably in Istovia) have mechanical body parts, often made with with the magic-resistant element **Valthril**, which allows for the creation of advanced circuitry. Certain constructs and machines are made with this element as well; and it confers three levels of magic-resistance (which stack), depending on the amount of Valthril present (for biological creatures, this is often tracked by the number of major body parts replaced):
     * +25% / 1+ body parts
       * Cannot be effected by a single spell for more than one round at a time

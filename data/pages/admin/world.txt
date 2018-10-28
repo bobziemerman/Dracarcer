@@ -1,0 +1,26 @@
+====== World ======
+
+===== Languages =====
+Real world language analogs:
+  * Common (human): English
+  * Dwarvish: Bulgarian (accent: russian with rolled R's)
+  * Elvish: Georgian (accent: W -> V? "...vether he vus vorking aglaught or gnaught..."?)
+  * Gnomish: Filipino (accent: midwestern "yoo gahys whin, dontchyano")
+  * Halfling: Danish (accent: speak through touching incisors, but not molars, with toothy cringe?)
+  * Orcish: Uzbek
+  * Draconic (dragons, dragonborn, Lizardfolk): Armenian (accent: prolonged S's)
+  * Abyssal/Celestial/Infernal (Maha'ai): Bangla
+  * Primordial (most arcane magic): Greek
+  * Sylvan (Fey): Hawaiian
+  * Undercommon (underdark, drow): Xhosa (accent: south african "ahyam froahm sout ahflicka")
+
+===== Racial Origins =====
+In pre-history, most of the major races were indigenous to specific regions and evolved to suit their climate:
+  * Aasimar/Tieflings: Deity/Human hybrids; born whenever, wherever
+  * Dragonborn: Dragon/Human hybrids; born whenever, wherever
+  * Dwarves: Northern Aidilon (harsh; mountainous; cold)
+  * Elves: Lower Aidilon (gentle, stable climate; magic-rich)
+  * Gnomes: Eastern Aidilon (dense woods; small hiding spaces; forest magic)
+  * Halflings: Western Aidilon (gentle rolling hills; some foliage; readily available resources)
+  * Humans: Southern Aidilon Peninsula (varied terrains; changing climate; isolated inside mountain range)
+  * Orcs: West Ordan (dry; scarce resources; strong predators)

@@ -1,0 +1,16 @@
+===== Continents / Countries =====
+
+==== Aidilon ====
+  * [[Regions:Anschluss]]: The swamp tribes of the Anschluss welcome few into their turf
+  * [[Regions:Evedale]]: The darkness of Aidilon calls Evedale home, and horrors await within every shadow
+  * [[Regions:Hartland]]: The piney forests beyond Hartland's city walls hide myriad dangers for the unwary adventurer
+  * [[Regions:Istovia]]: The terrain of Istovia is cold, harsh, and rough; just like its people
+  * [[Regions:Neeru]]: Sunken wonders and rising seas dot the landscape at the bottom of the ocean
+  * [[Regions:Qurea]]: The sunny and magical realm of Qurea promises bounty and happiness to all who play its deadly Game
+  * [[Regions:Wrakarr]]: Beware the Gates of Wrakarr: you will never return
+
+==== Ordan ====
+  * [[Regions:Kharsh]]: The sun-laiden plains of Kharsh will test your mettle and decide your worth
+  * [[Regions:Ku'nogar]]: A mysterious land to the far east, its secrets shrouded in mist
+
+{{:aidilon.png}}

@@ -12,6 +12,8 @@ Qurea's seven First Order mages are known as the Magistrati, who both reside and
 
 However, as a country populated almost exclusively by magical beings, Qurea and its major cities are prone to certain magical quirks. For example, the country is almost exclusively vegetarian, and prefers healthier dishes that have simply been magically flavored to taste exquisite. Much of the landscape, particularly the layout of the the capital city of Archerald, is also prone to shifting; as is bound to happen when those who can physically move mountains have little else better to do.
 
+{{qurea.jpg}}
+
 
 -------------------------------------------------------------------
 
@@ -36,18 +38,11 @@ Notable places within the city:
   * The Western Portal: The city's west gate that also runs teleport circles to most cities in Qurea, as well as locations in other countries
   * The South Gate: Archerald's southeast gate
   * The Dockhouse: Storage for Archerald's navy
-  * House Malai: An old, abandoned mansion in the wealthy part of the city. Willed to be left untouched until a 'worthy heir' came to claim it
-  * The Opal Moon: A bar near the south gate, in the bardic district
-  * The Aephemery: A shop near the Opal Moon, where all your dreams can come true
-  * The Marbled Palace: Bakery
-  * The Elixir Mixer: A potions shop in the wealthier part of the city
-  * The Rosebush: A brothel on the west side of the city
-  * Skill and Forge: A blacksmith shop northwest of the Crown
 
 
 === Azuroc ===
 
-As the city at Qurea's central point, Azuroc shines as a paragon of the polity. Some say the place is blessed by the gods, and that all who dwell there will be laiden with good fortune; and others say it is rather that the already fortunate seem to congregate there on their own. 
+Some say Azuroc is blessed by the gods, and that all who dwell there will be laiden with good fortune; others say it is rather that the already fortunate seem to congregate there on their own. Whatever the case, it would be hard to deny that things always seem to go well for the people who live there. 
 
 
 === Fortis ===
@@ -55,14 +50,18 @@ As the city at Qurea's central point, Azuroc shines as a paragon of the polity. 
 Fortis is one of the few remaining great strongholds of a forgotten age; their necessity lost to time. Now, it is mostly used as a training ground and waypoint for those soldiers and constructs sent in aid to the northern countries in their eternal battle with Istovian empiricism. 
 
 
-=== Na'issala and Kantossin ===
+=== Grukagg ===
 
-Na'issala and Kantossin are also large cities that are well positioned for trade with Hartland, as they sit just south of the major branches of the Nameer river that run deep into Hartland. The cities were long ago named in devotion to the gods Na'issa and Kantos, and are often sites of pilgrimage for their respective Qurean believers. 
-
+When the Orcs landed in 3476, Qurea was wholly unprepared for a barbarian invasion from the south sea. After a years-long war, the Orcs eventually came to a treaty of sorts with the country, and were granted citizenship and lands to the south. When the remaining Orc tribes re-established the dominant order in their subsequent years in the territory, a settlement was formed that today is known as Grukagg. It is the primary home of the Orcish people on the continent of Aidilon.
 
 === Lucis ===
 
-Darkness never falls on Qurea's great city of light. These enchanted woods are home to all manner of friend and Fey; and often any desire you dream of can be found here... though it usually comes at a price. 
+Darkness never falls on Qurea's great city of light. These enchanted woods are home to all manner of Fiend and Fey; and often any desire you dream of can be found here… though it usually comes at a price.
+
+
+=== Na'issala and Kantossin ===
+
+Na'issala and Kantossin are also large cities that are well positioned for trade with Hartland, as they sit just south of the major branches of the Nameer river that run deep into Hartland. The cities were long ago named in devotion to the gods Na'issa and Kantos, and are often sites of pilgrimage for their respective Qurean believers. 
 
 
 === Saeculum ===
@@ -72,7 +71,7 @@ Nestled deep within the heart of one of Qurea's most magical forests lies the dr
 
 {{ :sebassa.jpg?400}}
 === Sebassa ===
-The beach town of Sebassa exists as much above the ocean's waves as below, and it is home to many of Qurea's more aquatic residents. Merfolk, selkies, aquatic elves, druids, and various water elementalists can all be found here; either on Sebassa's collection of beach-moored floating barges, or on the connected chain of housing structures that sink off deep into the ocean beyond. To those who know of its existence, Sebassa is also the easiest point of contact with the underwater lands of Neeru; and specifically, its largest city, Akvo, just off the coast. 
+The beach town of Sebassa exists as much above the ocean's waves as below, and it is home to many of Qurea's more aquatic residents. Merfolk, selkies, aquatic elves, druids, and various water elementalists can all be found here; either on Sebassa's collection of beach-moored floating barges, or on the connected chain of housing structures that sink off deep into the ocean beyond. Sebassa is also the easiest point of contact with the underwater lands of Neeru (for those who know of its existence); and specifically, its largest city, Akvo, just off the coast. 
 
 
 === Zalaria ===
@@ -95,14 +94,9 @@ Little is known about the reclusive colony of gnomes that live in the forests to
 Elnaril is Qurea's northernmost holding, and is often mistaken by cartographers as belonging to Hartland. Being so close to the border, Elnaril is often swept up in the goings-on of the Fellwood to the north, and is quite familiar with the merchants and traders that travel along the more northern coastal waters.
 
 
-=== Grukagg ===
-
-When the Orcs landed in 3476, Qurea was wholly unprepared for a barbarian invasion from the south. After a years-long war, the Orcs eventually came to a treaty of sorts with the country, and were granted citizenship and lands to the south. When the remaining Orc tribes re-established the dominant order in the subsequent years in the territory, a settlement was formed that today is known as Grukagg. It is the primary home of the Orcish people on the continent of Aidilon.
-
-
 === Monitum ===
 
-Few have cause to visit this remote research outpost. Its proximity to the mountains of Wrakarr make it ideal for studying a great many things, but also means that only those who have need of the place go there at all.
+Few have cause to visit this remote research outpost on the shores of Blackrock Lake. Its proximity to the mountains of Wrakarr make it ideal for studying a great many things, but also means that only those who have need of the place go there at all.
 
 
 === Ostium ===
@@ -136,15 +130,16 @@ Some astral anomaly has caused a multiversal nexus to form in the groves around 
 
 === Archerald ===
 
+{{ alistair.jpg?150}}
   * Nobility
     * The Magistrati: Archerald's ruling council
       * Magistrator Dynsbecc Gumjuss: Druid [Gnome F]
       * Magistrator Talven Brightfallow: Sorcerer [Dwarf M]
       * Magistrator Ahd’m Enkathi: Warlock [Dragonborn M]
-      * Magistrator Tavia Hlothren: Cleric [Halfling F]
-      * Magistrator Kharga Ghamuk: Paladin [Half-Orc F]
+      * Magistrator Tavia Hlothren: Cleric of Kairys [Halfling F]
+      * Magistrator Kharga Ghamuk: Paladin of Edda [Half-Orc F]
       * Magistrator Magistrator (“He, the Magistrator”): Wizard [Tiefling M]
-      * Magistrator Illithra Elsalor: Bard [High Elf F]
+      * Magistrator Ilithra Elsalor: Bard [High Elf F]
     * Denir Zathar: Warlock of the 2nd Order [High Elf M]
     * Alistarianthos 'Alistair' Fidelian: Bard of the 3rd Order [High Elf M]
       * Branwen Fidelian: Alistair's wife, Bard of the 5th Order [Human F]
@@ -152,6 +147,8 @@ Some astral anomaly has caused a multiversal nexus to form in the groves around 
       * Corinne Fidelian: Theros' widow, runs the Marbled Palace [Human F]
       * Anastatia 'Azura' Fidelian: Alistair's daughter, Bard of the 6th Order (rarely in Archerald, captains the Bachelor's Delight) [Half-Elf F]
       * Branwen Fidelian II: Alistair's daughter, Cleric (of Pelor) of the 4th Order [Half-Elf F]
+
+{{ ariadne.jpg?150}}
   * Military
     * Citizens of Order (city soldiers)
       * Strur Heartfang: Duskblade, Captain of the the Guard, in charge of recruiting [Dwarf M]
@@ -162,11 +159,6 @@ Some astral anomaly has caused a multiversal nexus to form in the groves around 
 
 {{ xilora.jpg?150}}
 {{ gang_symbol_bg.png?150}}
-  * Shopkeepers
-    * Ariadne Dusta: Night bartender at Opal Moon [High Elf F]
-    * Belkira Varthor: Druid, owner of The Elixir Mixer [Wood Elf F]
-    * Kosha Zajad: Proprietor of the Rosebush [Human F]
-    * Shondid Umori: Day bartender at Opal Moon [Wood Elf F]
   * Other citizens
     * The Unwoven: Radical group of non-mages trying to get more non-mage representation in the government
     * Bilvyn Overcoil: Wizard of the 5th Order (magnetism) [Gnome M]
@@ -199,4 +191,4 @@ Some astral anomaly has caused a multiversal nexus to form in the groves around 
   * (N) Dathos: God of Order and Cities
   * (N) Exhus: God of Lizardfolk, Nature, and the Tempest
   * (E) Xusia: Goddess of Ambition
-  * (E) Palamus: God of Trickery
+  * (E) Kota: God of Trickery

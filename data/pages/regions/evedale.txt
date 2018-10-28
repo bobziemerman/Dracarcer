@@ -48,7 +48,7 @@ The twin cities of Foxwynne and Aldmorrow sit on either side of the river Tels, 
 
 === Malaemor ===
 {{ :malaemor.jpg?450}}
-The drow city of Malaemor was built as a part of the Blackfrost Treaty of 9941. In return for providing Evedale with aid in the war, the Drow were permitted to build a city above the Underdark fracture, in the swamps north of Dracwyn; as well as appointing one of their own as a marquis in the capital city. Evedale's dense forests and even murkier swamps provided enough darkness for the light-sensitive Drow to successfully establish their first true stronghold in the surface world. 
+The drow city of Malaemor was built as a part of the Blackfrost Treaty of 9941. In return for providing Evedale with aid in the war, the Drow were permitted to build a city above the Underdark fracture, in the swamps south of Dracwyn; as well as appointing one of their own as a marquis in the capital city. Evedale's dense forests and even murkier swamps provided enough darkness for the light-sensitive Drow to successfully establish their first true stronghold in the surface world. 
 
 
 -------------------------------------
@@ -56,7 +56,7 @@ The drow city of Malaemor was built as a part of the Blackfrost Treaty of 9941. 
 
 === The Fracture ===
 {{ :fracture.jpg?425}}
-In 9935, in the swamps north of Dracwyn, a fissure opened up, revealing an entrance to a world previously unknown to surface dwellers: the Underdark. Many species, including the Drow, call this place home, and have built entire civilizations beneath the protection of Dracarcer's solid earth. 
+In 9935, in the swamps south of Dracwyn, a fissure opened up, revealing an entrance to a world previously unknown to surface dwellers: the Underdark. Many species, including the Drow, call this place home, and have built entire civilizations beneath the protection of Dracarcer's solid earth. 
 
 
 === Evaire ===
@@ -113,6 +113,9 @@ In 9935, in the swamps north of Dracwyn, a fissure opened up, revealing an entra
     * Gothras Chemra: Administrator of the Department of Personnel Acquisitions [Drow M]
 
 === Lazhani ===
+  * Shopkeepers
+    * Braenva Coldhammer: Proprietor of The Boneyard Rathskeller (inn/tavern) [Dwarf F]
+    * Jashk: Hunter/trader (lives outside village) [Lizardfolk M]
   * Other citizens
     * Iris Lazarov: Necromancer [Human F]
       * <del>Maksim Lazarov</del>: Iris' husband [Human M]
