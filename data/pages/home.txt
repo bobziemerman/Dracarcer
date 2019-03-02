@@ -34,7 +34,7 @@ Dracarcer is a fantasy roleplaying setting originally build for D&D, and assumes
   * (Optional) A **Fighter's source of training** can have a palpable effect on their fighting style, and can confer one of the following effects:
     * Military: Advantage on diplomacy checks with the faction that trained you, but disadvantage with any currently warring factions
     * Cultural: You are awarded inspiration when fighting against someone of the same training background, up to once per day (this training could be racial, societal, familial, etc.)
-    * Private lessons: +1 to attack bonus when in 1v1 combat, but -1 to attack bonus when using multiattack on different targets in the same round
+    * Private lessons: +1 to attack bonus when in 1v1 combat, but -1 to attack bonus when using multiple attacks on different targets in the same round
     * Self-taught: +1 to insight checks made about fighting or weapons, but -1 to history checks made about fighting or weapons
 
   * **Magic** comes from one of three sources in Dracarcer:
@@ -59,7 +59,7 @@ Dracarcer is a fantasy roleplaying setting originally build for D&D, and assumes
       * Potions have no effect
       * Gearboxes have full effect
 
-  * **Abyssal, Celestial, and Infernal** are all the same language in Dracarcer; if you are know more than one, you may trade out for something else
+  * **Abyssal, Celestial, and Infernal** are all the same language in Dracarcer, just different 'dialects', so to speak; if you are know more than one, you may trade out for something else
 
 
 ==== General setting lore ====
@@ -76,8 +76,10 @@ Dracarcer is a fantasy roleplaying setting originally build for D&D, and assumes
     * Calignos (winter)
       * Hearthrest: a time of resting and preparation for the cold nights ahead
 
-  * As this campaign setting is used for versions of D&D where the **dragonborn** race can be either common or uncommon, in Dracarcer, they are generally considered rare, but not unheard of; and are about as common as a high level hero of any specific class would be. The origins of dragonborn and draconic sorcerers are opposite sides of the same circumstance: when a male dragon in humanoid form mates with a female humanoid, the subsequent line will be draconic sorcerers; when a female dragon in humanoid form mates with a male humanoid, the subsequent line will be dragonborn. In either case, the body comes from the mother, and the spirit/magic comes from the father. The half-dragons that exist in some versions of D&D would fall under the speciation of dragonborn, though they may be an unusual variant (perhaps they are a more immediately or distantly related descendant of their draconic ancestor).
+  * In Dracarcer, the origins of **dragonborn** and draconic sorcerers are opposite sides of the same circumstance: when a male dragon in humanoid form mates with a female humanoid, the subsequent line will be draconic sorcerers; when a female dragon in humanoid form mates with a male humanoid, the subsequent line will be dragonborn. In either case, the body comes from the mother, and the spirit/magic comes from the father. The half-dragons that exist in some versions of D&D would fall under the speciation of dragonborn, though they may be an unusual variant (perhaps they are a more immediately related descendant of their original draconic ancestor).
 
-  * The historical origins of the various **sub-races of Elf** are different in Dracarcer than in traditional D&D lore; but their overall mechanics and culture are left largely untouched.
+  * The historical origins of the various **sub-races of Elf** are different in Dracarcer than in traditional D&D lore; but their overall mechanics and culture are left largely unchanged.
+
+  * **Druidic** uses the mechanics described in [[https://docs.google.com/document/d/1zyB_kX726-k5kYZrikaYZlJtvCLOFkHlYYJIN0o8Q2I/edit?usp=sharing|this document]]
 
   * **Thieves' Cant** uses the dialogue described in [[https://drive.google.com/file/d/1y7tESSZaf39gW6uUjBDAXFb7zOOsUJb-/view?usp=sharing|this document]]

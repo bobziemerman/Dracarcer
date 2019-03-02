@@ -7,7 +7,7 @@ The terrain of Istovia is cold, harsh, and rough; just like its people. The envi
 
 Having turned their backs on the vile corruptions of magic, Istovians rely upon their god and upon their gears; and when Hroknar deems a limb unworthy of protection from the bitter cold, the people of Istovia honor him by crafting their own in its place. Intricate clockwork and gears, made with the rare, holy element Valthril, make for a fine replacement for the frail machines of flesh they are given at birth. Most people who have lived in Istovia for more than a handful of years have at least one mechanical limb, and some have shown such dedication to their god that what remains of their original bodies is almost indistinguishable from the iron golems that are so common throughout the empire. And in return, Hroknar blesses these people with a resistance to the magical taint, whenever it should rear its ugly head. 
 
-The god of blood, ice, and stone is a benevolent one, and his followers in Istovia are many. The Church of Hroknar sees to it that no Child of Blood and Stone is left wanting, and spends its bloodstones on taking care of the poorest and most destitute of its flock. The Heald also offer their blessed and wise political council, and act as a guiding hand to the leaders of this great nation, as they bring Hroknar's light to the world beyond. 
+The god of blood, ice, and stone is a benevolent one, and his followers in Istovia are many. The Church of Hroknar and its Cardinals see to it that no Child of Blood and Stone is left wanting, and spends its bloodstones on taking care of the poorest and most destitute of its flock. The Heald also offer their blessed and wise political council, and act as a guiding hand to the leaders of this great nation, as they bring Hroknar's light to the world beyond. 
 
 
 -----------------------------------------------------------------------
@@ -28,6 +28,8 @@ Istovia's capital city of Brun acts as the beating heart of the empire, and is t
 Valspart sacellum lies beneath Brun's city peaks, deep within the heart of the mountains. It is the seat of the Heald: the council of the nine Archprelates that bear the responsibility of guiding and overseeing the whole of the church of Hroknar. They, in turn, delegate responsibilities to the Church's Prelates, who rely on the Archbishops, Bishops, Archpriests, and Priests more local to the other regions of Istovia. 
 
 The sacellum is the largest in Istovia's territories, and is almost the size of the city of Brun itself. Huge, cavernous rooms are filled with intricately carved stone statues and bloodstone-encrusted holy relics. The devoted members of the chanter's guild have been singing ceaseless songs of praise to Hroknar for longer than any Istovian has been alive. 
+
+Early on in Istovia's history, the Church began gathering up the sacred bloodstones and housing them in Valspart's vaults. The shards, jewels, and gems became such a sought-after commodity that they eventually came to be used as the primary form of currency in the developing country; and over the years, Valspart has grown to be an important center for commerce, and a hundred for major financial transactions.
 
 
 -----------------
@@ -70,3 +72,10 @@ Nestled on a remote hill, deep in the heart of Istovia's vast expanses, lies the
       * Archprelate Londralin Hroknar [Dwarf F]
       * Archprelate Bruthheim Hroknar [Dwarf M]
 
+=== Nyokadi ===
+  * Elder Saena Allanar
+  * Al’thamara family
+    * Oal (father) (M LElf Wiz)
+    * Am'yla (mother) (F LElf Wiz)
+    * Thaselion (older brother) (M LElf Eldritch Knight Fighter)
+    * Naleesa (younger sister) (F LElf Druid)

@@ -1,6 +1,14 @@
-a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1528828756;s:8:"modified";i:1528832128;}s:7:"creator";s:3:"Bob";s:4:"user";s:12:"bobziemerman";s:11:"last_change";a:8:{s:4:"date";i:1528832128;s:2:"ip";s:13:"50.201.218.62";s:4:"type";s:1:"E";s:2:"id";s:13:"admin:evedale";s:4:"user";s:12:"bobziemerman";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:185;}s:11:"contributor";a:1:{s:12:"bobziemerman";s:3:"Bob";}s:5:"title";s:20:"Evedale secret stuff";s:11:"description";a:2:{s:15:"tableofcontents";a:2:{i:0;a:4:{s:3:"hid";s:20:"evedale-secret-stuff";s:5:"title";s:20:"Evedale secret stuff";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:49:"people-places-monsters-objects-and-events-of-note";s:5:"title";s:53:"People, places, monsters, objects, and events of note";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:261:"Evedale secret stuff
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1528828756;s:8:"modified";i:1549555808;}s:7:"creator";s:3:"Bob";s:4:"user";s:12:"bobziemerman";s:11:"last_change";a:8:{s:4:"date";i:1549555808;s:2:"ip";s:13:"50.201.218.62";s:4:"type";s:1:"E";s:2:"id";s:13:"admin:evedale";s:4:"user";s:12:"bobziemerman";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:8;}s:11:"contributor";a:1:{s:12:"bobziemerman";s:3:"Bob";}s:5:"title";s:20:"Evedale secret stuff";s:11:"description";a:2:{s:15:"tableofcontents";a:3:{i:0;a:4:{s:3:"hid";s:20:"evedale-secret-stuff";s:5:"title";s:20:"Evedale secret stuff";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:18:"race-distributions";s:5:"title";s:18:"Race distributions";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:49:"people-places-monsters-objects-and-events-of-note";s:5:"title";s:53:"People, places, monsters, objects, and events of note";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:249:"Evedale secret stuff
 
-People, places, monsters, objects, and events of note
+Race distributions
 
-	*  Evedale is the original birthplace of the Halflings, and many names and locations can be tracked back to them
-	*  It was also later the birthplace of the lizardfolk and Grung races";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1528828756;s:8:"modified";i:1528832128;}s:7:"creator";s:3:"Bob";s:4:"user";s:12:"bobziemerman";s:11:"last_change";a:8:{s:4:"date";i:1528832128;s:2:"ip";s:13:"50.201.218.62";s:4:"type";s:1:"E";s:2:"id";s:13:"admin:evedale";s:4:"user";s:12:"bobziemerman";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:185;}s:11:"contributor";a:1:{s:12:"bobziemerman";s:3:"Bob";}}}
+	*  Dominant: The single most prevalent race
+		*  Humans
+
+	*  Minority: Common, but not the largest
+		*  Halflings
+		*  Dwarves
+		*  Elves
+		*  Dragonborn (red, brass, amethyst)
+		*  Lizardfolk
+		*  Vampires";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1528828756;s:8:"modified";i:1549555808;}s:7:"creator";s:3:"Bob";s:4:"user";s:12:"bobziemerman";s:11:"last_change";a:8:{s:4:"date";i:1549555808;s:2:"ip";s:13:"50.201.218.62";s:4:"type";s:1:"E";s:2:"id";s:13:"admin:evedale";s:4:"user";s:12:"bobziemerman";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:8;}s:11:"contributor";a:1:{s:12:"bobziemerman";s:3:"Bob";}}}

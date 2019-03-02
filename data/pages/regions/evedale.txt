@@ -1,7 +1,9 @@
 ====== Evedale ======
-{{:evedale_woods.jpg?670}}
+{{:redwood.jpg?670}}
 
-Few choose to live within the dominion of Evedale's dark and often ominous borders; it is simply the hand they were dealt by fate. For reasons unknown, greater misfortune seems to fall upon the country's inhabitants than on people elsewhere, and all manner of malice and ill-intent finds itself drawn to Evedale's lands. Perhaps it has something to do with the country's proximity to Wrakarr, or maybe it's just an ongoing sense of dread over the recurring wars with Istovia; but something about Evedale is decidedly... unwelcoming.
+Few live by choice within the dark, and often ominous, borders of the dominion of Evedale; it is often simply the hand they were dealt by fate. For reasons unknown, greater misfortune seems to fall upon the country's inhabitants than on people elsewhere, and all manner of malice and ill-intent finds itself drawn to Evedale's lands. Perhaps it has something to do with the country's proximity to Wrakarr, or maybe it's just an ongoing sense of dread over the recurring wars with Istovia; but something about Evedale is decidedly... unwelcoming.
+
+The land itself is even inhospitable to its residents: the maleficent Redwood that pervades most of Evedale's forested eastern territories does not take kindly to things traveling within it. The thick, twisting roots of the deep red plants ooze a slick substance poisonous to most creatures; and their branches have a tendency to lash out with little warning, and hostile intent.
 
 
 -----------------------------------------------------------------------
@@ -40,7 +42,7 @@ The small hunting village of Lazhani sits just beyond the eastern outskirts of D
 
 {{ :foxwynne_aldmorrow.jpg?500}}
 === Foxwynne and Aldmorrow ===
-The twin cities of Foxwynne and Aldmorrow sit on either side of the river Tels, and are each overseen by their respective Viscounts. As the easternmost cities in the dominion of Evedale, Foxwynne and Aldmorrow are the primary points of trade with the country's Uthoukarian and Qurean neighbors, which has blessed the cities with an abundance of wealth and prosperity not often found elsewhere in Uthoukar. However, this time of prosperity lasted only until a feud between the Viscount of Foxwynne and the Viscountess of Aldmorrow over the death of her husband began a civil war in 9935 that destroyed Aldmorrow, and nearly took Foxwynne along with it. 
+The twin cities of Foxwynne and Aldmorrow sit on either side of the river Tels, and are each overseen by their respective Viscounts. As the easternmost cities in the dominion of Evedale, Foxwynne and Aldmorrow are the primary points of trade with the country's Hart and Qurean neighbors, which has blessed the cities with an abundance of wealth and prosperity not often found elsewhere in Uthoukar. However, this time of prosperity lasted only until a feud between the Viscount of Foxwynne and the Viscountess of Aldmorrow over the death of her husband began a civil war in 9935 that destroyed Aldmorrow, and nearly took Foxwynne along with it. 
 
 
 -------------------------------------------
@@ -77,7 +79,7 @@ In 9935, in the swamps south of Dracwyn, a fissure opened up, revealing an entra
   * Nobility
     * Griegious Pardington: King of Evedale [Human M]
       * Emmalene Pardington: Princess of Evedale [Human F]
-    * Thulmyr Ebonsteel: Marquis of Dracwyn [Dwarf M]
+    * Thulmyr Bheldor: Marquis of Dracwyn [Dwarf M]
     * Malcis: Marquis of Dracwyn [Tiefling M]
     * Alyiara Daevon'lyr: Marquess of Dracwyn (post-fracture) [Drow F]
   * Shopkeepers
@@ -87,7 +89,7 @@ In 9935, in the swamps south of Dracwyn, a fissure opened up, revealing an entra
     * Professor Richard Mortimer: Machinist from Istovia [Human M]
     * Eron McCallister: Warden of the Mere [Halfling M]
 
-{{ :lucius_vikander.png?150}}
+{{ :lucius_vikander.png?110}}
 === Fallwinter ===
   * Nobility
     * Lucius Vikander: Count of Fallwinter [Human M]
@@ -96,15 +98,21 @@ In 9935, in the swamps south of Dracwyn, a fissure opened up, revealing an entra
     * Wide-eyed Horror: Cereal killer [? ?]
 
 === Foxwynne ===
+{{ :rekha_ebonsteel.jpg?120}}
   * Nobility
     * Aldor Carrigan: Viscount of Foxwynne [Human M]
-  * Military
-    * Thurgrim Ebonsteel: High Knight of Foxwynne (Abjurant Champion) [Human M]
+    * Thurgrim Ebonsteel [Human M Abjurant Champion] (9911-9976)
+      * 9935: Knighted by Viscount Carrigan
+      * 9948: Became High Knight of Foxwynne
+      * 9954: Succeeded the late Aldor Carrigan as Viscount of Foxwynne
+    * Rekha Ebonsteel [Half-elf F Fighter/Mage Slayer] (9942-)
+      * 9970: Knighted by Viscount Ebonsteel
+      * 9976: Succeeded her late father as Viscountess of Foxwynne
 
 === Aldmorrow ===
   * Nobility
-    * <del>Thaloneil Errington</del>: Viscount of Aldmorrow [Half-Elf M]
-    * Lycelia Errington: Viscountess of Aldmorrow [High Elf F]
+    * Viscount Thaloneil Errington of Aldmorrow [Half-Elf M] (9877-9935)
+    * Viscountess Lycelia Errington of Aldmorrow [High Elf F] (9823-9939)
 
 === Malaemor (post-drow) ===
   * Military
@@ -115,12 +123,13 @@ In 9935, in the swamps south of Dracwyn, a fissure opened up, revealing an entra
 === Lazhani ===
   * Shopkeepers
     * Braenva Coldhammer: Proprietor of The Boneyard Rathskeller (inn/tavern) [Dwarf F]
+    * Nieven Grejyre: Cleric of Kantos at the village Chantry [Elf M]
     * Jashk: Hunter/trader (lives outside village) [Lizardfolk M]
   * Other citizens
     * Iris Lazarov: Necromancer [Human F]
-      * <del>Maksim Lazarov</del>: Iris' husband [Human M]
-      * <del>Sophia Lazarov</del>: Iris' daughter [Human F]
-      * <del>Argus Barabus</del>: Iris' older brother [Human M]
+      * Maksim Lazarov: Iris' husband [Human M] (9898-9926)
+      * Sophia Lazarov: Iris' daughter [Human F] (9922-9927)
+      * Argus Barabus: Iris' older brother [Human M] (9897-9926)
       * Helena Rholer-Barabus: Iris' younger sister [Human F]
         * Jahled Rholer: Helena's husband [Human M]
     * Elarys Brighton: Seamstress (post-drow) [Human F]
@@ -130,7 +139,7 @@ In 9935, in the swamps south of Dracwyn, a fissure opened up, revealing an entra
 
 
 ==== Deities ====
-  * (G) Na'issa: Goddess of Elves/Halflings, Light, and Life
-  * (N) Edda: God of Gnomes/Dwarves, Strength/the Forge, Knowledge/Arcana
-  * (E) Kantos: God of Humans, Death, and the Grave
-  * (E) Exhus: God of Lizardfolk, Nature, and the Tempest
+  * (G) Na'issa: Goddess of Elves/Halflings, Light, and Life (Clerics: Pastor)
+  * (N) Edda: God of Gnomes/Dwarves, Strength/the Forge, Knowledge/Arcana (Clerics: Elder)
+  * (E) Kantos: God of Humans, Death, and the Grave (Clerics: Faustus)
+  * (E) Exhus: God of Lizardfolk, Nature, and the Tempest (Clerics: Prelate)

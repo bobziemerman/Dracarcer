@@ -1,0 +1,113 @@
+====== Maha'ai ======
+
+
+Before recorded history, there was a group of mages known as the Maha'ai, consisting of some of the greatest Wordsmiths in the world. They each dedicated such focus to studying a specific facet of magic, that, as they grew in power over the subsequent millennia, they came to physically embody their chosen field of study. Over time, they became immortal and modified their material forms as they saw fit, becoming unrecognizable as the beings they once were. 
+
+Eventually, they grew to such power that the five great mortal races allied together in self-preservation to banish them through the southern gates, ridding the world of many of its most powerful, near elemental forces. However, some were either too powerful or not powerful enough to be pulled by the region's call, and remain on Aidilon today. But even from the planes beyond, the Maha'ai soon learned to reach back across the great divide, and began influencing their former homeland in the hopes of reclaiming it when the mortals' magic ran out, and they could return to conquer Aidilon once again.
+
+All Maha'ai are ultimately self interested, and therefore evil; some of the most powerful are listed below:
+
+
+===== Greater Maha'ai (gods) =====
+
+  * **(Neutral) Na'eisai (being): Life, creation**
+    * Aliases: 
+      * Na'issa (Qurea, Hartland, Evedale)
+      * Mother Nature (common)
+    * Cleric Domains: Life, Nature
+    * Notes: 
+      * Still on Aidilon; this is where druids and rangers draw their power from
+      * Semi-incorporeal; consciousness is distributed throughout all living things
+      * Opposite force to Akamptos, but has been winning out since banishment since she was able to remain on Aidilon
+  * **(Neutral) Akamptos (unbeing): Death, entropy**
+    * Aliases: 
+      * Kantos (Qurea, Hartland, Evedale)
+    * Cleric Domains: Death, The Grave
+    * Notes: 
+      * Opposite force to Na'eisai
+
+---------------------------------------------------------------------
+
+  * **(Lawful) Eirin (peace): Peace, harmony, rest**
+    * Aliases: 
+      * Airin (Qurea)
+      * Erony (Qurea)
+    * Cleric Domains: Order, Protection, Solidarity
+    * Notes:
+      * Opposite force to Polemos
+      * Original name: Kamas'
+  * **(Chaotic) Polemos (war): Fire, chaos, strife, destruction**
+    * Aliases: 
+      * Khorzh (Qurea, Kharsh)
+      * Palamus (Qurea)
+    * Cleric Domains: War
+    * Notes:
+      * Opposite force to Eirini
+      * Original name: Arros
+
+---------------------------------------------------------------------
+
+  * **(Lawful) Fos (light): Light, knowledge**
+    * Aliases: 
+      * Faus (Qurea)
+      * Kairys (Qurea, Hartland)
+    * Cleric Domains: Arcana, Knowledge, Light
+    * Notes:
+      * Opposite force to Skotadi
+  * **(Chaotic) Skotadi (darkness): Darkness, confusion, secrets**
+    * Aliases: 
+      * Kota (Qurea)
+      * Hroknar (Istovia)
+    * Cleric Domains: Trickery
+    * Notes:
+      * Opposite force to Fos
+
+---------------------------------------------------------------------
+
+  * **(Lawful) Edafos (ground): Earth, land, solids**
+    * Aliases: 
+      * Dathos (Qurea)
+      * Edda (Qurea, Hartland, Evedale)
+    * Cleric Domains: Cities, The Forge
+    * Notes:
+      * Opposing force to Thalassa and Anemos
+  * **(Neutral) Thalassa (sea): Water, oceans, liquid**
+    * Aliases:
+      * Tassala (Neeru)
+    * Notes:
+      * Opposing force to Edafos and Anemos
+  * **(Chaotic) Anemos (wind): Air, movement, gases**
+    * Notes:
+      * Opposing force to Edafos and Thalassa
+
+---------------------------------------------------------------------
+
+  * **(Neutral) Exousia (power): Strength, energy**
+    * Aliases: 
+      * Exhus (Qurea, Evedale)
+      * Xusia (Qurea)
+    * Cleric Domains: Ambition, Strength, The Tempest, Zeal
+    * Notes: 
+      * The first true dragon, and the source of the draconic races
+      * Was weak enough to resist the pull of the gates, still lives in Wrakarr
+      * Over generations, his disciples who lived near the Bloodwell eventually became chromatic dragons, those near the Wellspring became metallic dragons, and those near the upwelling became the gem dragons
+
+
+===== Lesser Maha'ai =====
+
+  * **(Chaotic) Lachtara (yearning): Obsessive love**
+    * Aliases:
+      * Laak'tara (Hartland)
+    * Cleric domains: Protection, Zeal
+    * Notes:
+      * Still on Aidilon; has never been able to gain much power because her cults keep self-destructing
+
+  * **The Chalice of Fate**
+    * Notes:
+      * The result of an attempt to use magic to rewrite the universe
+      * Originally began as a Maha'ai, but the mantle has since been passed to a line of successors over time
+
+
+===== TODO Maha'ai =====
+
+ * Time

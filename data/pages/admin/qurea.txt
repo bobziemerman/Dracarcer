@@ -1,9 +1,31 @@
 ====== Qurea secret stuff ======
 
+===== Race distributions =====
+
+  * Dominant: The single most prevalent race
+    * Elves
+  * Minority: Common, but not the largest
+    * Humans
+    * Gnomes
+    * Dragonborn (blue, bronze, topaz)
+    * Halflings
+    * Aasimar
+    * Tieflings
+  * Enclave: A large collection found in one place; ex. a neighborhood or district
+    * Orcs
+    * Dwarves
+  * Group: A smaller collection than an enclave; ex. a family or guild
+    * Lizardfolk
+  * Individual: A single person that doesn’t represent a larger group
+    * 
+  * Singular: There is only one of this race in the area; ex. a beholder crime lord
+    * 
+
 ===== People, places, monsters, objects, and events of note =====
   * Qurea was the original birthplace of the elves, and many modern words and locations can be traced back to them
   * 9900+:
-    * People rarely use mounts since you can freely teleport anywhere and Griffon in most large cities, but when they do, they use Elk
+    * People rarely use mounts since you can freely teleport anywhere and rent hippogriffs in most large cities, but when they do, they use Elk
+    * He, the Magister attained his position by making a deal with the original source of his bloodline, a pit fiend named Dror’gath. In exchange for keeping the magister in power, he actively works to undermine the factions in Qurea that worship the good and chaotic-aligned deities
     * Alistair Fidelian
       * Had his son killed in an apparent demon attack to garner sympathy to make it to 4th order
       * Tries to keep tabs on Azura, mostly to play on her death as well
@@ -21,5 +43,11 @@
     * Ariadne Dusta was resurrected, and is technically an undead
     * Higher-ups in the anarchist group are warlocks of Nydos, the god of chaos, and receive power and artifacts from him for sewing chaos
     * Dayvah Malai isn't dead, and lives in her house
+    * The Marbled Palace specializes in breads with mint and cinnamon
+    * The symbol group is only posing as anarchists; they're mostly run by 2-3 order mages
+      * Dropped the magisterium into the sea because they had bought all the property that would be on the new coast, and the magisters would have to pay them a fortune to rebuild the palace
+    * Ariadne Dusta was resurrected, which technically makes her undead
+    * Vikander renamed Greywald Hold in Dracwyn to Greyblood
+    * Mortag is stuck in a painting hung somewhere in castle Greywald (Vikander knows what he's up to)
 
 

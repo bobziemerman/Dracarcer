@@ -1,5 +1,11 @@
 ====== Anschluss ======
-{{anschluss.jpg?300 }}
 {{ lizardfolk.jpg?300}}
 
-In the swampland to the southwest of Evedale lies the marshes of the Anschluss. In the eighth age, the region's fledgling Lizardfolk tribes organized into a confederation of the same name, and declared their independence from the people of Evedale. After a bitter war, Evedale conceded the swamplands to the south, and the Anschluss gained sovereignty of their native homeland. They remain largely inactive in Aidilon politics, preferring to keep to themselves and their kin; and to this day are wary and untrusting of outsiders.
+In the swampland to the southwest of Evedale lie the marshes of the Anschluss. In the eighth age, the region's fledgling Lizardfolk tribes organized into a confederation of the same name, and declared their independence from their slavers in Evedale. After a bitter war with the denizens of the , Evedale conceded the swamplands to the south, and the Anschluss gained sovereignty over their native homeland. They remain largely inactive in Aidilon politics, preferring to keep to themselves and their kin; and to this day are wary and untrusting of outsiders.
+
+
+
+ --------------------------------------------------------------------------------------
+
+
+{{anschluss.jpg?300 }}

@@ -103,6 +103,7 @@
   * **Evedale**
     * 9,898: Lucius Vikander finds the Bloodwell abandoned in the Underdark, takes it to Fallwinter
     * 9,926: A plague sweeps Evedale, killing many, especially in Lazhani
+    * 9,927: **SESSION**: Trick or Treant: The Feast of the Gathering Undead
     * **CAMPAIGN**: Bloodwell (count spookula)
       * 9,935: 
         * Foxwynne/Aldmorrow civil war begins

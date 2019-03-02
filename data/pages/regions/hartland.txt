@@ -12,7 +12,7 @@ The noble kingdom of Hartland is in many ways a balancing point within Dracarcer
 
 {{corwald.jpg}}
 === Corwald ===
-Hartland's capital of Corwald can be found 250 miles east of the coast, and sits roughly at the center of the country's territories. The city itself is built atop a gently sloping hill, with the city's sections forming concentric rings that rise toward Castle Longspire at the center. The city sections are as follows:
+Hartland's capital of Corwald can be found 250 miles east of the coast, and sits roughly at the center of the country's territories, near lake Mala'ki, along the Na'is river. The city itself is built atop a gently sloping hill, with the city's sections forming concentric rings that rise toward Castle Longspire at the center. The city sections are as follows:
   * Castle Longspire
     * The seat of power of the Realm of Hartland; from this central location, the King and his court oversee the affairs of the kingdom, and protect its interests.
   * Boroughgrove District
@@ -26,9 +26,19 @@ Hartland's capital of Corwald can be found 250 miles east of the coast, and sits
 
 {{:corwald3.jpg}}
 
+\\
+
+=== Kamidryma ===
+{{:kamidryma.png?300 }}
+Nestled deep within the Fellwood in between its twin rivers of Na'is and Kant, rests an academy of magics known to few. Those in Hartland who wish to master the arcane arts (but who lack the prestige to make their way to one of the schools in Qurea), often find themselves amidst Kamidryma's secluded halls. 
+
+The institution produces some of the finest mages in Hartland; but with no oversight from the kingdom, and little insight into the practices and motivations of the staff, no one's entirely sure what goes on there... or who //doesn't// come out.
+
+\\
+\\
 
 === Mistharbor ===
-{{ :mistharbor.jpg?400}}
+{{ :mistharbor.jpg?300}}
 Along Hartland's eastern coast lies the sleepy fishing village of Mistharbor. Despite being the closest port city to Corwald, the town's permanent residents often only number in the hundreds.
 
 
@@ -82,7 +92,13 @@ Along Hartland's eastern coast lies the sleepy fishing village of Mistharbor. De
 
 
 ==== Deities ====
-  * (G) Na'issa: Goddess of Halflings/Gnomes, Light, and Life
-  * (N) Kairys: Goddess of Elves, Arcana, and Knowledge (sister to Kantos)
-  * (N) Edda: Goddess of Dwarves, Strength, and the Forge
-  * (E) Kantos: God of Humans/Orcs, Death/the Grave, and War/Zeal (brother to Kairys)
+
+=== Primary ===
+  * (G) Na'issa: Goddess of Halflings/Gnomes, Light, and Life (Clerics: Pastor)
+  * (N) Kairys: Goddess of Elves, Arcana, and Knowledge (sister to Kantos) (Clerics: Confessor)
+  * (N) Edda: Goddess of Dwarves, Strength, and the Forge (Clerics: Elder)
+  * (E) Kantos: God of Humans/Orcs, Death/the Grave, and War (brother to Kairys) (Clerics: Faustus)
+
+=== Secondary ===
+  * (G) Laak'tara: Goddess of Love, Beauty, Protection, and Zeal (Clerics: Abbot)
+
