@@ -101,6 +101,11 @@
 
 === 10th Age ===
   * **Evedale**
+    * 9153: first redwood begins growing
+    * 9267: redwood has surrounded fallwinter
+    * 9634: redwood claims second city
+    * 9788: redwood claims third city
+    * 9850: redwood reaches wrakarr, cuts off travel to east evedale
     * 9,898: Lucius Vikander finds the Bloodwell abandoned in the Underdark, takes it to Fallwinter
     * 9,926: A plague sweeps Evedale, killing many, especially in Lazhani
     * 9,927: **SESSION**: Trick or Treant: The Feast of the Gathering Undead
@@ -120,6 +125,10 @@
       * Evedale pushes Istovia back north with the help of the Drow, ending the war
       * Rhazien Hartley discovers the Chalice of Fate and begins altering the world
     * 9,946: **CAMPAIGN**: Veil of Night
+    * 9949: Iris becomes a lich and begins her war on the underdark
+    * 9992: Iris has conquered most of the Underdark
+    * 9995: Iris begins sending necromancers above ground to establish a foothold
+    * 9993: redwood claims old aldmorrow
   * **Hartland**
     * 9,945: **CAMPAIGN:** Chalice of Fate (Hartland section)
       * Bandits in the east organize into the Steelbourne Collective, start claiming territory on the east coast

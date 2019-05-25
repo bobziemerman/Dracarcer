@@ -3,7 +3,7 @@
 
 Few live by choice within the dark, and often ominous, borders of the dominion of Evedale; it is often simply the hand they were dealt by fate. For reasons unknown, greater misfortune seems to fall upon the country's inhabitants than on people elsewhere, and all manner of malice and ill-intent finds itself drawn to Evedale's lands. Perhaps it has something to do with the country's proximity to Wrakarr, or maybe it's just an ongoing sense of dread over the recurring wars with Istovia; but something about Evedale is decidedly... unwelcoming.
 
-The land itself is even inhospitable to its residents: the maleficent Redwood that pervades most of Evedale's forested eastern territories does not take kindly to things traveling within it. The thick, twisting roots of the deep red plants ooze a slick substance poisonous to most creatures; and their branches have a tendency to lash out with little warning, and hostile intent.
+The land itself is even inhospitable to its residents: the maleficent Redwood that pervades most of Evedale's forested eastern territories does not take kindly to things traveling within it. The thick, twisting roots of the deep red plants ooze a slick substance poisonous to most creatures; and their branches have a tendency to lash out with little warning, and hostile intent. Evedale is also home to Mount Svovl, the continent's only known active volcano.
 
 
 -----------------------------------------------------------------------
@@ -22,7 +22,7 @@ The populous capital city of Dracwyn hosts Greywald Hold, home to the royal fami
 
 === Fallwinter ===
 {{ :fallwinter.jpg?500}}
-Fallwinter is one of the largest cities in Evedale, besides Dracwyn; and the king's right hand, the Count of Fallwinter, resides in the city's castle, governing much of the eastern half of Evedale.
+Fallwinter is one of the largest cities in Evedale, besides Dracwyn; and the king's right hand, the Count of Fallwinter, resides in the city's castle, the Ebon Spire, governing much of the eastern half of Evedale.
 
 
 --------------------------------------------------------
@@ -30,7 +30,7 @@ Fallwinter is one of the largest cities in Evedale, besides Dracwyn; and the kin
 
 === Haedleigh ===
 {{ :haedleigh.jpg?300}}
-Dracwyn's nearby sister city of Haedleigh to the southwest has grown in recent years, becoming a large and well-established power in its own right. Commerce there is strong, despite its residents reputation for being obtusely strong-headed, and often quite inhospitable to outsiders. 
+Dracwyn's nearby sister city of Haedleigh to the north has grown in recent years, becoming a large and well-established power in its own right. Commerce there is strong, despite its residents reputation for being obtusely strong-headed, and often quite inhospitable to outsiders. 
 
 
 === Lazhani ===
@@ -50,7 +50,7 @@ The twin cities of Foxwynne and Aldmorrow sit on either side of the river Tels, 
 
 === Malaemor ===
 {{ :malaemor.jpg?450}}
-The drow city of Malaemor was built as a part of the Blackfrost Treaty of 9941. In return for providing Evedale with aid in the war, the Drow were permitted to build a city above the Underdark fracture, in the swamps south of Dracwyn; as well as appointing one of their own as a marquis in the capital city. Evedale's dense forests and even murkier swamps provided enough darkness for the light-sensitive Drow to successfully establish their first true stronghold in the surface world. 
+The drow city of Malaemor was built as a part of the Blackfrost Treaty of 9941. In return for providing Evedale with aid in the war, the Drow were permitted to build a city above the Underdark fracture, in the swamps southwest of Dracwyn; as well as appointing one of their own as a marquis in the capital city. Evedale's dense forests and even murkier swamps provided enough darkness for the light-sensitive Drow to successfully establish their first true stronghold in the surface world. 
 
 
 -------------------------------------
@@ -58,7 +58,7 @@ The drow city of Malaemor was built as a part of the Blackfrost Treaty of 9941. 
 
 === The Fracture ===
 {{ :fracture.jpg?425}}
-In 9935, in the swamps south of Dracwyn, a fissure opened up, revealing an entrance to a world previously unknown to surface dwellers: the Underdark. Many species, including the Drow, call this place home, and have built entire civilizations beneath the protection of Dracarcer's solid earth. 
+In 9935, in the swamps southwest of Dracwyn, a fissure opened up, revealing an entrance to a world previously unknown to surface dwellers: the Underdark. Many species, including the Drow, call this place home, and have built entire civilizations beneath the protection of Dracarcer's solid earth. 
 
 
 === Evaire ===
@@ -66,8 +66,7 @@ In 9935, in the swamps south of Dracwyn, a fissure opened up, revealing an entra
 
 
 === Other Locales ===
-  * Vallbarrow: Mining town, north of Fallwinter on the border of Istovia
-  * Linhollow: Hunting outpost NE of Dracwyn
+  * Valbarrow: Mining town in the northwest of Evedale near the border of Istovia
 
 
 -----------------------------------------------------------------------
@@ -89,7 +88,7 @@ In 9935, in the swamps south of Dracwyn, a fissure opened up, revealing an entra
     * Professor Richard Mortimer: Machinist from Istovia [Human M]
     * Eron McCallister: Warden of the Mere [Halfling M]
 
-{{ :lucius_vikander.png?110}}
+{{ :lucius_vikander.jpg?110}}
 === Fallwinter ===
   * Nobility
     * Lucius Vikander: Count of Fallwinter [Human M]

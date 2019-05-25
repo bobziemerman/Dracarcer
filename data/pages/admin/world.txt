@@ -14,6 +14,16 @@ Real world language analogs:
   * Sylvan (Fey): Hawaiian
   * Undercommon (underdark, drow): Xhosa (accent: south african "ahyam froahm sout ahflicka")
 
+
+===== Notes =====
+
+  * The border to the Prime Material Plane-adjacent planes is thinnest at different parts of the year:
+    * Mid-Spring: Astral
+    * Mid-Summer: Feywild
+    * Mid-Fall: Shadowfell
+    * Mid-Winter: Ethereal
+
+
 ===== Racial Origins =====
 In pre-history, most of the major races were indigenous to specific regions and evolved to suit their climate:
   * Aasimar/Tieflings: Deity/Human hybrids; born whenever, wherever
