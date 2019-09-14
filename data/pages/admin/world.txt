@@ -4,7 +4,7 @@
 Real world language analogs:
   * Common (human): English
   * Dwarvish: Bulgarian (accent: russian with rolled R's)
-  * Elvish: Georgian (accent: W -> V? "...vether he vus vorking aglaught or gnaught..."?)
+  * Elvish: French
   * Gnomish: Filipino (accent: midwestern "yoo gahys whin, dontchyano")
   * Halfling: Danish (accent: speak through touching incisors, but not molars, with toothy cringe?)
   * Orcish: Uzbek

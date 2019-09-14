@@ -3,7 +3,6 @@ Dracarcer is a fantasy roleplaying setting originally build for D&D, and assumes
 
 
 ==== Continents / Countries ====
-{{ aidilon.png?450}}
 
 === Aidilon ===
   * [[Regions:Anschluss]]: The swamp tribes of the Anschluss welcome few into their turf
@@ -18,6 +17,7 @@ Dracarcer is a fantasy roleplaying setting originally build for D&D, and assumes
   * [[Regions:Kharsh]]: The sun-laiden plains of Kharsh will test your mettle and decide your worth
   * [[Regions:Ku'nogar]]: A mysterious land to the far east, its secrets shrouded in mist
 
+{{url>http://www.bobzimmerman.info/dracarcer-map/ 1000,700}}
 
 ==== Mechanical changes ====
 

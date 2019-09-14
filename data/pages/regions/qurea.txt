@@ -35,10 +35,10 @@ Notable places within the city:
   * The Crown of the Gods: A collection of holy sites, representing most of the deities of Archerald
   * The Alcove: The city's magicless prison, entered via the Crown, but primarily housed beneath it
   * The Portcullis: The northeastern gate, closest to the city's main port
-  * The Green Way: The northwestern gate housed in the city's forested section
-  * The Western Portal: The city's west gate that also runs teleport circles to most cities in Qurea, as well as locations in other countries
+  * The Green Path: The northwestern gate housed in the city's forested section
+  * The Way of Ways: The city's west gate that also runs teleport circles to most cities in Qurea, as well as locations in other countries
   * The South Gate: Archerald's southeast gate
-  * The Dockhouse: Storage for Archerald's navy
+  * The Boathouse: Storage for Archerald's navy
 
 
 === Azuroc ===

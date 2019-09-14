@@ -23,7 +23,7 @@
   * **Istovia**
     * 2,184: Istovia has a Valthril-fueled mechanical renaissance
     * 2,213: Istovia invades and conquers most of Aidilon
-    * 2,244: Istovian Empire repatriates its citizens in an attempt to erase all non-Istovian culture
+    * 2,244: Istovian Empire repatriates its citizens and destroys all non-Istovian history in an attempt to create a single, unified culture
     * 2,689: Istovia formally bans all arcane magic
   * **Qurea**
     * 2,705-2,727: Uprisings push Istovian forces north, back to the mountains
