@@ -44,22 +44,18 @@ Dracarcer is a fantasy roleplaying setting originally build for D&D, and assumes
 
   * Some beings in Dracarcer (notably in Istovia) have mechanical body parts, often made with with the magic-resistant element **Valthril**, which allows for the creation of advanced circuitry. Certain constructs and machines are made with this element as well; and it confers three levels of magic-resistance (which stack), depending on the amount of Valthril present (for biological creatures, this is often tracked by the number of major body parts replaced):
     * +25% / 1+ body parts
-      * Cannot be effected by a single spell for more than one round at a time
-      * Cannot maintain spell concentration
-      * Gearboxes (mechanical repair/augment devices analogous to potions) have no effect
+      * Spellcasting: Cannot maintain spell concentration
+      * Spell Resistance: Advantage on saving throws to resist spells and other magical effects
     * +50% / 2+ body parts
-      * Advantage on saves to resist magic
-      * Disadvantage when casting spells, excluding rituals and spell scrolls
-      * All damage or healing from spells you cast is minimized (always take lowest values on dice)
-      * Potion effects are halved
-      * Gearbox effects are halved
+      * Spellcasting: Disadvantage when casting spells
+      * Spell Resistance: Ranged spell attacks made against this creature have disadvantage
+      * Lightning: Resistance to Lightning damage
+      * Object Effects: Dice effects for potions and gearboxes are minimized
     * +75% / 3+ body parts, or majority of body
-      * Resistance to magic damage/healing
-      * Cannot cast spells
-      * Potions have no effect
-      * Gearboxes have full effect
-
-  * **Abyssal, Celestial, and Infernal** are all the same language in Dracarcer, just different 'dialects', so to speak; if you are know more than one, you may trade out for something else
+      * Spellcasting: Cannot cast spells
+      * Spell Resistance: Automatically succeeds on saving throws against spells and other magical effects
+      * Lightning: Immunity to Lightning damage
+      * Object Effects: Potions are non-effective, and gearboxes offer full effects
 
 
 ==== General setting lore ====

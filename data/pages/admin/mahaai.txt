@@ -14,7 +14,7 @@ All Maha'ai are ultimately self interested, and therefore evil; some of the most
     * Aliases: 
       * Na'issa (Qurea, Hartland, Evedale)
       * Mother Nature (common)
-    * Cleric Domains: Life, Nature
+    * Cleric Domains: Life, Nature, ~Twilight
     * Notes: 
       * Still on Aidilon; this is where druids and rangers draw their power from
       * Semi-incorporeal; consciousness is distributed throughout all living things
@@ -22,7 +22,7 @@ All Maha'ai are ultimately self interested, and therefore evil; some of the most
   * **(Neutral) Akamptos (unbeing): Death, entropy**
     * Aliases: 
       * Kantos (Qurea, Hartland, Evedale)
-    * Cleric Domains: Death, The Grave
+    * Cleric Domains: Death, The Grave, ~War, ~Trickery
     * Notes: 
       * Opposite force to Na'eisai
 
@@ -30,16 +30,14 @@ All Maha'ai are ultimately self interested, and therefore evil; some of the most
 
   * **(Lawful) Eirin (peace): Peace, harmony, rest**
     * Aliases: 
-      * Airin (Qurea)
       * Erony (Qurea)
-    * Cleric Domains: Order, Protection, Solidarity
+    * Cleric Domains: Twilight
     * Notes:
       * Opposite force to Polemos
       * Original name: Kamas'
   * **(Chaotic) Polemos (war): Fire, chaos, strife, destruction**
     * Aliases: 
       * Khorzh (Qurea, Kharsh)
-      * Palamus (Qurea)
     * Cleric Domains: War
     * Notes:
       * Opposite force to Eirini
@@ -51,7 +49,7 @@ All Maha'ai are ultimately self interested, and therefore evil; some of the most
     * Aliases: 
       * Faus (Qurea)
       * Kairys (Qurea, Hartland)
-    * Cleric Domains: Arcana, Knowledge, Light
+    * Cleric Domains: ~Arcana, ~Knowledge, ~Light, ~Trickery
     * Notes:
       * Opposite force to Skotadi
   * **(Chaotic) Skotadi (darkness): Darkness, confusion, secrets**
@@ -68,7 +66,7 @@ All Maha'ai are ultimately self interested, and therefore evil; some of the most
     * Aliases: 
       * Dathos (Qurea)
       * Edda (Qurea, Hartland, Evedale)
-    * Cleric Domains: Cities, The Forge
+    * Cleric Domains: The Forge, ~Order, ~Arcana, ~Knowledge, ~Tempest
     * Notes:
       * Opposing force to Thalassa and Anemos
   * **(Neutral) Thalassa (sea): Water, oceans, liquid**
@@ -85,8 +83,7 @@ All Maha'ai are ultimately self interested, and therefore evil; some of the most
   * **(Neutral) Exousia (power): Strength, energy**
     * Aliases: 
       * Exhus (Qurea, Evedale)
-      * Xusia (Qurea)
-    * Cleric Domains: Ambition, Strength, The Tempest, Zeal
+    * Cleric Domains: ~Light, ~Tempest, ~War
     * Notes: 
       * The first true dragon, and the source of the draconic races
       * Was weak enough to resist the pull of the gates, still lives in Wrakarr
@@ -98,7 +95,6 @@ All Maha'ai are ultimately self interested, and therefore evil; some of the most
   * **(Chaotic) Lachtara (yearning): Obsessive love**
     * Aliases:
       * Laak'tara (Hartland)
-    * Cleric domains: Protection, Zeal
     * Notes:
       * Still on Aidilon; has never been able to gain much power because her cults keep self-destructing
 

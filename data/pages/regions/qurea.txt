@@ -8,7 +8,7 @@ The Game, as it is often called by Qurea's citizens, is played by most members o
 
 Each Qurean is granted entry into the Seventh Order upon birth or citizenship, and each member of an Order votes seasonally to elect the members of the Order above (your vote is maintained across elections until you change it). Members of any Order may also issue edicts, which must be treated as law unless overruled by someone of a higher Order, or contested by someone of the same Order, at which point the contested edict is handed up to the next highest Order for resolution. The only exception to these rules is Qurea's national guard, known simply as 'Citizens of Order'; to whom edicts may not be applied while they are on duty. They are instead required to follow an internal code, and are responsible for self-policing.
 
-Qurea's seven First Order mages are known as the Magistrati, who both reside and do most of their governmental business in the capital city's sprawling coastal palace, called the Magisterium. Traditionally, each Magistrator is often a representative of one of the current most prevalent types of spellcaster; though that has not always been true throughout history. There are many among the Giftless segment of the population who advocate for better representation of non-magical individuals in the higher levels of Qurean government; and there are a few who aggressively act on their malcontent.
+Qurea's seven First Order mages are known as the Magistrati, who both reside and do most of their governmental business in the capital city's sprawling coastal palace, called the Magisterium. Traditionally, each Magister is often a representative of one of the current most prevalent types of spellcaster; though that has not always been true throughout history. There are many among the Giftless segment of the population who advocate for better representation of non-magical individuals in the higher levels of Qurean government; and there are a few who aggressively act on their malcontent.
 
 However, as a country populated almost exclusively by magical beings, Qurea and its major cities are prone to certain magical quirks. For example, the country is almost exclusively vegetarian, and prefers healthier dishes that have simply been magically flavored to taste exquisite. Much of the landscape, particularly the layout of the the capital city of Archerald, is also prone to shifting; as is bound to happen when those who can physically move mountains have little else better to do.
 
@@ -31,7 +31,14 @@ Teleportation is prohibited within the city, to deter sudden and unwanted 'guest
 
 
 Notable places within the city:
-  * The Magisterium: The city palace, center of government, and home of the Magistrati
+  * The Magisterium: The city palace, center of government, and home of the Magistrati. Each section of the Magisterium serves a purpose based on its residents' unique talents:
+    * Mts'Vane (Druids): Acts as a seed vault and animal protectorate
+    * The Essentium (Sorcerors): Conducts research and training related to magical warfare
+    * The Concordat (Warlocks): The primary home of courts, law, and contracts in Qurea
+    * The Blessed Sanctum (Clerics): Hallowed ground that protects the catacombs housing the remains of powerful dead
+    * The Halls of Virtue (Paladins): Secure protection of powerful magical artifacts
+    * The Arcanum (Wizards): Incubator for arcane research
+    * The Bastion of Wondrous Knowledge and Extraordinary Lore (Bards): The grand library of the continent's most complete collection of information
   * The Crown of the Gods: A collection of holy sites, representing most of the deities of Archerald
   * The Alcove: The city's magicless prison, entered via the Crown, but primarily housed beneath it
   * The Portcullis: The northeastern gate, closest to the city's main port
@@ -48,7 +55,7 @@ Some say Azuroc is blessed by the gods, and that all who dwell there will be lai
 
 === Fortis ===
 
-Fortis is one of the few remaining great strongholds of a forgotten age; their necessity lost to time. Now, it is mostly used as a training ground and waypoint for those soldiers and constructs sent in aid to the northern countries in their eternal battle with Istovian empiricism. 
+Fortis is one of the few remaining great strongholds of a forgotten age; their necessity lost to time. It rests on a floating island of rock, suspended in the air by some powerful magics long forgotten. Now, it is mostly used as a training ground and waypoint for those soldiers and constructs sent in aid to the northern countries in their eternal battle with Istovian empiricism. 
 
 
 === Grukagg ===
@@ -135,13 +142,13 @@ Some astral anomaly has caused a multiversal nexus to form in the groves around 
 {{ alistair.jpg?150}}
   * Nobility
     * The Magistrati: Archerald's ruling council
-      * Magistrator Dynsbecc Gumjuss (F Gnome 1st Order Druid)
-      * Magistrator Talven Brightfallow (M Dwarf 1st Order Sorcerer)
-      * Magistrator Ahd’m Enkathi (M Dragonborn 1st Order Warlock)
-      * (Magistrator) Confessor Tavia Hlothren (F Halfling 1st Order Cleric of Kairys)
-      * Magistrator Paladin Kharga Ghamuk (F Half-Orc 1st Order Paladin of Edda)
-      * Magistrator Magistrator (“He, the Magistrator”) (M Tiefling 1st Order Wizard)
-      * Magistrator Ilithra Elsalor (F High Elf 1st Order Bard)
+      * Magister Dynsbecc Gumjuss (F Gnome 1st Order Druid)
+      * Magister Talven Brightfallow (M Dwarf 1st Order Sorcerer)
+      * Magister Ahd’m Enkathi (M Dragonborn 1st Order Warlock)
+      * (Magister) Confessor Tavia Hlothren (F Halfling 1st Order Cleric of Kairys)
+      * Magister Paladin Kharga Ghamuk (F Half-Orc 1st Order Paladin of Edda)
+      * Magister Magister (“He, the Magister”) (M Tiefling 1st Order Wizard)
+      * Magister Ilithra Elsalor (F High Elf 1st Order Bard)
     * Denir Zathar (M High Elf 2nd Order Warlock)
     * Alistarianthos 'Alistair' Fidelian (M High Elf 2nd Order Bard)
       * Branwen Fidelian (Alistair's wife) (F Human 5th Order Bard)
@@ -200,18 +207,14 @@ Some astral anomaly has caused a multiversal nexus to form in the groves around 
 
 ==== Deities ====
 
-=== Primary ===
-  * (G) Na'issa: Goddess of Halflings and Life (sister to Kantos) (Clerics: Pastor)
+  * (G) Na'issa: Goddess of Halflings, Nature, and Life (sister to Kantos) (Clerics: Pastor)
   * (G) Faus: God of Gnomes and Light (Clerics: Curate)
+  * (G) Dathos: God of Order (Clerics: Chaplain)
   * (N) Kairys: Goddess of Elves, Arcana, and Knowledge (Clerics: Confessor)
-  * (N) Edda: Goddess of Dwarves, Dragonborn, Strength, and the Forge (Clerics: Elder)
+  * (N) Edda: Goddess of Dwarves and the Forge (Clerics: Elder)
+  * (N) Erony: Goddess of Twilight (Clerics: Minister)
   * (E) Kantos: God of Humans, Death, and the Grave (brother to Na'issa) (Clerics: Faustus)
-  * (E) Khorzh: God of Orcs, War, and Zeal (Clerics: Mog)
-
-=== Secondary ===
-  * (G) Erony: Goddess of Protection (Clerics: Deacon)
-  * (G) Airin: Goddess of Solidarity (Clerics: Minister)
-  * (N) Dathos: God of Order and Cities (Clerics: Chaplain)
-  * (N) Exhus: God of Lizardfolk, Nature, and the Tempest (Clerics: Prelate)
-  * (E) Xusia: Goddess of Ambition (Clerics: Caliph)
+  * (E) Exhus: God of Dragonborn and the Tempest (Clerics: Caliph)
   * (E) Kota: God of Trickery (Clerics: Vicar)
+  * (E) Khorzh: God of Orcs and War (Clerics: Mog)
+

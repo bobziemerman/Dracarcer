@@ -138,7 +138,7 @@ In 9935, in the swamps southwest of Dracwyn, a fissure opened up, revealing an e
 
 
 ==== Deities ====
-  * (G) Na'issa: Goddess of Elves/Halflings, Light, and Life (Clerics: Pastor)
-  * (N) Edda: God of Gnomes/Dwarves, Strength/the Forge, Knowledge/Arcana (Clerics: Elder)
-  * (E) Kantos: God of Humans, Death, and the Grave (Clerics: Faustus)
-  * (E) Exhus: God of Lizardfolk, Nature, and the Tempest (Clerics: Prelate)
+  * (G) Na'issa: Goddess of Elves/Halflings, Life, Nature, and Twilight (Clerics: Pastor)
+  * (N) Edda: God of Gnomes/Dwarves, Arcana, the Forge, Knowledge, and Order (Clerics: Elder)
+  * (E) Kantos: God of Humans, Death, the Grave, and Trickery (Clerics: Faustus)
+  * (E) Exhus: God of Dragonborn/Lizardfolk, Light, the Tempest, and War (Clerics: Caliph)

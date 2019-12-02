@@ -102,10 +102,10 @@ Linhollow is a small hunting village just northeast of Corwald. They have a repu
 ==== Deities ====
 
 === Primary ===
-  * (G) Na'issa: Goddess of Halflings/Gnomes, Light, and Life (Clerics: Pastor)
-  * (N) Kairys: Goddess of Elves, Arcana, and Knowledge (sister to Kantos) (Clerics: Confessor)
-  * (N) Edda: Goddess of Dwarves, Strength, and the Forge (Clerics: Elder)
-  * (E) Kantos: God of Humans/Orcs, Death/the Grave, and War (brother to Kairys) (Clerics: Faustus)
+  * (G) Na'issa: Goddess of Halflings/Gnomes, Life, Nature, and Twilight (Clerics: Pastor)
+  * (N) Kairys: Goddess of Elves, Arcana, Knowledge, and Light (sister to Kantos) (Clerics: Confessor)
+  * (N) Edda: Goddess of Dwarves/Dragonborn, the Forge, Order, and the Tempest (Clerics: Elder)
+  * (E) Kantos: God of Humans/Orcs, Death, the Grave, Trickery, and War (brother to Kairys) (Clerics: Faustus)
 
 === Secondary ===
   * (G) Laak'tara: Goddess of Love, Beauty, Protection, and Zeal (Clerics: Abbot)

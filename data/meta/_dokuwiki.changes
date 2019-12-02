@@ -1,23 +1,3 @@
-1558734619	70.32.0.101	E	admin:evedale-secrets	bobziemerman			802
-1558734726	70.32.0.101	E	admin:timeline	bobziemerman			477
-1558735104	70.32.0.101	E	admin:hartland-secrets	bobziemerman			660
-1558736207	70.32.0.101	E	admin:istovia-secrets	bobziemerman			576
-1558799270	73.135.3.233	E	admin:hartland-secrets	bobziemerman			15
-1558799456	73.135.3.233	E	regions:qurea	bobziemerman			3
-1558799528	73.135.3.233	E	admin:qurea-secrets	bobziemerman			237
-1558799687	73.135.3.233	E	admin:anschluss-secrets	bobziemerman			72
-1558799719	73.135.3.233	C	admin:kharsh-secrets	bobziemerman	created		835
-1558799852	73.135.3.233	C	admin:neeru-secrets	bobziemerman	created		1050
-1558799866	73.135.3.233	E	admin:neeru-secrets	bobziemerman			-1
-1558799971	73.135.3.233	C	admin:wrakarr-secrets	bobziemerman	created		1137
-1558968491	73.135.3.233	E	home	bobziemerman			40
-1558968514	73.135.3.233	E	home	bobziemerman			0
-1558968874	73.135.3.233	E	regions:qurea	bobziemerman			-2
-1558970780	73.135.3.233	E	admin:timeline	bobziemerman			40
-1558972387	73.135.3.233	D	regions:uthoukar	bobziemerman	removed		-4137
-1562345575	185.133.92.1	E	admin:world	bobziemerman			-71
-1562345609	185.133.92.1	E	regions:evedale	bobziemerman			0
-1562345666	185.133.92.1	E	regions:istovia	bobziemerman			-4
 1568474250	70.32.0.70	E	admin:evedale-secrets	bobziemerman			126
 1568474278	70.32.0.70	E	admin:evedale-secrets	bobziemerman			9
 1568474331	70.32.0.70	E	admin:hartland-secrets	bobziemerman			29
@@ -29,3 +9,31 @@
 1568476128	70.32.0.70	E	regions:qurea	bobziemerman			0
 1568476463	70.32.0.70	E	regions:istovia	bobziemerman			283
 1568476596	70.32.0.70	E	regions:anschluss	bobziemerman			41
+1568477116	70.32.0.70	E	regions:qurea	bobziemerman			751
+1568478106	70.32.0.70	E	admin:qurea-secrets	bobziemerman			270
+1568478209	70.32.0.70	E	admin:hartland-secrets	bobziemerman			136
+1568478229	70.32.0.70	E	admin:hartland-secrets	bobziemerman			2
+1568478257	70.32.0.70	E	admin:hartland-secrets	bobziemerman			131
+1569251888	64.9.247.146	E	home	bobziemerman	[Mechanical changes] 		201
+1569253141	64.9.247.146	E	home	bobziemerman	[Mechanical changes] 		-56
+1569253165	64.9.247.146	E	home	bobziemerman	[Mechanical changes] 		-2
+1569253364	64.9.247.146	E	home	bobziemerman	[Mechanical changes] 		-74
+1575296173	73.135.3.233	E	home	bobziemerman			-190
+1575296911	73.135.3.233	E	regions:istovia	bobziemerman			-283
+1575296981	73.135.3.233	E	regions:istovia	bobziemerman			1
+1575297482	73.135.3.233	E	regions:istovia	bobziemerman			1904
+1575297825	73.135.3.233	E	regions:istovia	bobziemerman			80
+1575298632	73.135.3.233	E	regions:istovia	bobziemerman			610
+1575298724	73.135.3.233	E	regions:istovia	bobziemerman			22
+1575299394	73.135.3.233	E	admin:istovia-secrets	bobziemerman			3233
+1575299525	73.135.3.233	E	regions:evedale	bobziemerman	[Deities] 		27
+1575299629	73.135.3.233	E	regions:evedale	bobziemerman	[Deities] 		11
+1575299700	73.135.3.233	E	regions:hartland	bobziemerman	[Primary] 		50
+1575299961	73.135.3.233	E	regions:qurea	bobziemerman			-186
+1575300276	73.135.3.233	E	regions:hartland	bobziemerman	[Primary] 		0
+1575300469	73.135.3.233	E	admin:mahaai	bobziemerman			-70
+1575300546	73.135.3.233	E	admin:qurea-secrets	bobziemerman			-109
+1575300587	73.135.3.233	E	regions:qurea	bobziemerman			-30
+1575300661	73.135.3.233	E	admin:qurea-secrets	bobziemerman			284
+1575300703	73.135.3.233	E	regions:qurea	bobziemerman	[Fortis] 		100
+1575300840	73.135.3.233	E	admin:neeru-secrets	bobziemerman			386
