@@ -38,6 +38,7 @@ All Maha'ai are ultimately self interested, and therefore evil; some of the most
   * **(Chaotic) Polemos (war): Fire, chaos, strife, destruction**
     * Aliases: 
       * Khorzh (Qurea, Kharsh)
+      * Maa (Sahuagin)
     * Cleric Domains: War
     * Notes:
       * Opposite force to Eirini
@@ -91,6 +92,13 @@ All Maha'ai are ultimately self interested, and therefore evil; some of the most
 
 
 ===== Lesser Maha'ai =====
+
+  * **(Chaotic) Parafrosyni (madness): Insanity**
+    * Aliases:
+      * Arafros (Neeru)
+    * Notes:
+      * Has limited power because he has no church since his followers are all insane
+      * Most followers are tritons, who have the most frequent direct contact with him
 
   * **(Chaotic) Lachtara (yearning): Obsessive love**
     * Aliases:
