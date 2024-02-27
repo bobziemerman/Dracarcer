@@ -1,20 +1,20 @@
-1575297825	73.135.3.233	E	regions:istovia	bobziemerman			80
-1575298632	73.135.3.233	E	regions:istovia	bobziemerman			610
-1575298724	73.135.3.233	E	regions:istovia	bobziemerman			22
-1575299394	73.135.3.233	E	admin:istovia-secrets	bobziemerman			3233
-1575299525	73.135.3.233	E	regions:evedale	bobziemerman	[Deities] 		27
-1575299629	73.135.3.233	E	regions:evedale	bobziemerman	[Deities] 		11
-1575299700	73.135.3.233	E	regions:hartland	bobziemerman	[Primary] 		50
-1575299961	73.135.3.233	E	regions:qurea	bobziemerman			-186
-1575300276	73.135.3.233	E	regions:hartland	bobziemerman	[Primary] 		0
-1575300469	73.135.3.233	E	admin:mahaai	bobziemerman			-70
-1575300546	73.135.3.233	E	admin:qurea-secrets	bobziemerman			-109
-1575300587	73.135.3.233	E	regions:qurea	bobziemerman			-30
-1575300661	73.135.3.233	E	admin:qurea-secrets	bobziemerman			284
-1575300703	73.135.3.233	E	regions:qurea	bobziemerman	[Fortis] 		100
-1575300840	73.135.3.233	E	admin:neeru-secrets	bobziemerman			386
-1578080541	70.32.0.140	E	regions:qurea	bobziemerman			0
-1580933694	206.158.32.178	E	regions:neeru	bobziemerman			2
-1581098158	206.158.32.178	E	admin:mahaai	bobziemerman			276
-1586290462	206.158.32.178	E	admin:mahaai	bobziemerman			23
-1593034391	73.135.3.233	E	admin:artifacts	bobziemerman	[The Bloodwell] 		-34
+1663945919	149.57.16.11	E	races	bobziemerman			30
+1663945965	149.57.16.11	C	species	bobziemerman	created		2634
+1663945999	149.57.16.11	C	species:human	bobziemerman	created		1312
+1663946019	149.57.16.11	E	species:human	bobziemerman			10
+1663946096	149.57.16.11	C	species:elf	bobziemerman	created		5324
+1663946158	149.57.16.11	C	species:dragonborn	bobziemerman	created		5095
+1663946194	149.57.16.11	C	species:orc	bobziemerman	created		3239
+1663946226	149.57.16.11	E	species	bobziemerman			8
+1663946250	149.57.16.11	D	races:human	bobziemerman	removed		-1312
+1663946257	149.57.16.11	D	races:elf	bobziemerman	removed		-5284
+1663946263	149.57.16.11	D	races:dragonborn	bobziemerman	removed		-5090
+1663946268	149.57.16.11	D	races:orc	bobziemerman	removed		-3234
+1663946274	149.57.16.11	D	races	bobziemerman	removed		-2634
+1663946282	149.57.16.11	E	home	bobziemerman			2
+1678315047	149.57.16.47	E	regions	bobziemerman			1
+1678315249	149.57.16.47	E	fellwood	bobziemerman			2
+1678315877	149.57.16.47	E	redweald	bobziemerman			11
+1680127418	149.57.16.53	E	permafrost	bobziemerman	[Cold Comfort] 		0
+1687370618	152.186.162.218	E	religions	bobziemerman			155
+1706891928	154.47.25.146	E	badlands	bobziemerman			4

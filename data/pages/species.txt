@@ -1,0 +1,64 @@
+====== A Multi-Planar Summary of the Species of Dracarcer ======
+
+Note: Individuals of a [[https://www.dndbeyond.com/sources/tcoe/character-options#Personality|Custom Lineage]] can be found for any species, but their presence in the world and historical/cultural contexts described below will remain the same. Those descriptions may or may not match [[https://www.dndbeyond.com/races|other sources]], depending on the species and/or sub-species.
+
+==== Common ====
+  * [[species:human|Human]]
+  * [[species:elf|Elf]]
+  * Dwarf
+  * Halfling
+  * Gnome
+
+==== Uncommon ====
+  * Aasimar (Human + Celestial)
+  * Half-Elf (Human + Elf)
+  * [[species:dragonborn|Dragonborn]] (Human + Dragon)
+  * Firbolg
+  * Goliath
+  * Half-Orc (Human + Orc)
+  * Lizardfolk
+  * [[species:orc|Orc]]
+  * Tiefling (Human + Devil; often mistrusted)
+
+
+----
+**Talk to your GM about any species below this line!**
+----
+
+
+==== Weird ====
+Note: While you may be one of the species below, they are often not found in this setting. So if you are one of these, you may be the only member of your species you ever see throughout your adventures here, and there is not guaranteed to be a group of this species anywhere on this continent (so check with the GM to confirm details of your backstory). Many of these species are natively from other planes, worlds, or settings and you may be the only one to have crossed over somehow.
+
+  * Aarakocra
+  * Centaur (Lore will be different; this is not Theros)
+  * Changeling (Human + Doppelganger)
+  * Genasi (Human + Genie)
+  * Gith
+  * Grung
+  * Kobold
+  * Leonin
+  * Locathah
+  * Loxodon
+  * Satyr (Lore will be different; this is not Theros)
+  * Tabaxi
+  * Tortle
+  * Triton
+  * Vedalken
+  * Verdan
+
+==== Monsters ====
+**WARNING**: Members of these species should discuss with their traveling companions and GM before entering the realm, as they can have effects on the group and the entire duration of their time here (some species may even be attacked on sight in most places). The caution about Weird species above applies to these as well, and many are not found in this realm.
+
+  * Bugbear
+  * Goblin
+  * Hobgoblin
+  * Minotaur
+  * Shifter (Human + Lycanthrope)
+  * Simic Hybrid
+  * Yuan-Ti Pureblood
+
+==== Non-compatible with this world ====
+  * Kalashtar (there is no plane of dreams here, and ghosts are not usually lawful good)
+  * Kenku (ask for GM permission if you REALLY want to join as a person with no voice of their own; something like a crow Aarakocra rogue would probably be better suited)
+  * Warforged (mechanical constructs function very differently here than in Eberron)
+  * Anything not yet on this list; see GM

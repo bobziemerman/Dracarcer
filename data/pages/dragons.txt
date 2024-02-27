@@ -1,0 +1,126 @@
+====== A Field Guide to Draconology ======
+
+//"No matter its color, or its size, or the outcome; one way or another, a face-to-face encounter with a dragon will change your life."//
+
+- Ibram Erizor, Headmaster at the Kamidryma Academy of the Arcane Arts
+\\ 
+\\ 
+
+===== Foreword =====
+
+A great renaissance of dragon sightings has occurred in the centuries since the Dragonsurge, including amongst species of dragons previously thought extinct. This guide will attempt to provide basic details needed for identifying different species of dragons, as well as the necessary context required to interact with them as safely as is possible.
+
+Modern dragons are separated into three major categories of five subspecies each, based on their general appearance and overall demeanor: metallic dragons (those which possess scales that resemble metal, and a generally selfless disposition), gem dragons (those which possess scales that resemble gemstones, and a generally indifferent disposition toward others), and chromatic dragons (those which possess scales of a solid matte color, and a generally self-interested disposition). 
+
+===== Metallic dragons =====
+
+==== Gold dragons ====
+
+  * Habitat: Any
+  * Breath weapon: Fire (conical)
+  * Common activities: Self-organized into the peacekeeping organization called the Shining Justicars
+  * Guidance: Can often be relied upon by the well-intentioned to be generous and helpful. Commit any wrongdoing in the presence of a gold dragon at your own peril.
+
+==== Silver dragons ====
+
+  * Habitat: Mountains
+  * Breath weapon: Cold (conical)
+  * Common activities: Often dwell among humanoid society in disguise; specific whereabouts unknown
+  * Guidance: A silver dragon is likely to help those in need or those it cares about, but you are unlikely to know a silver dragon when you see one.
+
+==== Brass dragons ====
+
+  * Habitat: Desert, plains
+  * Breath weapon: Fire (linear)
+  * Common activities: Building up their treasure hordes taking on paid and pro-bono work as mercenaries or escorting merchant caravans, especially in the southern wastelands
+  * Guidance: A brass dragon's kindness is not unreliable in earning their help; but it is less reliable than coin.
+
+==== Bronze dragons ====
+
+  * Habitat: Coastal
+  * Breath weapon: Lightning (linear)
+  * Common activities: Unflinching vigilance in bolstering coastal land defenses against mock, and actual, threats
+  * Guidance: Bronze dragons make for incomparable allies, and incomparable enemies.
+
+==== Copper dragons ====
+
+  * Habitat: Dry; mountains or desert
+  * Breath weapon: Acid (linear)
+  * Common activities: Hiding their treasure hordes behind complex and labyrinthine dungeons
+  * Guidance: Copper dragons are unpredictable, but love the spotlight and company. The best way to get on their good side is to entertain them as much as they will try to entertain you.
+
+
+===== Gem dragons =====
+
+==== Amethyst dragons ====
+
+  * Habitat: Any
+  * Breath weapon: Lightning (linear)
+  * Common activities: Managing the affairs of their constituents
+  * Guidance: Amethyst dragons are proud to a fault, and they have no patience whatsoever for people who don't treat them as the royalty they believe themselves to be.
+
+==== Emerald dragons ====
+
+  * Habitat: Tropical
+  * Breath weapon: Poison (conical)
+  * Common activities: Stockpiling a hoard of knowledge
+  * Guidance: Emerald dragons are usually indifferent to humanoids' affairs; just don't get between them and whatever ancient tome they're searching for that tenday.
+
+==== Sapphire dragons ====
+
+  * Habitat: Underwater
+  * Breath weapon: Lightning (linear)
+  * Common activities: In a battle or planning the next one
+  * Guidance: Sapphire dragons are just as brilliant at strategy as their bronze counterparts, but much less willing to give you the benefit of the doubt. Do not give them a reason to want to destroy you; they will savor the challenge.
+
+==== Crystal dragons ====
+
+  * Habitat: Cold, mountains
+  * Breath weapon: Cold (linear)
+  * Common activities: Trying to get some peace and quiet
+  * Guidance: Crystal dragons simply want to be left in peace to manage their icy lairs; but the Istovian mountains are a very noisy place these days. If you can help solve whatever their current problem is, you'll earn their favor.
+
+==== Topaz dragons ====
+
+  * Habitat: Coastal, desert
+  * Breath weapon: Fire (conical)
+  * Common activities: Hunting
+  * Guidance: Topaz dragons are difficult to reason with, and are best avoided if at all possible.
+
+
+===== Chromatic dragons =====
+
+==== Red dragons ====
+
+  * Habitat: Mountains, hills
+  * Breath weapon: Fire (conical)
+  * Common activities: Reminding anyone in their chosen region of their power and authority
+  * Guidance: Red dragons demand respect, fear, and obedience from all they encounter; and these things are best given unless you're //absolutely// sure you know what you're doing.
+
+==== Blue dragons ====
+
+  * Habitat: Desert, coastal
+  * Breath weapon: Lightning (linear)
+  * Common activities: Commandeering their share of any wealth and trade goods left unprotected (though not necessarily unclaimed)
+  * Guidance: If you encounter a blue dragon, you're either leaving with half of what you came with, or the dragon's hoard in tow. If you leave at all.
+
+==== Green dragons ====
+
+  * Habitat: Forest
+  * Breath weapon: Poison (conical)
+  * Common activities: Hunting for food and intruders
+  * Guidance: Green dragons are apex predators and territorial, but will generally not actively hunt purely for sport as long as their needs are met.
+
+==== Black dragons ====
+
+  * Habitat: Swamps
+  * Breath weapon: Acid (linear)
+  * Common activities: Hunting for the weak and unsuspecting
+  * Guidance: Black dragons are only ever in pursuit of the suffering of others; do not trust one who says anything to the contrary.
+
+==== White dragons ====
+
+  * Habitat: Arctic
+  * Breath weapon: Cold (conical)
+  * Common activities: Hunting for threats to its dominance
+  * Guidance: White dragons are difficult to reason with, and are best avoided if at all possible.

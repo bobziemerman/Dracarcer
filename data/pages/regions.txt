@@ -1,0 +1,39 @@
+====== Atlas of Aidilon ======
+
+//"The land has a soul, and a story to tell; that's why places look different year after year, but never really change. Kingdoms and legacies rise and fall, but the land will always be exactly as it must."//
+
+- Magister Dynsbecc Gumjuss, Druid of the First Order
+\\ 
+\\ 
+===== Regions of the Realm =====
+
+  * [[permafrost|The Permafrost]]: The icy, mountainous climate isn't the only thing here that can be harsh and inhospitable
+  * [[redweald|The Redweald]]: An ominous forest of perpetual dusk, home to all the things that go bump in the night
+  * [[blackmire|The Blackmire]]: A tropical swamp where dragons play chess with their constituents' lives
+  * [[fellwood|The Fellwood]]: A dense, piny forest full of men and monsters; many are both
+  * [[feyboughs|The Feyboughs]]: The pristine, sunny hills where your fortunes often lie in the fickle fingers of the Fey.
+  * [[badlands|The Badlands]]: A dry, rocky expanse granting unparalleled freedom to run; but nowhere to hide
+  * [[wasteland|The Wasteland]]: Scorched deserts and mountains offer only riches and death
+
+
+===== Days, Tendays, and Seasons =====
+
+Dracarcer's calendar year is broken up into eight seasons of 50 days each, each of which begins with a holiday that often lasts a tenday:
+    * Greenig (spring)
+      * The Dawning Festival: a celebration of emergence from winter and the beginning of the planting season
+    * Nightwane (spring-summer)
+      * TODO
+    * Kalokairi (summer)
+      * Shieldmeet: a competition of skill where challengers from all over compete for glory
+    * Elysias (summer-fall)
+      * TODO
+    * The Gather (fall)
+      * The Feast of the Gather: a celebration of the year's harvest
+    * Rimescask (fall-winter)
+      * Hearthrest: a time of resting and preparation for the cold nights ahead
+    * Calignos (winter)
+      * Bigyan regalo: a tradition of trading special gifts with loved ones and friends
+    * Frostfleer (winter-spring)
+      * The Ancestor Celebration: a time of remembering, celebrating, and honoring those in the past
+
+{{url>https://www.bobzimmerman.info/aidilon-map/ 1000, 824}}

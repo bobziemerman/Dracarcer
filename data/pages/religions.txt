@@ -1,0 +1,54 @@
+====== Paxwell's Primer on Polytheism ======
+
+//"Being a cleric is a lot like having a steady kingdom job: you follow the rules, you say the right words, you put in your time; and if the king likes you (and knows who you are), he might just grant you that favor you need when you ask for it. But never get so high and mighty that you forget that the king has a lot going on besides you and your troubles. And if you step too far out of line, you can get a lot worse than fired..."//
+
+- Chaplain Barnum Hollyfuss, Cleric of Dathos
+\\ 
+\\ 
+===== Out with the old, or out with the new? =====
+
+During the Great Cataclysm, rumors spread that the gods that people had worshiped for centuries may in fact be imposters, and that //they// were the cause of the massive destruction that was reshaping the continent. In response, some people gathered together in worship of a new god, Kaa'nali, who they claimed would put an end to the chaos. When the dust settled, no one could be sure who was responsible for everything that happened: had the old gods been thwarted by a new challenger, or had they put an end to the plans of an upstart opportunist?
+
+The modern day worshiper's views of the gods can be complicated: some worship Kaa'nali as their savior from a pantheon of monsters, some worship him alongside the old gods as a new member of the family, and some consider any mention of his name in prayer to be blasphemy. And then of course there are those who, for whatever reason, don't see fit to acknowledge any god at all. These religious tensions have yet to truly come to a head in most places, but are often simmering just below the surface...
+
+===== Index of commonly worshiped gods =====
+
+  * Kaa'nali: God of Change
+    * Cleric title: Caliph
+    * Seen by his followers as the god of all things, and **can be associated with any domain**
+    * Commonly worshiped by Dragonborn
+    * Mantra: "All that you touch You Change. All that you Change Changes you. The only lasting truth is Change. God is Change." (quote by Octavia Butler)
+  * Na'issa: Goddess of **Nature** and **Life**
+    * Cleric title: Pastor
+    * Sister to Kantos
+    * Commonly worshiped by Halflings
+    * Patron saint of Druids, Rangers, and other folk of the wilds
+  * Kantos: God of **Death** and the **Grave**
+    * Cleric title: Faustus
+    * Brother to Na'issa
+    * Commonly worshiped by Humans
+  * Faus: God of **Light**
+    * Cleric title: Curate
+    * Commonly worshiped by Gnomes
+  * Dathos: God of **Order**
+    * Cleric title: Chaplain
+  * Kairys: Goddess of **Arcana** and **Knowledge**
+    * Cleric title: Confessor
+    * Commonly worshiped by Elves
+    * Patron saint of Wizards and other scholars
+  * Edda: Goddess of the **Forge**
+    * Cleric title: Elder
+    * Commonly worshiped by Dwarves
+  * Erony: Goddess of **Twilight**
+    * Cleric title: Minister
+  * Kota: God of **Trickery**
+    * Cleric title: Vicar
+    * Patron saint of Rogues and thieves
+  * Khorzh: God of **War** and the **Tempest**
+    * Cleric title: Mog
+    * Commonly worshiped by Orcs
+    * Patron saint of Barbarians, Fighters, and other warriors
+  * Hroknar: God of Blood, Ice, and Stone
+    * Cleric title: Cardinal
+    * Seen by his followers as the god of all things, and **can be associated with any domain**
+    * Worshiped mostly by those in the [[permafrost]] still loyal to the fallen empire of Istovia, which was taken over by the Church of Hroknar
