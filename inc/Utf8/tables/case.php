@@ -1,4 +1,5 @@
 <?php
+
 /**
  * UTF-8 Case lookup table
  *
@@ -7,6 +8,7 @@
  *
  * @author Andreas Gohr <andi@splitbrain.org>
  */
+
 return [
     'A' => 'a',
     'B' => 'b',
@@ -239,7 +241,7 @@ return [
     'Ο' => 'ο',
     'Π' => 'π',
     'Ρ' => 'ρ',
-    'Σ' => 'ς',
+    'Σ' => 'σ',
     'Τ' => 'τ',
     'Υ' => 'υ',
     'Φ' => 'φ',

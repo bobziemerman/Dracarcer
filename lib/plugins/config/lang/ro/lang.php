@@ -4,14 +4,9 @@
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
  *
  * @author Sergiu Baltariu <s_baltariu@yahoo.com>
- * @author s_baltariu@yahoo.com
  * @author Emanuel-Emeric Andrasi <n30@mandrivausers.ro>
- * @author Emanuel-Emeric Andrași <n30@mandrivausers.ro>
  * @author Emanuel-Emeric Andraşi <em.andrasi@mandrivausers.ro>
- * @author Emanuel-Emeric Andrasi <em.andrasi@mandrivausers.ro>
  * @author Marius OLAR <olarmariusalex@gmail.com>
- * @author Marius Olar <olarmariusalex@yahoo.com>
- * @author Emanuel-Emeric Andrași <em.andrasi@mandrivausers.ro>
  */
 $lang['menu']                  = 'Setări de Configurare';
 $lang['error']                 = 'Setări nu au fost actualizate datorită unei valori incorecte; verificaţi modificările şi încercaţi din nou. <br /> Valorile incorecte vor apărea într-un chenar roşu.';
@@ -94,8 +89,6 @@ $lang['indexdelay']            = 'Timpul de întârziere înainte de indexare (s
 $lang['mailguard']             = 'Adrese de email acoperite';
 $lang['iexssprotect']          = 'Verifică fişierele încărcate pentru posibil cod periculos JavaScript sau HTML';
 $lang['usedraft']              = 'Salvează automat o schiţă în timpul editării';
-$lang['htmlok']                = 'Permite intercalare cod HTML';
-$lang['phpok']                 = 'Permite intercalare cod PHP';
 $lang['locktime']              = 'Durata maximă pentru blocarea fişierelor (secunde)';
 $lang['cachetime']             = 'Durata maximă pentru cache (secunde)';
 $lang['target____wiki']        = 'Fereastra ţintă pentru legăturile interne';
@@ -145,12 +138,6 @@ $lang['proxy____user']         = 'Nume utilizator Proxy';
 $lang['proxy____pass']         = 'Parolă Proxy';
 $lang['proxy____ssl']          = 'Foloseşte SSL pentru conectare la Proxy';
 $lang['proxy____except']       = 'Expresie regulară de potrivit cu URL-uri pentru care proxy-ul trebuie păsuit.';
-$lang['safemodehack']          = 'Activează safemode hack';
-$lang['ftp____host']           = 'Server FTP pentru safemode hack';
-$lang['ftp____port']           = 'Port FTP pentru safemode hack';
-$lang['ftp____user']           = 'Nume utilizator pentru safemode hack';
-$lang['ftp____pass']           = 'Parolă FTP pentru safemode hack';
-$lang['ftp____root']           = 'Director rădăcină FTP pentru safemode hack';
 $lang['license_o_']            = 'Nici una aleasă';
 $lang['typography_o_0']        = 'nimic';
 $lang['typography_o_1']        = 'Numai ghilimele duble';

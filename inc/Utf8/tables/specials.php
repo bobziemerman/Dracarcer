@@ -1,4 +1,5 @@
 <?php
+
 /**
  * UTF-8 array of common special characters
  *
@@ -13,6 +14,7 @@
  * @author Andreas Gohr <andi@splitbrain.org>
  * @see    \dokuwiki\Utf8\Clean::stripspecials()
  */
+
 return [
     0x1a, // 
     0x1b, // 
@@ -130,11 +132,6 @@ return [
     0x384, // ΄
     0x385, // ΅
     0x387, // ·
-    0x3c6, // φ
-    0x3d1, // ϑ
-    0x3d2, // ϒ
-    0x3d5, // ϕ
-    0x3d6, // ϖ
     0x5b0, // ְ
     0x5b1, // ֱ
     0x5b2, // ֲ
@@ -613,8 +610,8 @@ return [
     0x1d71a, // 𝜚
     0x1d71b, // 𝜛
     0xc2a0, // 슠
-    0xe28087, // 
-    0xe280af, // 
-    0xe281a0, // 
-    0xefbbbf, // 
+    0xe28087, //
+    0xe280af, //
+    0xe281a0, //
+    0xefbbbf, //
 ];

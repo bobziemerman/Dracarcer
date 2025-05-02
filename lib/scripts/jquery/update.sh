@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 #
 # This script loads the latest jQuery and jQuery-UI 1.* versions from jQuery's CDN
 #
@@ -8,7 +8,7 @@
 # @author Stefan Grönke <stefan@gronke.net>
 # @link   http://code.jquery.com/
 
-# load version infor from external file
+# load version info from external file
 source ./versions
 JQUI_HOST="https://code.jquery.com/ui/$JQUI_VERSION"
 JQUI_GIT="https://raw.githubusercontent.com/jquery/jquery-ui/$JQUI_VERSION/ui"

@@ -3,6 +3,13 @@
 /**
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
  *
+ * @author Simone Perin <simoneperin.92@libero.it>
+ * @author Dario <darioriso@virgilio.it>
+ * @author Filippo <abrickslife@gmail.com>
+ * @author Roberto Bellingeri <bellingeri@netguru.it>
+ * @author Eddy <eddy@mail.it>
+ * @author Riccardo <riccardo.furlato@gmail.com>
+ * @author Stefano <stefano.stefano@gmail.com>
  * @author damiano <damiano@spagnuolo.eu>
  * @author Torpedo <dgtorpedo@gmail.com>
  * @author Giorgio Vecchiocattivi <giorgio@vecchio.it>
@@ -21,7 +28,6 @@
  * @author Francesco <francesco.cavalli@hotmail.com>
  * @author Fabio <fabioslurp@yahoo.it>
  * @author Maurizio <mcannavo@katamail.com>
- * @author Riccardo <riccardofila@gmail.com>
  * @author Paolo <paolopoz12@gmail.com>
  */
 $lang['encoding']              = 'utf-8';
@@ -128,6 +134,7 @@ $lang['js']['media_done_btn']  = 'Fatto';
 $lang['js']['media_drop']      = 'Sgancia i files qui per caricarli';
 $lang['js']['media_cancel']    = 'rimuovi';
 $lang['js']['media_overwrt']   = 'Sovrascrivi i file esistenti';
+$lang['js']['data_insecure']   = 'ATTENZIONE: sembra che la cartella "data" non sia adeguatamente protetta. Vedi <a href="https://www.dokuwiki.org/security#web_access_security">Sicurezza Accesso Web in DokuWiki</a>.';
 $lang['search_exact_match']    = 'Corrispondenza esatta';
 $lang['search_starts_with']    = 'Comincia con';
 $lang['search_ends_with']      = 'Finisce con';
@@ -135,6 +142,11 @@ $lang['search_contains']       = 'Contiene';
 $lang['search_custom_match']   = 'Personalizza';
 $lang['search_any_ns']         = 'Qualsiasi spazio dei nomi';
 $lang['search_any_time']       = 'Ogni volta';
+$lang['search_past_7_days']    = 'scorsa settimana';
+$lang['search_past_month']     = 'scorso mese';
+$lang['search_past_year']      = 'scorso anno';
+$lang['search_sort_by_hits']   = 'ordinato per selezione';
+$lang['search_sort_by_mtime']  = 'ordinato per ultima modifica';
 $lang['regmissing']            = 'Devi riempire tutti i campi.';
 $lang['reguexists']            = 'Il nome utente inserito esiste già.';
 $lang['regsuccess']            = 'L\'utente è stato creato. La password è stata spedita via email.';
@@ -171,6 +183,7 @@ $lang['txt_upload']            = 'Seleziona un file da caricare:';
 $lang['txt_filename']          = 'Carica come (opzionale):';
 $lang['txt_overwrt']           = 'Sovrascrivi file esistente';
 $lang['maxuploadsize']         = 'Upload max. %s per ogni file.';
+$lang['allowedmime']           = 'Elenco delle estensioni di file consentite';
 $lang['lockedby']              = 'Attualmente bloccato da:';
 $lang['lockexpire']            = 'Il blocco scade alle:';
 $lang['rssfailed']             = 'Si è verificato un errore cercando questo feed: ';
@@ -224,7 +237,8 @@ $lang['created']               = 'creata';
 $lang['restored']              = 'versione precedente ripristinata (%s)';
 $lang['external_edit']         = 'modifica esterna';
 $lang['summary']               = 'Oggetto della modifica';
-$lang['noflash']               = 'E\' necessario <a href="http://www.adobe.com/products/flashplayer/">il plugin Adobe Flash</a> per visualizzare questo contenuto.';
+$lang['unknowndate']           = 'Data sconosciuta';
+$lang['noflash']               = 'E\' necessario <a href="http://get.adobe.com/flashplayer">il plugin Adobe Flash</a> per visualizzare questo contenuto.';
 $lang['download']              = 'Scarica lo "snippet"';
 $lang['tools']                 = 'Strumenti';
 $lang['user_tools']            = 'Strumenti Utente';
@@ -306,10 +320,13 @@ $lang['i_superuser']           = 'Amministratore';
 $lang['i_problems']            = 'Si sono verificati problemi durante l\'installazione, indicati di seguito. Non è possibile continuare finché non saranno risolti.';
 $lang['i_modified']            = 'Per motivi di sicurezza questa procedura funziona solamente con un\'installazione Dokuwiki nuova e non modificata.
 Prova a estrarre di nuovo i file dal pacchetto scaricato oppure consulta le
-<a href="http://dokuwiki.org/install">istruzioni per l\'installazione di Dokuwiki</a>';
+<a href="https://www.dokuwiki.org/install">istruzioni per l\'installazione di Dokuwiki</a>';
 $lang['i_funcna']              = 'La funzione PHP <code>%s</code> non è disponibile. Forse è stata disabilitata dal tuo provider per qualche motivo?';
+$lang['i_disabled']            = 'E\' stato disabilitato dal tuo provider di servizi.';
+$lang['i_funcnmail']           = '<b>Nota:</b> La funzione mail PHP non è disponibile. %s Se rimane non disponibile, puoi provare ad installare <a href="https://www.dokuwiki.org/plugin:smtp">smtp plugin</a>.';
 $lang['i_phpver']              = 'La versione di PHP <code>%s</code> è inferiore a quella richiesta <code>%s</code>. Devi aggiornare l\'installazione di PHP.';
 $lang['i_mbfuncoverload']      = 'mbstring.func_overload deve essere disabilitato in php.ini per eseguire DokuWiki.';
+$lang['i_urandom']             = 'DokuWiki non può creare un numero crittograficamente sicuro di cookies. Puoi provare a controllare sulle impostazioni open_basedir su php.ini per un corretto <code>/dev/urandom</code> accesso.';
 $lang['i_permfail']            = 'DokuWiki non può scrivere <code>%s</code>. E\' necessario correggere i permessi per questa directory!';
 $lang['i_confexists']          = '<code>%s</code> esiste già';
 $lang['i_writeerr']            = 'Impossibile creare <code>%s</code>. E\' necessario verificare i permessi della directory o del file oppure creare il file manualmente.';
@@ -360,6 +377,7 @@ $lang['media_perm_upload']     = 'Spiacente, non hai abbastanza privilegi per ca
 $lang['media_update']          = 'Carica nuova versione';
 $lang['media_restore']         = 'Ripristina questa versione';
 $lang['media_acl_warning']     = 'Questa lista potrebbe non essere completa a causa di restrizioni ACL e pagine nascoste.';
+$lang['email_fail']            = 'PHP mail () è assente o disabilitato. La seguente email non è stata inviata:';
 $lang['currentns']             = 'Namespace corrente';
 $lang['searchresult']          = 'Risultati della ricerca';
 $lang['plainhtml']             = 'HTML';

@@ -3,7 +3,10 @@
 /**
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
  *
+ * @author mod <modex@mail.ru>
+ * @author Impeck <impeck@ya.ru>
  * @author Aleksandr Selivanov <alexgearbox@yandex.ru>
+ * @author Анатолий <anatol_m@mail.ru>
  * @author Igor Degraf <igordegraf@gmail.com>
  * @author Type-kun <workwork-1@yandex.ru>
  * @author Vitaly Filatenko <kot@hacktest.net>
@@ -77,9 +80,11 @@ $lang['msg_template_update_success'] = 'Шаблон %s успешно обно�
 $lang['msg_plugin_install_success'] = 'Плагин %s успешно установлен';
 $lang['msg_plugin_update_success'] = 'Плагин %s успешно обновлён';
 $lang['msg_upload_failed']     = 'Не удалось загрузить файл';
+$lang['msg_nooverwrite']       = 'Расширение %s уже существует, поэтому оно не перезаписано; для перезаписи отметьте опцию перезаписи';
 $lang['missing_dependency']    = '<strong>Отсутствует или отключена зависимость:</strong> %s';
 $lang['security_issue']        = '<strong>Проблема безопасности:</strong> %s';
 $lang['security_warning']      = '<strong>Предупреждение безопасности:</strong> %s';
+$lang['update_message']        = '<strong>Сообщение об обновлении:</strong> %s';
 $lang['update_available']      = '<strong>Обновление:</strong> доступна новая версия %s';
 $lang['wrong_folder']          = '<strong>Плагин установлен неправильно:</strong> переименуйте директорию плагина из %s в %s';
 $lang['url_change']            = '<strong>Ссылка изменилась:</strong> ссылка для загрузки изменилась с&nbsp;прошлого раза. Проверьте новую ссылку прежде, чем обновлять дополнение.<br />Новая: %s<br />Старая: %s';
@@ -96,5 +101,6 @@ $lang['git']                   = 'Это дополнение было уста�
 $lang['auth']                  = 'Этот auth-плагин не включён в конфигурации, подумайте об его отключении';
 $lang['install_url']           = 'Установить с адреса';
 $lang['install_upload']        = 'Загрузить дополнение';
-$lang['repo_error']            = 'Сайт с плагинами недоступен. Убедитесь, что у сайта есть доступ на www.dokuwiki.org, а также проверьте настройки соединения прокси.';
-$lang['nossl']                 = 'Ваша PHP-конфигурация не имеет SSL-поддержки. Это нарушит скачивание для многих дополнений.';
+$lang['repo_badresponse']      = 'Репозиторий плагинов вернул недопустимый ответ.';
+$lang['repo_error']            = 'Репозиторий плагина недоступен. Убедитесь, что у вашей вики есть доступ к www.dokuwiki.org, а также проверьте настройки соединения прокси.';
+$lang['nossl']                 = 'Ваша конфигурация PHP не имеет поддержки SSL. Это нарушит скачивание для многих дополнений.';

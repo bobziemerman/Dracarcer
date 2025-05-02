@@ -1,2 +1,9 @@
 <?php
-dbg_deprecated('Autoloading. Do not require() files yourself.');
+
+use dokuwiki\Debug\DebugHelper;
+
+DebugHelper::dbgDeprecatedFunction(
+    'Autoloading',
+    1,
+    'require(' . basename(__FILE__) . ')'
+);

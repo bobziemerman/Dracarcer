@@ -1,4 +1,5 @@
 <?php
+
 /**
  * UTF-8 lookup table for lower case accented letters
  *
@@ -8,6 +9,7 @@
  * @author Andreas Gohr <andi@splitbrain.org>
  * @see    \dokuwiki\Utf8\Clean::deaccent()
  */
+
 return [
     'á' => 'a',
     'à' => 'a',
@@ -53,6 +55,7 @@ return [
     'ĩ' => 'i',
     'į' => 'i',
     'ī' => 'i',
+    'ı' => 'i',
     'ĵ' => 'j',
     'ķ' => 'k',
     'ĺ' => 'l',

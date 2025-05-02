@@ -3,7 +3,13 @@
 /**
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
  *
+ * @author cadetill <cadetill@gmail.com>
+ * @author Guillermo Romero <drirr.gato@gmail.com>
+ * @author Luna Frax <lunafrax@gmail.com>
  * @author Domingo Redal <docxml@gmail.com>
+ * @author Liliana <lilianasaidon@gmail.com>
+ * @author Alex Cachinero <anarres@protonmail.com>
+ * @author WIRESLINKEA <wireslinkea@gmail.com>
  * @author Zigor Astarbe <zigor@astarbe.com>
  * @author Adrián Ariza <adrian_ariza.ciudad.com.ar>
  * @author Gabiel Molina <gabriel191@gmail.com>
@@ -104,10 +110,10 @@ $lang['badpassconfirm']        = 'Lo siento, la contraseña es errónea';
 $lang['minoredit']             = 'Cambios menores';
 $lang['draftdate']             = 'Borrador guardado automáticamente:';
 $lang['nosecedit']             = 'La página ha cambiado en el lapso, la información de sección estaba anticuada, en su lugar se cargó la página completa.';
-$lang['searchcreatepage']      = 'Si no encontró lo que estaba buscando, puede crear o editar la página %s, nombrada después de su consulta.';
+$lang['searchcreatepage']      = 'Si no econtraste lo que estabas buscando, puedes crear o editar la página %s, nombrada después de tu consulta.';
 $lang['search_fullresults']    = 'Resultados de texto completo';
 $lang['js']['search_toggle_tools'] = 'Alternar herramientas de búsqueda';
-$lang['js']['willexpire']      = 'El bloqueo para la edición de esta página expira en un minuto.\nPAra prevenir conflictos uso el botón Previsualizar para restaurar el contador de bloqueo.';
+$lang['js']['willexpire']      = 'El bloqueo para la edición de esta página expira en un minuto.\nPAra prevenir conflictos usa el botón Previsualizar para restaurar el contador de bloqueo.';
 $lang['js']['notsavedyet']     = 'Los cambios que no se han guardado se perderán.
 ¿Realmente quieres continuar?';
 $lang['js']['searchmedia']     = 'Buscar archivos';
@@ -150,6 +156,7 @@ $lang['js']['media_done_btn']  = 'Hecho';
 $lang['js']['media_drop']      = 'Arrastra los ficheros aquí para cargar';
 $lang['js']['media_cancel']    = 'Eliminar';
 $lang['js']['media_overwrt']   = 'Sobreescribir ficheros exitentes';
+$lang['js']['data_insecure']   = 'ADVERTENCIA: Parece que su directorio de datos no está debidamente protegido. Por favor, lea sobre <a href="https://www.dokuwiki.org/security#web_access_security">Seguridad de acceso web en DokuWiki</a>.';
 $lang['search_exact_match']    = 'Coincidencia exacta';
 $lang['search_starts_with']    = 'Comienza con';
 $lang['search_ends_with']      = 'Termina con';
@@ -198,6 +205,7 @@ $lang['txt_upload']            = 'Selecciona el archivo a subir:';
 $lang['txt_filename']          = 'Subir como (opcional):';
 $lang['txt_overwrt']           = 'Sobreescribir archivo existente';
 $lang['maxuploadsize']         = 'Peso máximo de %s por archivo';
+$lang['allowedmime']           = 'Lista de extensiones de archivo permitidas';
 $lang['lockedby']              = 'Actualmente bloqueado por:';
 $lang['lockexpire']            = 'El bloqueo expira en:';
 $lang['rssfailed']             = 'Se ha producido un error mientras se leían los datos de este feed: ';
@@ -251,7 +259,8 @@ $lang['created']               = 'creado';
 $lang['restored']              = 'se ha restaurado la vieja versión (%s)';
 $lang['external_edit']         = 'editor externo';
 $lang['summary']               = 'Resumen de la edición';
-$lang['noflash']               = 'Para mostrar este contenido es necesario el <a href="http://www.adobe.com/products/flashplayer/">Plugin Adobe Flash</a>.';
+$lang['unknowndate']           = 'Fecha desconocida';
+$lang['noflash']               = 'Para mostrar este contenido es necesario el <a href="http://get.adobe.com/flashplayer">Plugin Adobe Flash</a>.';
 $lang['download']              = 'Descargar trozo de código fuente';
 $lang['tools']                 = 'Herramientas';
 $lang['user_tools']            = 'Herramientas de usuario';
@@ -331,10 +340,13 @@ $lang['i_wikiname']            = 'Nombre del wiki';
 $lang['i_enableacl']           = 'Habilitar ACL (recomendado) (ACL: lista de control de acceso)';
 $lang['i_superuser']           = 'Super-usuario';
 $lang['i_problems']            = 'El instalador encontró algunos problemas, se muestran abajo. No se puede continuar la instalación hasta que usted no los corrija.';
-$lang['i_modified']            = 'Por razones de seguridad este script sólo funcionará con una instalación nueva y no modificada de Dokuwiki. Usted debe extraer nuevamente los ficheros del paquete bajado, o bien consultar las <a href="http://dokuwiki.org/install">instrucciones de instalación de Dokuwiki</a> completas.';
+$lang['i_modified']            = 'Por razones de seguridad este script sólo funcionará con una instalación nueva y no modificada de Dokuwiki. Usted debe extraer nuevamente los ficheros del paquete bajado, o bien consultar las <a href="https://www.dokuwiki.org/install">instrucciones de instalación de Dokuwiki</a> completas.';
 $lang['i_funcna']              = 'La función de PHP <code>%s</code> no está disponible. ¿Tal vez su proveedor de hosting la ha deshabilitado por alguna razón?';
+$lang['i_disabled']            = 'Ha sido deshabilitado por su proveedor.';
+$lang['i_funcnmail']           = '<b>Nota:</b> La función de PHP mail() no está disponible. %s si no está disponible, puede instalar el <a href="https://www.dokuwiki.org/plugin:smtp">complemento smtp</a>.';
 $lang['i_phpver']              = 'Su versión de PHP <code>%s</code> es menor que la necesaria <code>%s</code>. Es necesario que actualice su instalación de PHP.';
 $lang['i_mbfuncoverload']      = 'mbstring.func_overload se debe deshabilitar en php.ini para que funcione DokuWiki.';
+$lang['i_urandom']             = 'DokuWiki no puede crear números criptográficamente seguros para las cookies. Es posible que desee verificar la configuración de open_basedir en php.ini para obtener el acceso apropiado a <code>/dev/urandom</code>.';
 $lang['i_permfail']            = 'DokuWili no puede escribir <code>%s</code>. ¡Es necesario establecer  correctamente los permisos de este directorio!';
 $lang['i_confexists']          = '<code>%s</code> ya existe';
 $lang['i_writeerr']            = 'Imposible crear <code>%s</code>. Se necesita que usted controle los permisos del fichero/directorio y que cree el fichero manualmente.';
@@ -385,6 +397,7 @@ $lang['media_perm_upload']     = 'Disculpa, no tienes los permisos necesarios pa
 $lang['media_update']          = 'Actualizar nueva versión';
 $lang['media_restore']         = 'Restaurar esta versión';
 $lang['media_acl_warning']     = 'Puede que esta lista no esté completa debido a restricciones de la ACL y a las páginas ocultas.';
+$lang['email_fail']            = 'La función de PHP mail() falta o está deshabilitada. No se envió el siguiente correo electrónico:';
 $lang['currentns']             = 'Espacio de nombres actual';
 $lang['searchresult']          = 'Resultado de la búsqueda';
 $lang['plainhtml']             = 'HTML sencillo';

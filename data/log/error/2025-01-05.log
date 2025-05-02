@@ -1,0 +1,6 @@
+2025-01-05 06:34:06	/home4/bobziemerman/public_html/aidilon/vendor/splitbrain/slika/src/GdAdapter.php(194)	E_ERROR: Allowed memory size of 536870912 bytes exhausted (tried to allocate 491638336 bytes)
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}
+2025-01-05 06:41:52	/home4/bobziemerman/public_html/aidilon/vendor/splitbrain/slika/src/GdAdapter.php(194)	E_ERROR: Allowed memory size of 536870912 bytes exhausted (tried to allocate 491638336 bytes)
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}

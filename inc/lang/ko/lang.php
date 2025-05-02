@@ -3,6 +3,10 @@
 /**
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
  *
+ * @author take <take@ruu.kr>
+ * @author merefox <admin@homerecz.com>
+ * @author pavement <pavement@rael.cc>
+ * @author Traend <Traend@ruu.kr>
  * @author Seungheon Song <esketch@gmail.com>
  * @author Hyun Kim <lawfully@gmail.com>
  * @author jk Lee
@@ -76,44 +80,10 @@ $lang['badpassconfirm']        = '죄송하지만 비밀번호가 잘못되었�
 $lang['minoredit']             = '사소한 바뀜';
 $lang['draftdate']             = '초안 자동 저장 시간';
 $lang['nosecedit']             = '한 동안 문서가 바뀌었으며, 문단 정보가 오래되어 문서 전체를 대신 열었습니다.';
-$lang['regmissing']            = '죄송하지만 모든 필드를 채워야 합니다.';
-$lang['reguexists']            = '죄송하지만 같은 이름을 사용하는 사용자가 있습니다.';
-$lang['regsuccess']            = '사용자 계정을 만들었으며 비밀번호는 이메일로 보냈습니다.';
-$lang['regsuccess2']           = '사용자 계정을 만들었습니다.';
-$lang['regfail']               = '사용자 계정을 만들 수 없었습니다.';
-$lang['regmailfail']           = '비밀번호를 이메일로 보내는 동안 오류가 발생했습니다. 관리자에게 문의해주세요!';
-$lang['regbadmail']            = '주어진 이메일 주소가 잘못되었습니다 - 오류라고 생각하면 관리자에게 문의해주세요';
-$lang['regbadpass']            = '두 주어진 비밀번호가 일치하지 않습니다, 다시 입력하세요.';
-$lang['regpwmail']             = '도쿠위키 비밀번호';
-$lang['reghere']               = '계정이 없나요? 계정을 등록하세요';
-$lang['profna']                = '이 위키는 프로필 수정을 할 수 없습니다';
-$lang['profnochange']          = '바뀐 내용이 없습니다.';
-$lang['profnoempty']           = '빈 이름이나 이메일 주소는 허용하지 않습니다.';
-$lang['profchanged']           = '프로필이 성공적으로 바뀌었습니다.';
-$lang['profnodelete']          = '이 위키는 사용자 계정 삭제를 지원하지 않습니다';
-$lang['profdeleteuser']        = '계정 삭제';
-$lang['profdeleted']           = '당신의 사용자 계정이 이 위키에서 삭제되었습니다';
-$lang['profconfdelete']        = '이 위키에서 내 계정을 제거하고 싶습니다. <br/> 이 행동은 되돌릴 수 없습니다.';
-$lang['profconfdeletemissing'] = '선택하지 않은 확인 상자를 확인';
-$lang['proffail']              = '사용자 프로필이 업데이트되지 않았습니다.';
-$lang['pwdforget']             = '비밀번호를 잊으셨나요? 비밀번호를 재설정하세요';
-$lang['resendna']              = '이 위키는 비밀번호 재설정을 지원하지 않습니다.';
-$lang['resendpwd']             = '다음으로 새 비밀번호 보내기';
-$lang['resendpwdmissing']      = '죄송하지만 모든 필드를 채워야 합니다.';
-$lang['resendpwdnouser']       = '죄송하지만 데이터베이스에서 이 사용자를 찾을 수 없습니다.';
-$lang['resendpwdbadauth']      = '죄송하지만 인증 코드가 올바르지 않습니다. 잘못된 확인 링크인지 확인하세요.';
-$lang['resendpwdconfirm']      = '확인 링크를 이메일로 보냈습니다.';
-$lang['resendpwdsuccess']      = '새 비밀번호를 이메일로 보냈습니다.';
-$lang['license']               = '별도로 명시하지 않을 경우, 이 위키의 내용은 다음 라이선스에 따라 사용할 수 있습니다:';
-$lang['licenseok']             = '참고: 이 문서를 편집하면 내용은 다음 라이선스에 따라 배포하는 데 동의합니다:';
-$lang['searchmedia']           = '파일 이름 검색:';
-$lang['searchmedia_in']        = '%s에서 검색';
-$lang['txt_upload']            = '올릴 파일 선택:';
-$lang['txt_filename']          = '올릴 파일 이름 (선택 사항):';
-$lang['txt_overwrt']           = '기존 파일에 덮어쓰기';
-$lang['maxuploadsize']         = '최대 올리기 용량. 파일당 %s.';
-$lang['lockedby']              = '현재 잠근 사용자:';
-$lang['lockexpire']            = '잠금 해제 시간:';
+$lang['searchcreatepage']      = '찾으려는 항목을 찾지 못한 경우, 쿼리 이름을 따서 %s 페이지를 만들거나 편집할 수 있습니다.
+';
+$lang['search_fullresults']    = '전체 텍스트 결과';
+$lang['js']['search_toggle_tools'] = '검색 도구 전환';
 $lang['js']['willexpire']      = '잠시 후 편집 잠금이 해제됩니다.\n편집 충돌을 피하려면 미리 보기를 눌러 잠금 시간을 다시 설정하세요.';
 $lang['js']['notsavedyet']     = '저장하지 않은 바뀜이 사라집니다.';
 $lang['js']['searchmedia']     = '파일 검색';
@@ -155,11 +125,59 @@ $lang['js']['media_done_btn']  = '완료';
 $lang['js']['media_drop']      = '올릴 파일을 여기에 끌어넣으세요';
 $lang['js']['media_cancel']    = '제거';
 $lang['js']['media_overwrt']   = '기존 파일에 덮어쓰기';
+$lang['js']['data_insecure']   = '경고: 데이터 디렉터리가 제대로 보호되지 않은 것 같습니다. <a href="https://www.dokuwiki.org/security#web_access_security">도쿠위키의 웹 엑세스 보안</a>에 대해 읽어보세요.';
+$lang['search_exact_match']    = '정확히 일치';
+$lang['search_starts_with']    = '시작';
+$lang['search_ends_with']      = '끝';
+$lang['search_any_ns']         = '모든 네임스페이스';
+$lang['search_past_7_days']    = '저번 주';
+$lang['search_past_month']     = '저번 달';
+$lang['search_past_year']      = '저번 년도';
+$lang['search_sort_by_hits']   = '조회수로 정렬';
+$lang['regmissing']            = '죄송하지만 모든 필드를 채워야 합니다.';
+$lang['reguexists']            = '죄송하지만 같은 이름을 사용하는 사용자가 있습니다.';
+$lang['regsuccess']            = '사용자 계정을 만들었으며 비밀번호는 이메일로 보냈습니다.';
+$lang['regsuccess2']           = '사용자 계정을 만들었습니다.';
+$lang['regfail']               = '사용자 계정을 만들 수 없었습니다.';
+$lang['regmailfail']           = '비밀번호를 이메일로 보내는 동안 오류가 발생했습니다. 관리자에게 문의해주세요!';
+$lang['regbadmail']            = '주어진 이메일 주소가 잘못되었습니다 - 오류라고 생각하면 관리자에게 문의해주세요';
+$lang['regbadpass']            = '두 주어진 비밀번호가 일치하지 않습니다, 다시 입력하세요.';
+$lang['regpwmail']             = '도쿠위키 비밀번호';
+$lang['reghere']               = '계정이 없나요? 계정을 등록하세요';
+$lang['profna']                = '이 위키는 프로필 수정을 할 수 없습니다';
+$lang['profnochange']          = '바뀐 내용이 없습니다.';
+$lang['profnoempty']           = '빈 이름이나 이메일 주소는 허용하지 않습니다.';
+$lang['profchanged']           = '프로필이 성공적으로 바뀌었습니다.';
+$lang['profnodelete']          = '이 위키는 사용자 계정 삭제를 지원하지 않습니다';
+$lang['profdeleteuser']        = '계정 삭제';
+$lang['profdeleted']           = '당신의 사용자 계정이 이 위키에서 삭제되었습니다';
+$lang['profconfdelete']        = '이 위키에서 내 계정을 제거하고 싶습니다. <br/> 이 행동은 되돌릴 수 없습니다.';
+$lang['profconfdeletemissing'] = '선택하지 않은 확인 상자를 확인';
+$lang['proffail']              = '사용자 프로필이 업데이트되지 않았습니다.';
+$lang['pwdforget']             = '비밀번호를 잊으셨나요? 비밀번호를 재설정하세요';
+$lang['resendna']              = '이 위키는 비밀번호 재설정을 지원하지 않습니다.';
+$lang['resendpwd']             = '다음으로 새 비밀번호 보내기';
+$lang['resendpwdmissing']      = '죄송하지만 모든 필드를 채워야 합니다.';
+$lang['resendpwdnouser']       = '죄송하지만 데이터베이스에서 이 사용자를 찾을 수 없습니다.';
+$lang['resendpwdbadauth']      = '죄송하지만 인증 코드가 올바르지 않습니다. 잘못된 확인 링크인지 확인하세요.';
+$lang['resendpwdconfirm']      = '확인 링크를 이메일로 보냈습니다.';
+$lang['resendpwdsuccess']      = '새 비밀번호를 이메일로 보냈습니다.';
+$lang['license']               = '별도로 명시하지 않을 경우, 이 위키의 내용은 다음 라이선스에 따라 사용할 수 있습니다:';
+$lang['licenseok']             = '참고: 이 문서를 편집하면 내용은 다음 라이선스에 따라 배포하는 데 동의합니다:';
+$lang['searchmedia']           = '파일 이름 검색:';
+$lang['searchmedia_in']        = '%s에서 검색';
+$lang['txt_upload']            = '올릴 파일 선택:';
+$lang['txt_filename']          = '올릴 파일 이름 (선택 사항):';
+$lang['txt_overwrt']           = '기존 파일에 덮어쓰기';
+$lang['maxuploadsize']         = '최대 올리기 용량. 파일당 %s.';
+$lang['allowedmime']           = '허용된 파일 확장자 리스트';
+$lang['lockedby']              = '현재 잠근 사용자:';
+$lang['lockexpire']            = '잠금 해제 시간:';
 $lang['rssfailed']             = '이 피드를 가져오는 동안 오류가 발생했습니다:';
 $lang['nothingfound']          = '아무 것도 없습니다.';
 $lang['mediaselect']           = '미디어 파일';
 $lang['uploadsucc']            = '올리기 성공';
-$lang['uploadfail']            = '올리기가 실패되었습니다. 잘못된 권한 때문일지도 모릅니다.';
+$lang['uploadfail']            = '올리기가 실패되었습니다. 잘못된 ';
 $lang['uploadwrong']           = '올리기가 거부되었습니다. 금지된 파일 확장자입니다!';
 $lang['uploadexist']           = '파일이 이미 존재합니다.';
 $lang['uploadbadcontent']      = '올린 파일이 %s 파일 확장자와 일치하지 않습니다.';
@@ -206,7 +224,7 @@ $lang['created']               = '만듦';
 $lang['restored']              = '이전 판으로 되돌림 (%s)';
 $lang['external_edit']         = '바깥 편집';
 $lang['summary']               = '편집 요약';
-$lang['noflash']               = '이 내용을 표시하기 위해서 <a href="http://www.adobe.com/products/flashplayer/">Adobe Flash 플러그인</a>이 필요합니다.';
+$lang['noflash']               = '이 내용을 표시하기 위해서 <a href="http://get.adobe.com/flashplayer">Adobe Flash 플러그인</a>이 필요합니다.';
 $lang['download']              = '조각 다운로드';
 $lang['tools']                 = '도구';
 $lang['user_tools']            = '사용자 도구';
@@ -350,3 +368,5 @@ $lang['wikimarkup']            = '위키 문법';
 $lang['page_nonexist_rev']     = '문서가 %s에 존재하지 않았습니다. 그 뒤로 <a href="%s">%s</a>에 만들어졌습니다.';
 $lang['unable_to_parse_date']  = '"%s" 변수에서 구문 분석할 수 없습니다.';
 $lang['email_signature_text']  = '이 메일은 @DOKUWIKIURL@에서 도쿠위키가 생성했습니다';
+$lang['log_file_failed_to_open'] = '로그 파일을 열지 못했습니다.';
+$lang['log_file_failed_to_read'] = '로그를 읽는 동안 오류가 발생했습니다.';
